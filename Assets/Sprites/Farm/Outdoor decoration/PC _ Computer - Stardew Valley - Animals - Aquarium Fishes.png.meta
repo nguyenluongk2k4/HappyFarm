@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: 5e1ec716ab1d017418afa0921ef3c96e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8358400576513257986
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_0
+  - first:
+      213: 4211733693525893256
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_1
+  - first:
+      213: 3402431496908822040
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_2
+  - first:
+      213: 1511385702068821480
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_3
+  - first:
+      213: -906071147516953580
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_4
+  - first:
+      213: -3550324499812391072
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_5
+  - first:
+      213: 3622192315771406035
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_6
+  - first:
+      213: -7074569969099758561
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_7
+  - first:
+      213: -5810581852193934
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_8
+  - first:
+      213: 7825169242849307012
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_9
+  - first:
+      213: -341190735831951628
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_10
+  - first:
+      213: -8849493428081488979
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_11
+  - first:
+      213: -6840391853190728568
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_12
+  - first:
+      213: 4356312952595699406
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_13
+  - first:
+      213: 4607045356008253108
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_14
+  - first:
+      213: 7797891108853042195
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_15
+  - first:
+      213: 6115733383985229716
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_16
+  - first:
+      213: 6478609510260769249
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_17
+  - first:
+      213: 627305279834146698
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_18
+  - first:
+      213: 2654173504100528457
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_19
+  - first:
+      213: 4234733537419609355
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_20
+  - first:
+      213: -6979065689482655147
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_21
+  - first:
+      213: -4288080051047259083
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_22
+  - first:
+      213: -2213272423765076725
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_23
+  - first:
+      213: 8129492427740672447
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_24
+  - first:
+      213: 2940309541795221218
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_25
+  - first:
+      213: 7002076743808297918
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_26
+  - first:
+      213: -7091994506682248954
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_27
+  - first:
+      213: 2595172191040769590
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_28
+  - first:
+      213: -7824643581087173603
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_29
+  - first:
+      213: -4858218110508670314
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_30
+  - first:
+      213: 7773302885091717825
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_31
+  - first:
+      213: 6766498994349306916
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_32
+  - first:
+      213: 4476164060715710643
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_33
+  - first:
+      213: -8395913389595910158
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_34
+  - first:
+      213: -6117497805024625992
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_35
+  - first:
+      213: -7851428662305351906
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_36
+  - first:
+      213: 5877541405350304841
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_37
+  - first:
+      213: 6369418286568365403
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_38
+  - first:
+      213: -7563163613078795902
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_39
+  - first:
+      213: 3291148247776794618
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_40
+  - first:
+      213: 2291867958394364986
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_41
+  - first:
+      213: -4714032950106339232
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_42
+  - first:
+      213: -552971034244276820
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_43
+  - first:
+      213: -7539676359406266259
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_44
+  - first:
+      213: -5372900528848544719
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_45
+  - first:
+      213: -8599672043024826846
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_46
+  - first:
+      213: -2301633163000375362
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_47
+  - first:
+      213: 7297382746238670508
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_48
+  - first:
+      213: -4383029891557989035
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_49
+  - first:
+      213: 5501804690065926262
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_50
+  - first:
+      213: -8110010325467778568
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_51
+  - first:
+      213: 7520870635556408861
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_52
+  - first:
+      213: -3022196663387542169
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_53
+  - first:
+      213: 8340666559755822167
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_54
+  - first:
+      213: -4119923928671192298
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_55
+  - first:
+      213: -100089171908400058
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_56
+  - first:
+      213: -6341036938464352549
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_57
+  - first:
+      213: -2650904862650950084
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_58
+  - first:
+      213: 1933501474573132528
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_59
+  - first:
+      213: -2228966792822502486
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_60
+  - first:
+      213: 4160177302169194146
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_61
+  - first:
+      213: 5437949601084167222
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_62
+  - first:
+      213: -441946105536222059
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_63
+  - first:
+      213: -4934337305507686163
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_64
+  - first:
+      213: -6057252223276397528
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_65
+  - first:
+      213: -1344132173928509631
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_66
+  - first:
+      213: -1453139394696701436
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_67
+  - first:
+      213: 575617837982192461
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_68
+  - first:
+      213: -5357431634911508834
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_69
+  - first:
+      213: 147638723355863269
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_70
+  - first:
+      213: -5634037615951132646
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_71
+  - first:
+      213: -4332736625638435778
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_72
+  - first:
+      213: -5869293828493630509
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_73
+  - first:
+      213: -2140824477252827208
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_74
+  - first:
+      213: 3834626743450786194
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_75
+  - first:
+      213: 4979301774927860766
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_76
+  - first:
+      213: 1015544419312705551
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_77
+  - first:
+      213: 6187490638084799575
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_78
+  - first:
+      213: 6594486091326296374
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_79
+  - first:
+      213: 9020139215005438883
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_80
+  - first:
+      213: -1376172821290050433
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_81
+  - first:
+      213: -4409322465322276852
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_82
+  - first:
+      213: 2386859226293492247
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_83
+  - first:
+      213: 6152664886930596496
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_84
+  - first:
+      213: 1195159961345801907
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_85
+  - first:
+      213: 5749702651931649092
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_86
+  - first:
+      213: 1852357923017310184
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_87
+  - first:
+      213: -8551406093669338301
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_88
+  - first:
+      213: -5389765654496401797
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_89
+  - first:
+      213: -6836746300200721718
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_90
+  - first:
+      213: -6617501401267607801
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_91
+  - first:
+      213: 396087546520846268
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_92
+  - first:
+      213: -8588884092786314670
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_93
+  - first:
+      213: -2722840621547278705
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_94
+  - first:
+      213: -7509308309722975729
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_95
+  - first:
+      213: -3158760108647580192
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_96
+  - first:
+      213: -8295797683044536945
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_97
+  - first:
+      213: 5123572621901147051
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_98
+  - first:
+      213: 3434996344820029253
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_99
+  - first:
+      213: -1916006854535216909
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_100
+  - first:
+      213: 648679915094515031
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_101
+  - first:
+      213: 2185206933736298450
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_102
+  - first:
+      213: 646799219892296214
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_103
+  - first:
+      213: 3111713113363322823
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_104
+  - first:
+      213: 2373371772236454284
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_105
+  - first:
+      213: 6830570750693871917
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_106
+  - first:
+      213: -1114093089336008123
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_107
+  - first:
+      213: 159172926729400923
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_108
+  - first:
+      213: -8304051657929817937
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_109
+  - first:
+      213: -7290363804764771853
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_110
+  - first:
+      213: -5994208414775638461
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_111
+  - first:
+      213: 2669103250255950979
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_112
+  - first:
+      213: 64269558850082564
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_113
+  - first:
+      213: 2530388536939875113
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_114
+  - first:
+      213: 2151801419003972932
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_115
+  - first:
+      213: -2621446184389822098
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_116
+  - first:
+      213: 464656898597224165
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_117
+  - first:
+      213: 4957630041767022353
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_118
+  - first:
+      213: 3375239524089234916
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_119
+  - first:
+      213: -768576448563008564
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_120
+  - first:
+      213: 2821010238000836295
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_121
+  - first:
+      213: 3990481248910532827
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_122
+  - first:
+      213: 2646768450839971318
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_123
+  - first:
+      213: -3588570512738334481
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_124
+  - first:
+      213: 4039161232818773184
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_125
+  - first:
+      213: 3561807867209507246
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_126
+  - first:
+      213: -8907783355806047214
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_127
+  - first:
+      213: 5247249132566793911
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_128
+  - first:
+      213: -6093044576578886187
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_129
+  - first:
+      213: 6261702374743933957
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_130
+  - first:
+      213: -898682406672422102
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_131
+  - first:
+      213: 1282591205186454684
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_132
+  - first:
+      213: -1004763006510365682
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_133
+  - first:
+      213: 8335139502235055773
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_134
+  - first:
+      213: 5802251544219258505
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_135
+  - first:
+      213: -2819619688895875052
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_136
+  - first:
+      213: 5573440091884746944
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_137
+  - first:
+      213: 3847967347533585853
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_138
+  - first:
+      213: -6491641290423650357
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_139
+  - first:
+      213: -8012098789733128755
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_140
+  - first:
+      213: 1273311789476857904
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_141
+  - first:
+      213: 529638270850916580
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_142
+  - first:
+      213: 7846079866561841339
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_143
+  - first:
+      213: 8926653374392173683
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_144
+  - first:
+      213: 2900317048648829776
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_145
+  - first:
+      213: 5029823162734542527
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_146
+  - first:
+      213: 7264750238817683204
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_147
+  - first:
+      213: 1604384006932603590
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_148
+  - first:
+      213: 2227463746624784834
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_149
+  - first:
+      213: -7681059008295626530
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_150
+  - first:
+      213: 2561630826033323523
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_151
+  - first:
+      213: -6205321292481719445
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_152
+  - first:
+      213: 8486771869113617499
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_153
+  - first:
+      213: -959588305453012831
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_154
+  - first:
+      213: 2230199384348309684
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_155
+  - first:
+      213: 7316754209380271805
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_156
+  - first:
+      213: -7402660198940055543
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_157
+  - first:
+      213: -5362398086536848604
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_158
+  - first:
+      213: -1410449780484528361
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_159
+  - first:
+      213: 5419385564540934579
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_160
+  - first:
+      213: -33435626841094189
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_161
+  - first:
+      213: -318596360563861260
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_162
+  - first:
+      213: -3783211318208735931
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_163
+  - first:
+      213: 6504912006527953478
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_164
+  - first:
+      213: 1722430790411600774
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_165
+  - first:
+      213: 8253446936205887072
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_166
+  - first:
+      213: -5766682634989612074
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_167
+  - first:
+      213: 6076413145720702701
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_168
+  - first:
+      213: -3709584122766923370
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_169
+  - first:
+      213: 4588173877802512374
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_170
+  - first:
+      213: 7555692731264020399
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_171
+  - first:
+      213: 5141316341246838579
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_172
+  - first:
+      213: 5853926292685758910
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_173
+  - first:
+      213: -797316885378356608
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_174
+  - first:
+      213: 381697182579329658
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_175
+  - first:
+      213: -8469797357081026336
+    second: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023e752a010ff370800000000000000
+      internalID: 8358400576513257986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 286
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a723ca75137a30800000000000000
+      internalID: 4211733693525893256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 284
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816d9d96b6dd73f20800000000000000
+      internalID: 3402431496908822040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 286
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed9a62d94589f410800000000000000
+      internalID: 1511385702068821480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 284
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7507871dfc63f0800000000000000
+      internalID: -906071147516953580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 286
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e0578da6babec0800000000000000
+      internalID: -3550324499812391072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 285
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d644b158bc944230800000000000000
+      internalID: 3622192315771406035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 284
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14a925881412dd90800000000000000
+      internalID: -7074569969099758561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 286
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bf2cc7e4b5beff0800000000000000
+      internalID: -5810581852193934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 285
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489685387f5989c60800000000000000
+      internalID: 7825169242849307012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 285
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6151e55d8d34bf0800000000000000
+      internalID: -341190735831951628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 285
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab8c012d98403580800000000000000
+      internalID: -8849493428081488979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 285
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884371af9db0211a0800000000000000
+      internalID: -6840391853190728568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 286
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec656e5bc8bb47c30800000000000000
+      internalID: 4356312952595699406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 285
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62cf497538fef30800000000000000
+      internalID: 4607045356008253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 285
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccc5406aca73c60800000000000000
+      internalID: 7797891108853042195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 287
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fef653c137fd450800000000000000
+      internalID: 6115733383985229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 289
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18f814605a8e950800000000000000
+      internalID: 6478609510260769249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 283
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87cd3214d2a4b800800000000000000
+      internalID: 627305279834146698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 287
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417a245db485d420800000000000000
+      internalID: 2654173504100528457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 260
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05445837bbc4ca30800000000000000
+      internalID: 4234733537419609355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a054a6bb0652f90800000000000000
+      internalID: -6979065689482655147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 260
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534a3eca9edad74c0800000000000000
+      internalID: -4288080051047259083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05905ef470e841e0800000000000000
+      internalID: -2213272423765076725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f5b78a42c1d070800000000000000
+      internalID: 8129492427740672447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee456823f31ec820800000000000000
+      internalID: 2940309541795221218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba7bc23bf5c2160800000000000000
+      internalID: 7002076743808297918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 258
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601de28329c249d90800000000000000
+      internalID: -7091994506682248954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e05f1ab57e30420800000000000000
+      internalID: 2595172191040769590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d143247ae18496390800000000000000
+      internalID: -7824643581087173603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 260
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692e2c15e54249cb0800000000000000
+      internalID: -4858218110508670314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 260
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2396d0ac150eb60800000000000000
+      internalID: 7773302885091717825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 260
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247a332cfe67ed50800000000000000
+      internalID: 6766498994349306916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 260
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8745b5f778e1e30800000000000000
+      internalID: 4476164060715710643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 259
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff90307149bb7b80800000000000000
+      internalID: -8395913389595910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba764188284a1ba0800000000000000
+      internalID: -6117497805024625992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1718f3fa3f1a0390800000000000000
+      internalID: -7851428662305351906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1e8284c8319150800000000000000
+      internalID: 5877541405350304841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_38
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 259
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dd8cc5f28b46850800000000000000
+      internalID: 6369418286568365403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 241
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894748e3ce3a0790800000000000000
+      internalID: -7563163613078795902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af792e3e4e18cad20800000000000000
+      internalID: 3291148247776794618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 237
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34223ce3c95ecf10800000000000000
+      internalID: 2291867958394364986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068cc650204649eb0800000000000000
+      internalID: -4714032950106339232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 236
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1acc26c37358f0800000000000000
+      internalID: -552971034244276820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 238
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68dd2c4c40bd5790800000000000000
+      internalID: -7539676359406266259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 238
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c59749f6f9f65b0800000000000000
+      internalID: -5372900528848544719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 241
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb5a207d3d7a880800000000000000
+      internalID: -8599672043024826846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 237
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb79a1435d4fe00e0800000000000000
+      internalID: -2301633163000375362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 236
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6de9bc1f2854560800000000000000
+      internalID: 7297382746238670508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 236
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55564c139895c23c0800000000000000
+      internalID: -4383029891557989035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 239
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67825fe37365a5c40800000000000000
+      internalID: 5501804690065926262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_51
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 237
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13eb1e394737f80800000000000000
+      internalID: -8110010325467778568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_52
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 239
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e810aeeff7f5860800000000000000
+      internalID: 7520870635556408861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 237
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d2a6d95200f06d0800000000000000
+      internalID: -3022196663387542169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_54
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754a93c9b0000c370800000000000000
+      internalID: 8340666559755822167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfbe1e30713d6c0800000000000000
+      internalID: -4119923928671192298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_56
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 242
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c698ead696c9ef0800000000000000
+      internalID: -100089171908400058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6a33f208c1008a0800000000000000
+      internalID: -6341036938464352549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e95509218163bd0800000000000000
+      internalID: -2650904862650950084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f220a4d85d25da10800000000000000
+      internalID: 1933501474573132528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_60
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab4ca1f28e1111e0800000000000000
+      internalID: -2228966792822502486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 209
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae007af63bebb930800000000000000
+      internalID: 4160177302169194146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 212
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345917c95a777b40800000000000000
+      internalID: 5437949601084167222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_63
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c65a9cb54edd9f0800000000000000
+      internalID: -441946105536222059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de891472d56b58bb0800000000000000
+      internalID: -4934337305507686163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 209
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c4aa4123150fba0800000000000000
+      internalID: -6057252223276397528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 211
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f41d9c8eea85de0800000000000000
+      internalID: -1344132173928509631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 213
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a1af96b6965dbe0800000000000000
+      internalID: -1453139394696701436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439e47bf510df700800000000000000
+      internalID: 575617837982192461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 208
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c8ac105496a5b0800000000000000
+      internalID: -5357431634911508834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_70
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 208
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8e7bcf2a48c0200800000000000000
+      internalID: 147638723355863269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_71
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 208
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a184b0283a0efc1b0800000000000000
+      internalID: -5634037615951132646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_72
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341f7baef60fd3c0800000000000000
+      internalID: -4332736625638435778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_73
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ae3e1c541c8ea0800000000000000
+      internalID: -5869293828493630509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_74
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 210
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b742e20b734a42e0800000000000000
+      internalID: -2140824477252827208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d899d4b4573530800000000000000
+      internalID: 3834626743450786194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 190
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e141c0435980a1540800000000000000
+      internalID: 4979301774927860766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a3cec440f71e00800000000000000
+      internalID: 1015544419312705551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 189
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c791ed3f16ed550800000000000000
+      internalID: 6187490638084799575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63112c53922548b50800000000000000
+      internalID: 6594486091326296374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 189
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a358f643d8fd2d70800000000000000
+      internalID: 9020139215005438883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c957d3c1ad6ece0800000000000000
+      internalID: -1376172821290050433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_82
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 191
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e0525490fec2c0800000000000000
+      internalID: -4409322465322276852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 190
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a5618f1d3df1120800000000000000
+      internalID: 2386859226293492247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 189
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092648fcd18a26550800000000000000
+      internalID: 6152664886930596496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_85
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 190
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be39c117af069010800000000000000
+      internalID: 1195159961345801907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_86
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 189
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e184491c0bcf40800000000000000
+      internalID: 5749702651931649092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 188
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efb35e77b5e4b910800000000000000
+      internalID: 1852357923017310184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_88
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 188
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3437ab0177d435980800000000000000
+      internalID: -8551406093669338301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_89
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 188
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76242581b4b335b0800000000000000
+      internalID: -5389765654496401797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 189
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e11d667ffe11a0800000000000000
+      internalID: -6836746300200721718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076bcc5989e924a0800000000000000
+      internalID: -6617501401267607801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_92
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 162
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb456668f2f7500800000000000000
+      internalID: 396087546520846268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f7786c672ec880800000000000000
+      internalID: -8588884092786314670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 162
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eaba481e6863ad0800000000000000
+      internalID: -2722840621547278705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b21ad0e399c790800000000000000
+      internalID: -7509308309722975729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf261ca64d924d0800000000000000
+      internalID: -3158760108647580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d2f95d5f76fdc80800000000000000
+      internalID: -8295797683044536945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_98
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baba55d57269a1740800000000000000
+      internalID: 5123572621901147051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_99
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 162
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54753c9e9fe8baf20800000000000000
+      internalID: 3434996344820029253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_100
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 163
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00730dae9f865e0800000000000000
+      internalID: -1916006854535216909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_101
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 164
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d932822f2900900800000000000000
+      internalID: 648679915094515031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_102
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79216e02a635e10800000000000000
+      internalID: 2185206933736298450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_103
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a1eaea674e9f800800000000000000
+      internalID: 646799219892296214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c712fc07960f2b20800000000000000
+      internalID: 3111713113363322823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_105
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 162
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89d71c5d09efe020800000000000000
+      internalID: 2373371772236454284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_106
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21184868ef0bce50800000000000000
+      internalID: 6830570750693871917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e86bec32f980f0800000000000000
+      internalID: -1114093089336008123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 140
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b09bfeee753200800000000000000
+      internalID: 159172926729400923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_109
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 138
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0899c830512cc80800000000000000
+      internalID: -8304051657929817937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_110
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f961addebc63da90800000000000000
+      internalID: -7290363804764771853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_111
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 142
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34604a7943b40dca0800000000000000
+      internalID: -5994208414775638461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_112
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 142
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384b85cb34f8a0520800000000000000
+      internalID: 2669103250255950979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_113
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 142
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075121c2d454e000800000000000000
+      internalID: 64269558850082564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_114
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 142
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b8500c7febd1320800000000000000
+      internalID: 2530388536939875113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc9e66dfbbcdd10800000000000000
+      internalID: 2151801419003972932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_116
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 143
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6934a59590ce9bd0800000000000000
+      internalID: -2621446184389822098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_117
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 142
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7257ccfac27600800000000000000
+      internalID: 464656898597224165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 142
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f045f914a0dc440800000000000000
+      internalID: 4957630041767022353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 142
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58231e67247de20800000000000000
+      internalID: 3375239524089234916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_120
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 140
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbaba8cac77555f0800000000000000
+      internalID: -768576448563008564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_121
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 142
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cea7c77ddd362720800000000000000
+      internalID: 2821010238000836295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_122
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd06b2cad89016730800000000000000
+      internalID: 3990481248910532827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_123
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 140
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5070302e53bb420800000000000000
+      internalID: 2646768450839971318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 138
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe84ac8b126d23ec0800000000000000
+      internalID: -3588570512738334481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_125
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 139
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc11b8adbbfd0830800000000000000
+      internalID: 4039161232818773184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_126
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 142
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1e63b42651e6130800000000000000
+      internalID: 3561807867209507246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_127
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142b0dbb32316480800000000000000
+      internalID: -8907783355806047214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_128
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bece92f849f1d840800000000000000
+      internalID: 5247249132566793911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_129
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5256c6d38217ba0800000000000000
+      internalID: -6093044576578886187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50405d7422906e650800000000000000
+      internalID: 6261702374743933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba560dc1d3783f0800000000000000
+      internalID: -898682406672422102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_132
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94cd29d7edacc110800000000000000
+      internalID: 1282591205186454684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e040f797e5d5e02f0800000000000000
+      internalID: -1004763006510365682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96fb00473d5ca370800000000000000
+      internalID: 8335139502235055773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_135
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e86aea90db58050800000000000000
+      internalID: 5802251544219258505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 99
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418f9a9f4d2bed8d0800000000000000
+      internalID: -2819619688895875052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f5b5fb36d85d40800000000000000
+      internalID: 5573440091884746944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_138
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 92
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd9a094ae9b66530800000000000000
+      internalID: 3847967347533585853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_139
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 92
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73a0bf3ae09e5a0800000000000000
+      internalID: -6491641290423650357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_140
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5ae94c99e4fc090800000000000000
+      internalID: -8012098789733128755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_141
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 91
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038c5148356bba110800000000000000
+      internalID: 1273311789476857904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_142
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 91
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e065818337a95700800000000000000
+      internalID: 529638270850916580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_143
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb843cd7110e2ec60800000000000000
+      internalID: 7846079866561841339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37400b5d2f7d1eb70800000000000000
+      internalID: 8926653374392173683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_145
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 69
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b09bc3dfeff3820800000000000000
+      internalID: 2900317048648829776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_146
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef2d174858dc540800000000000000
+      internalID: 5029823162734542527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40789a61ad391d460800000000000000
+      internalID: 7264750238817683204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2298001cae34610800000000000000
+      internalID: 1604384006932603590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 73
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c981a7d97a89ee10800000000000000
+      internalID: 2227463746624784834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed899b72785676590800000000000000
+      internalID: -7681059008295626530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_151
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e18670aadbc8320800000000000000
+      internalID: 2561630826033323523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_152
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 68
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639574692542e9a0800000000000000
+      internalID: -6205321292481719445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_153
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c8b44dc0217c570800000000000000
+      internalID: 8486771869113617499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_154
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 68
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8aad2358bdea2f0800000000000000
+      internalID: -959588305453012831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_155
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83062268243fe10800000000000000
+      internalID: 2230199384348309684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db684f600355a8560800000000000000
+      internalID: 7316754209380271805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908614125c7744990800000000000000
+      internalID: -7402660198940055543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_158
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b9cbbf95fe495b0800000000000000
+      internalID: -5362398086536848604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_159
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71721b4c5631d6ce0800000000000000
+      internalID: -1410449780484528361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b997533576853b40800000000000000
+      internalID: 5419385564540934579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74b4b7976398ff0800000000000000
+      internalID: -33435626841094189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_162
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8dbdd4c4e149bf0800000000000000
+      internalID: -318596360563861260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_163
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455ee3b9555f7bc0800000000000000
+      internalID: -3783211318208735931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_164
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa5446107164a50800000000000000
+      internalID: 6504912006527953478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_165
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683cda49dad47e710800000000000000
+      internalID: 1722430790411600774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066861582422a8270800000000000000
+      internalID: 8253446936205887072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_167
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d70952b0a8ffa0800000000000000
+      internalID: -5766682634989612074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64233df81c35450800000000000000
+      internalID: 6076413145720702701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_169
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996c0205e8e48cc0800000000000000
+      internalID: -3709584122766923370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_170
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff252a25d77caf30800000000000000
+      internalID: 4588173877802512374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_171
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf2efed1863bd860800000000000000
+      internalID: 7555692731264020399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_172
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337cde5f8ff995740800000000000000
+      internalID: 5141316341246838579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_173
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1aad0a2f25d3150800000000000000
+      internalID: 5853926292685758910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_174
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a2a91648c5fe4f0800000000000000
+      internalID: -797316885378356608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_175
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8863b09f0c4500800000000000000
+      internalID: 381697182579329658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a4abbd2c357a80800000000000000
+      internalID: -8469797357081026336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_0: 8358400576513257986
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_1: 4211733693525893256
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_10: -341190735831951628
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_100: -1916006854535216909
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_101: 648679915094515031
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_102: 2185206933736298450
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_103: 646799219892296214
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_104: 3111713113363322823
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_105: 2373371772236454284
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_106: 6830570750693871917
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_107: -1114093089336008123
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_108: 159172926729400923
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_109: -8304051657929817937
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_11: -8849493428081488979
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_110: -7290363804764771853
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_111: -5994208414775638461
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_112: 2669103250255950979
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_113: 64269558850082564
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_114: 2530388536939875113
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_115: 2151801419003972932
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_116: -2621446184389822098
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_117: 464656898597224165
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_118: 4957630041767022353
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_119: 3375239524089234916
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_12: -6840391853190728568
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_120: -768576448563008564
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_121: 2821010238000836295
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_122: 3990481248910532827
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_123: 2646768450839971318
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_124: -3588570512738334481
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_125: 4039161232818773184
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_126: 3561807867209507246
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_127: -8907783355806047214
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_128: 5247249132566793911
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_129: -6093044576578886187
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_13: 4356312952595699406
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_130: 6261702374743933957
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_131: -898682406672422102
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_132: 1282591205186454684
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_133: -1004763006510365682
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_134: 8335139502235055773
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_135: 5802251544219258505
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_136: -2819619688895875052
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_137: 5573440091884746944
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_138: 3847967347533585853
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_139: -6491641290423650357
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_14: 4607045356008253108
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_140: -8012098789733128755
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_141: 1273311789476857904
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_142: 529638270850916580
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_143: 7846079866561841339
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_144: 8926653374392173683
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_145: 2900317048648829776
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_146: 5029823162734542527
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_147: 7264750238817683204
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_148: 1604384006932603590
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_149: 2227463746624784834
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_15: 7797891108853042195
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_150: -7681059008295626530
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_151: 2561630826033323523
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_152: -6205321292481719445
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_153: 8486771869113617499
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_154: -959588305453012831
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_155: 2230199384348309684
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_156: 7316754209380271805
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_157: -7402660198940055543
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_158: -5362398086536848604
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_159: -1410449780484528361
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_16: 6115733383985229716
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_160: 5419385564540934579
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_161: -33435626841094189
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_162: -318596360563861260
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_163: -3783211318208735931
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_164: 6504912006527953478
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_165: 1722430790411600774
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_166: 8253446936205887072
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_167: -5766682634989612074
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_168: 6076413145720702701
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_169: -3709584122766923370
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_17: 6478609510260769249
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_170: 4588173877802512374
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_171: 7555692731264020399
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_172: 5141316341246838579
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_173: 5853926292685758910
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_174: -797316885378356608
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_175: 381697182579329658
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_176: -8469797357081026336
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_18: 627305279834146698
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_19: 2654173504100528457
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_2: 3402431496908822040
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_20: 4234733537419609355
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_21: -6979065689482655147
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_22: -4288080051047259083
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_23: -2213272423765076725
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_24: 8129492427740672447
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_25: 2940309541795221218
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_26: 7002076743808297918
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_27: -7091994506682248954
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_28: 2595172191040769590
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_29: -7824643581087173603
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_3: 1511385702068821480
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_30: -4858218110508670314
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_31: 7773302885091717825
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_32: 6766498994349306916
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_33: 4476164060715710643
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_34: -8395913389595910158
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_35: -6117497805024625992
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_36: -7851428662305351906
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_37: 5877541405350304841
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_38: 6369418286568365403
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_39: -7563163613078795902
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_4: -906071147516953580
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_40: 3291148247776794618
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_41: 2291867958394364986
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_42: -4714032950106339232
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_43: -552971034244276820
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_44: -7539676359406266259
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_45: -5372900528848544719
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_46: -8599672043024826846
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_47: -2301633163000375362
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_48: 7297382746238670508
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_49: -4383029891557989035
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_5: -3550324499812391072
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_50: 5501804690065926262
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_51: -8110010325467778568
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_52: 7520870635556408861
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_53: -3022196663387542169
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_54: 8340666559755822167
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_55: -4119923928671192298
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_56: -100089171908400058
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_57: -6341036938464352549
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_58: -2650904862650950084
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_59: 1933501474573132528
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_6: 3622192315771406035
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_60: -2228966792822502486
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_61: 4160177302169194146
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_62: 5437949601084167222
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_63: -441946105536222059
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_64: -4934337305507686163
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_65: -6057252223276397528
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_66: -1344132173928509631
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_67: -1453139394696701436
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_68: 575617837982192461
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_69: -5357431634911508834
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_7: -7074569969099758561
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_70: 147638723355863269
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_71: -5634037615951132646
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_72: -4332736625638435778
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_73: -5869293828493630509
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_74: -2140824477252827208
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_75: 3834626743450786194
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_76: 4979301774927860766
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_77: 1015544419312705551
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_78: 6187490638084799575
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_79: 6594486091326296374
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_8: -5810581852193934
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_80: 9020139215005438883
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_81: -1376172821290050433
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_82: -4409322465322276852
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_83: 2386859226293492247
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_84: 6152664886930596496
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_85: 1195159961345801907
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_86: 5749702651931649092
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_87: 1852357923017310184
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_88: -8551406093669338301
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_89: -5389765654496401797
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_9: 7825169242849307012
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_90: -6836746300200721718
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_91: -6617501401267607801
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_92: 396087546520846268
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_93: -8588884092786314670
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_94: -2722840621547278705
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_95: -7509308309722975729
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_96: -3158760108647580192
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_97: -8295797683044536945
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_98: 5123572621901147051
+      PC _ Computer - Stardew Valley - Animals - Aquarium Fishes_99: 3434996344820029253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
