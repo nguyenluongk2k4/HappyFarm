@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 913474213ffee3b4db42911e15263547
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8268451485050610361
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_0
+  - first:
+      213: 8631376976070961559
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_1
+  - first:
+      213: 4278416372892626291
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_2
+  - first:
+      213: -2157738210383520322
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_3
+  - first:
+      213: 7385108497534790052
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_4
+  - first:
+      213: -7371462446274010353
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_5
+  - first:
+      213: -5825889156402599616
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_6
+  - first:
+      213: 4645291863115510982
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_7
+  - first:
+      213: -6372219459522924126
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_8
+  - first:
+      213: 6218676897277537983
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_9
+  - first:
+      213: -2985514291732358824
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_10
+  - first:
+      213: -2691531130522425643
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_11
+  - first:
+      213: -2414948335322660250
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_12
+  - first:
+      213: -5167637264347467249
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_13
+  - first:
+      213: 7004244913696241408
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_14
+  - first:
+      213: -3555247620431649255
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_15
+  - first:
+      213: 9083043905942765005
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_16
+  - first:
+      213: -8745292684957217757
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_17
+  - first:
+      213: 7498496819727966959
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_18
+  - first:
+      213: -7191801217376985297
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_19
+  - first:
+      213: 2705304411611636832
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_20
+  - first:
+      213: -5000660453898277663
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_21
+  - first:
+      213: -913129778882023482
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_22
+  - first:
+      213: 8832347046611254303
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_23
+  - first:
+      213: 5198672354814278029
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_24
+  - first:
+      213: -7370490016592952500
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_25
+  - first:
+      213: -4889245732406335818
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_26
+  - first:
+      213: 1878666630263429585
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_27
+  - first:
+      213: -1454378558671937605
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_28
+  - first:
+      213: -7699668803995775440
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_29
+  - first:
+      213: 581152862087716666
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_30
+  - first:
+      213: 6883609922304456267
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_31
+  - first:
+      213: -3494846477944037965
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_32
+  - first:
+      213: -1047898349678994641
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_33
+  - first:
+      213: -2671433006623134665
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_34
+  - first:
+      213: -356188678727970348
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_35
+  - first:
+      213: -5124416098198014386
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_36
+  - first:
+      213: 1260351707026449484
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_37
+  - first:
+      213: 2424717681251192043
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_38
+  - first:
+      213: -2115383296544986125
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_39
+  - first:
+      213: 6942753626958274233
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_40
+  - first:
+      213: -214152798306513201
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_41
+  - first:
+      213: 756290378245498652
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_42
+  - first:
+      213: 324921161638026860
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_43
+  - first:
+      213: -8464304207040046097
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_44
+  - first:
+      213: 2906409854712415880
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_45
+  - first:
+      213: -6234681668057530539
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_46
+  - first:
+      213: -5854889603016234566
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_47
+  - first:
+      213: -4174441255820658142
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_48
+  - first:
+      213: 83144000764845753
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_49
+  - first:
+      213: 2427548640063569074
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_50
+  - first:
+      213: -2670972002189957798
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_51
+  - first:
+      213: -2122675239665396755
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_52
+  - first:
+      213: -7833880929861502143
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_53
+  - first:
+      213: -626957946507192245
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_54
+  - first:
+      213: -215294874299347707
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_55
+  - first:
+      213: 7155287640918066847
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_56
+  - first:
+      213: 5746298155208070752
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_57
+  - first:
+      213: -8866178947661770220
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_58
+  - first:
+      213: -5219413693086439704
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_59
+  - first:
+      213: -6339613992822173810
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_60
+  - first:
+      213: -1808872243406277929
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_61
+  - first:
+      213: 5718051290099821466
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_62
+  - first:
+      213: 7354409115420007261
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_63
+  - first:
+      213: 5334592897547588060
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_64
+  - first:
+      213: 6369956708571812704
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_65
+  - first:
+      213: -3446726692631674597
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_66
+  - first:
+      213: -9173859124876090625
+    second: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 656
+        height: 1265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b22ef841d07fb270800000000000000
+      internalID: 8268451485050610361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 338
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e135f0afc8c770800000000000000
+      internalID: 8631376976070961559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 337
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dea7be50dff5b30800000000000000
+      internalID: 4278416372892626291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 324
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd9dc3a78c2e02e0800000000000000
+      internalID: -2157738210383520322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 343
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a74fec0d2d7660800000000000000
+      internalID: 7385108497534790052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 330
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a4b6f5fd43b990800000000000000
+      internalID: -7371462446274010353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 343
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a2dbdda8462fa0800000000000000
+      internalID: -5825889156402599616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 341
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c433037654677040800000000000000
+      internalID: 4645291863115510982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 329
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1fd4cb9245197a0800000000000000
+      internalID: -6372219459522924126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 343
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee72ba0bd2d4650800000000000000
+      internalID: 6218676897277537983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 328
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859d071d1925196d0800000000000000
+      internalID: -2985514291732358824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 322
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62e4772b2c5aad0800000000000000
+      internalID: -2691531130522425643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 335
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6620c22b8416c7ed0800000000000000
+      internalID: -2414948335322660250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 341
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f027f72994dd848b0800000000000000
+      internalID: -5167637264347467249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 335
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00773b093a3143160800000000000000
+      internalID: 7004244913696241408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 341
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166e9f202939aec0800000000000000
+      internalID: -3555247620431649255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 340
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdbef4fe447d0e70800000000000000
+      internalID: 9083043905942765005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 341
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8d4833aa72a680800000000000000
+      internalID: -8745292684957217757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 321
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe22849f023001860800000000000000
+      internalID: 7498496819727966959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fd50785e6913c90800000000000000
+      internalID: -7191801217376985297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 242
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064a86f670c2b8520800000000000000
+      internalID: 2705304411611636832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 234
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecac03dfc51a9ab0800000000000000
+      internalID: -5000660453898277663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 211
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe7e7dd49e353f0800000000000000
+      internalID: -913129778882023482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 240
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cfb36d7dcc29a70800000000000000
+      internalID: 8832347046611254303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 232
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89395486f4652840800000000000000
+      internalID: 5198672354814278029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430a646162c6b990800000000000000
+      internalID: -7370490016592952500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 238
+        width: 72
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6635429e8e52cb0800000000000000
+      internalID: -4889245732406335818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 243
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d95b3cb85d521a10800000000000000
+      internalID: 1878666630263429585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 220
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf1a61186201dbe0800000000000000
+      internalID: -1454378558671937605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 213
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ecca17408452590800000000000000
+      internalID: -7699668803995775440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 236
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f90f0f27ba01800800000000000000
+      internalID: 581152862087716666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46bf4fd0ce778f50800000000000000
+      internalID: 6883609922304456267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 215
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdde9115afcf7fc0800000000000000
+      internalID: -3494846477944037965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 243
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b5aa2c00e1571f0800000000000000
+      internalID: -1047898349678994641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 239
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c69f695d92dead0800000000000000
+      internalID: -2671433006623134665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 209
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1576ba8409e0bf0800000000000000
+      internalID: -356188678727970348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 239
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e463d9185ba62e8b0800000000000000
+      internalID: -5124416098198014386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 232
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c446e5d233bad7110800000000000000
+      internalID: 1260351707026449484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec069762e356a120800000000000000
+      internalID: 2424717681251192043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb24ad7916a4a2e0800000000000000
+      internalID: -2115383296544986125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 114
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be17e1b3ad995060800000000000000
+      internalID: 6942753626958274233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec8412a2d270df0800000000000000
+      internalID: -214152798306513201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c176e5e8712ee7a00800000000000000
+      internalID: 756290378245498652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 131
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1173331a528400800000000000000
+      internalID: 324921161638026860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 114
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb98846b20c88a80800000000000000
+      internalID: -8464304207040046097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_45
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 97
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88604d13d54a55820800000000000000
+      internalID: 2906409854712415880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 131
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7acf3e06f979a0800000000000000
+      internalID: -6234681668057530539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e6153de04fbea0800000000000000
+      internalID: -5854889603016234566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 121
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af2138bc76116c0800000000000000
+      internalID: -4174441255820658142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 131
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be1bc63703672100800000000000000
+      internalID: 83144000764845753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 123
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb8fd50a260b120800000000000000
+      internalID: 2427548640063569074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55247c8d1dceead0800000000000000
+      internalID: -2670972002189957798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31a3ead1eba82e0800000000000000
+      internalID: -2122675239665396755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf5eaccc6784390800000000000000
+      internalID: -7833880929861502143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b489455c1199c47f0800000000000000
+      internalID: -626957946507192245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dcc67d37e130df0800000000000000
+      internalID: -215294874299347707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 13
+        width: 80
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960aa6f230bc4360800000000000000
+      internalID: 7155287640918066847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d8aa1ab3febf40800000000000000
+      internalID: 5746298155208070752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 85
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d29dd83105f480800000000000000
+      internalID: -8866178947661770220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e5c756eae097b0800000000000000
+      internalID: -5219413693086439704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 14
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f0db889aa2508a0800000000000000
+      internalID: -6339613992822173810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_61
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 19
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d274b7474895e6e0800000000000000
+      internalID: -1808872243406277929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2dd15a599a5f40800000000000000
+      internalID: 5718051290099821466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b1189002c101660800000000000000
+      internalID: 7354409115420007261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd155a7f9f7480a40800000000000000
+      internalID: 5334592897547588060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631a0180e1a66850800000000000000
+      internalID: 6369956708571812704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1105d7a554ca20d0800000000000000
+      internalID: -3446726692631674597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 9
+        width: 56
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e84a2bb7efa080800000000000000
+      internalID: -9173859124876090625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_0: 8268451485050610361
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_1: 8631376976070961559
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_10: -2985514291732358824
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_11: -2691531130522425643
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_12: -2414948335322660250
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_13: -5167637264347467249
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_14: 7004244913696241408
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_15: -3555247620431649255
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_16: 9083043905942765005
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_17: -8745292684957217757
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_18: 7498496819727966959
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_19: -7191801217376985297
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_2: 4278416372892626291
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_20: 2705304411611636832
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_21: -5000660453898277663
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_22: -913129778882023482
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_23: 8832347046611254303
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_24: 5198672354814278029
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_25: -7370490016592952500
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_26: -4889245732406335818
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_27: 1878666630263429585
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_28: -1454378558671937605
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_29: -7699668803995775440
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_3: -2157738210383520322
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_30: 581152862087716666
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_31: 6883609922304456267
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_32: -3494846477944037965
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_33: -1047898349678994641
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_34: -2671433006623134665
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_35: -356188678727970348
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_36: -5124416098198014386
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_37: 1260351707026449484
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_38: 2424717681251192043
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_39: -2115383296544986125
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_4: 7385108497534790052
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_40: 6942753626958274233
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_41: -214152798306513201
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_42: 756290378245498652
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_43: 324921161638026860
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_44: -8464304207040046097
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_45: 2906409854712415880
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_46: -6234681668057530539
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_47: -5854889603016234566
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_48: -4174441255820658142
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_49: 83144000764845753
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_5: -7371462446274010353
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_50: 2427548640063569074
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_51: -2670972002189957798
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_52: -2122675239665396755
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_53: -7833880929861502143
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_54: -626957946507192245
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_55: -215294874299347707
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_56: 7155287640918066847
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_57: 5746298155208070752
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_58: -8866178947661770220
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_59: -5219413693086439704
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_6: -5825889156402599616
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_60: -6339613992822173810
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_61: -1808872243406277929
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_62: 5718051290099821466
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_63: 7354409115420007261
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_64: 5334592897547588060
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_65: 6369956708571812704
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_66: -3446726692631674597
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_67: -9173859124876090625
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_7: 4645291863115510982
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_8: -6372219459522924126
+      PC _ Computer - Stardew Valley - Tilesets - Outdoors (Spring) (1)_9: 6218676897277537983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

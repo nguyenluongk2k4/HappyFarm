@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d5b1179937d685444be0d568863efd0b
+guid: eff765b597335f046a9d90cc3e1076df
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7320068096882973064
-    second: Oak_Tree_0
+      213: -1786861811609735603
+    second: nhakho_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Oak_Tree_0
+      name: nhakho_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 7
-        width: 43
-        height: 65
+        x: 0
+        y: 0
+        width: 143
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 876ee9969d4e96a90800000000000000
-      internalID: -7320068096882973064
+      spriteID: d4e6a4846aac337e0800000000000000
+      internalID: -1786861811609735603
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Oak_Tree_0: -7320068096882973064
+      nhakho_0: -1786861811609735603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
