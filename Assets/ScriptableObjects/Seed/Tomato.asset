@@ -15,8 +15,8 @@ MonoBehaviour:
   cropName: CaChua
   growTimeInSeconds: 10
   witherTimeInSeconds: 5
-  seedItemName: Seed
-  harvestItemName: Harvested Crop
+  seedItem: {fileID: 11400000, guid: c722da31eb34fe649a2e3bce049fab5e, type: 2}
+  harvestItem: {fileID: 0}
   harvestItemAmount: 1
   xpGained: 10
   growthSprites:

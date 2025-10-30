@@ -1,28 +1,26 @@
 // 30/10/2025
-// ScriptableObject để định nghĩa dữ liệu cho một loại nông sản
+// ScriptableObject để định nghĩa dữ liệu cho một loại nông sản (ĐÃ CẬP NHẬT)
 
 using UnityEngine;
 
-// Dòng này cho phép bạn tạo asset mới từ menu (Chuột phải -> Create -> Farming -> Crop)
 [CreateAssetMenu(fileName = "New Crop", menuName = "Farming/Crop")]
 public class CropData : ScriptableObject
 {
     [Header("Settings")]
     public string cropName = "New Crop";
-    public float growTimeInSeconds = 60f; // Thời gian lớn (tính bằng giây)
-    public float witherTimeInSeconds = 30f; // Thời gian bị héo (sau khi chín)
+    public float growTimeInSeconds = 60f;
+    public float witherTimeInSeconds = 30f;
 
     [Header("Items")]
-    public string seedItemName = "Seed"; // Tên hạt giống (để check inventory)
-    public string harvestItemName = "Harvested Crop"; // Tên vật phẩm thu hoạch
+    // --- THAY ĐỔI Ở ĐÂY ---
+    public ItemData seedItem;    // Tên hạt giống (để check inventory)
+    public ItemData harvestItem; // Tên vật phẩm thu hoạch
+                                 // --- HẾT THAY ĐỔI ---
+
     public int harvestItemAmount = 1;
     public int xpGained = 10;
 
     [Header("Sprites")]
-    // Sprite cho các giai đoạn
-    // 0 = Mầm (Planted)
-    // 1...N = Các giai đoạn lớn
-    // Cuối cùng = Chín (Ready)
     public Sprite[] growthSprites;
-    public Sprite witheredSprite; // Sprite khi bị héo
+    public Sprite witheredSprite;
 }
