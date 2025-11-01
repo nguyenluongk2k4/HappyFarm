@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: 09e3923baa15bce4e83631a55e6b5b6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5974118568643688563
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_0
+  - first:
+      213: -2220308322386143242
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_1
+  - first:
+      213: 2889114347544247200
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_2
+  - first:
+      213: 6112476494326982660
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_3
+  - first:
+      213: -8489882009517362846
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_4
+  - first:
+      213: 2204684772355206290
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_5
+  - first:
+      213: -5530296209997835397
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_6
+  - first:
+      213: -111829911561223866
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_7
+  - first:
+      213: -4002394886680581650
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_8
+  - first:
+      213: -7490638991403236567
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_9
+  - first:
+      213: 4734938193486297033
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_10
+  - first:
+      213: 1140026214158012607
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_11
+  - first:
+      213: -3503576885011038771
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_12
+  - first:
+      213: -8232517010098218397
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_13
+  - first:
+      213: -5072065706747101594
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_14
+  - first:
+      213: -697819363677086180
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_15
+  - first:
+      213: 6932720982410803658
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_16
+  - first:
+      213: -2208763671894679247
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_17
+  - first:
+      213: 4036681693184422574
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_18
+  - first:
+      213: -7526166047916535993
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_19
+  - first:
+      213: 1126302171656068126
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_20
+  - first:
+      213: -5719109617762107417
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_21
+  - first:
+      213: 7548678731475217596
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_22
+  - first:
+      213: -8442508358212000811
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_23
+  - first:
+      213: -2172626621917553270
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_24
+  - first:
+      213: 2754045380907165875
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_25
+  - first:
+      213: -4289584027324083939
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_26
+  - first:
+      213: 661349729945556044
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_27
+  - first:
+      213: -7954823756136161643
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_28
+  - first:
+      213: -5003944217926468760
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_29
+  - first:
+      213: 7802287110706618623
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_30
+  - first:
+      213: 7157891028907241880
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_31
+  - first:
+      213: 6623922736257451058
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_32
+  - first:
+      213: -5955128608313913544
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_33
+  - first:
+      213: 7589824010141510017
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_34
+  - first:
+      213: -996756273923750626
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_35
+  - first:
+      213: 8376827949720999725
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_36
+  - first:
+      213: 8249027284154992104
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_37
+  - first:
+      213: -2518113833000968076
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_38
+  - first:
+      213: 5469076755101187765
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_39
+  - first:
+      213: 8898584337331364031
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_40
+  - first:
+      213: -6916205966393523230
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_41
+  - first:
+      213: 2027819954612583608
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_42
+  - first:
+      213: -7291937476738718854
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_43
+  - first:
+      213: -7445809136943235183
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_44
+  - first:
+      213: -6432649350648625414
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_45
+  - first:
+      213: -2704068617527031694
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_46
+  - first:
+      213: 8438983928630433297
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_47
+  - first:
+      213: 1328692307454487087
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_48
+  - first:
+      213: -4044072938388575689
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_49
+  - first:
+      213: 2919052190180952186
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_50
+  - first:
+      213: 5195483845699224746
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_51
+  - first:
+      213: 4048760237147924768
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_52
+  - first:
+      213: 5012279345324544615
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_53
+  - first:
+      213: -5245510209234773587
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_54
+  - first:
+      213: 4646707744463920930
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_55
+  - first:
+      213: 7646386869008376235
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_56
+  - first:
+      213: -7662859017148106054
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_57
+  - first:
+      213: 70472743010738096
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_58
+  - first:
+      213: -3075983614706937410
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_59
+  - first:
+      213: 8736462505723825516
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_60
+  - first:
+      213: 7540096521920199430
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_61
+  - first:
+      213: 4595700025643917323
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_62
+  - first:
+      213: 4951871085850948332
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_63
+  - first:
+      213: 5712023191894773550
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_64
+  - first:
+      213: -2744596996939621052
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_65
+  - first:
+      213: -4469635399009746179
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_66
+  - first:
+      213: -8866665008202815431
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_67
+  - first:
+      213: 6651655610450040992
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_68
+  - first:
+      213: -5769780157591431214
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_69
+  - first:
+      213: 467233729164286686
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_70
+  - first:
+      213: -519311709501552505
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_71
+  - first:
+      213: 4147928555925504056
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_72
+  - first:
+      213: 622744859607956571
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_73
+  - first:
+      213: -1087486034871516181
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_74
+  - first:
+      213: -2273850409595745092
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_75
+  - first:
+      213: 273895264205107850
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_76
+  - first:
+      213: 6230286584535171101
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_77
+  - first:
+      213: -878324473210954598
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_78
+  - first:
+      213: 374437287016187519
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_79
+  - first:
+      213: -5999308256838168849
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_80
+  - first:
+      213: 4392880299240228836
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_81
+  - first:
+      213: 2470087275322760332
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_82
+  - first:
+      213: -7702307467689883287
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_83
+  - first:
+      213: -7986641105979577227
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_84
+  - first:
+      213: -5267945955344226352
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_85
+  - first:
+      213: 7272180174212064497
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_86
+  - first:
+      213: -5073001738690087382
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_87
+  - first:
+      213: 8150052362842049041
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_88
+  - first:
+      213: 1460326888015120262
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_89
+  - first:
+      213: -1141334678290717638
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_90
+  - first:
+      213: -4162832491658343321
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_91
+  - first:
+      213: 2550506596119578749
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_92
+  - first:
+      213: 5265776598628296316
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_93
+  - first:
+      213: 5992412742740463557
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_94
+  - first:
+      213: 1537725344376184182
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_95
+  - first:
+      213: 9150562474364583489
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_96
+  - first:
+      213: -874915010150824286
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_97
+  - first:
+      213: 4084848409750059244
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_98
+  - first:
+      213: -8398266473085086912
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_99
+  - first:
+      213: 2204936186911964507
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_100
+  - first:
+      213: -2516610459690333714
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_101
+  - first:
+      213: -1504539822886366940
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_102
+  - first:
+      213: 3016901415530371978
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_103
+  - first:
+      213: 4524304754245215958
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_104
+  - first:
+      213: 2157027801288575079
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_105
+  - first:
+      213: 2118056528417590656
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_106
+  - first:
+      213: -4811615926604037698
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378721a9f2558e250800000000000000
+      internalID: 5974118568643688563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f794503851ef21e0800000000000000
+      internalID: -2220308322386143242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 383
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfbd02132381820800000000000000
+      internalID: 2889114347544247200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 383
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e84e7cf0e3d450800000000000000
+      internalID: 6112476494326982660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 144
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261fcbd2b41ed2a80800000000000000
+      internalID: -8489882009517362846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 383
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce1f99e1d989e10800000000000000
+      internalID: 2204684772355206290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 383
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d364d5e07043b0800000000000000
+      internalID: -5530296209997835397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 383
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6414126b943b27ef0800000000000000
+      internalID: -111829911561223866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 383
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee960906e03a478c0800000000000000
+      internalID: -4002394886680581650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 130
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92348b04687eb0890800000000000000
+      internalID: -7490638991403236567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c73e204331e5b140800000000000000
+      internalID: 4734938193486297033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb095893dcf22df00800000000000000
+      internalID: 1140026214158012607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdb5a5c26bc06fc0800000000000000
+      internalID: -3503576885011038771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 351
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1cb5a56930cd80800000000000000
+      internalID: -8232517010098218397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 351
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef5e7dc176c99b0800000000000000
+      internalID: -5072065706747101594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 351
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e53a66cf8d056f0800000000000000
+      internalID: -697819363677086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 351
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93e7b9009f53060800000000000000
+      internalID: 6932720982410803658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1312ee79425e851e0800000000000000
+      internalID: -2208763671894679247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea27499dc9c250830800000000000000
+      internalID: 4036681693184422574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f4451dadfad8790800000000000000
+      internalID: -7526166047916535993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9f439bdd61af00800000000000000
+      internalID: 1126302171656068126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 319
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eff4c19a14a1a0b0800000000000000
+      internalID: -5719109617762107417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6029cf4b42c860800000000000000
+      internalID: 7548678731475217596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 319
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e187e06f26da80800000000000000
+      internalID: -8442508358212000811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 63
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d1c03399749d1e0800000000000000
+      internalID: -2172626621917553270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 255
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e640bea5583620800000000000000
+      internalID: 2754045380907165875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119829ed065874c0800000000000000
+      internalID: -4289584027324083939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4494bd43169d2900800000000000000
+      internalID: 661349729945556044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 255
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e5aa4b0f9ca9190800000000000000
+      internalID: -7954823756136161643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b7f9eee3b6e8ab0800000000000000
+      internalID: -5003944217926468760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e645f9ca474c60800000000000000
+      internalID: 7802287110706618623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 287
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b8f677ffe55360800000000000000
+      internalID: 7157891028907241880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_32
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234424232a6eceb50800000000000000
+      internalID: 6623922736257451058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fcea515122b5da0800000000000000
+      internalID: -5955128608313913544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 15
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189273089b8745960800000000000000
+      internalID: 7589824010141510017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15022d237fca22f0800000000000000
+      internalID: -996756273923750626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271faf43a8704470800000000000000
+      internalID: 8376827949720999725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e540961c9e6a7270800000000000000
+      internalID: 8249027284154992104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470eaf77fccdd0dd0800000000000000
+      internalID: -2518113833000968076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef625155016eb40800000000000000
+      internalID: 5469076755101187765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ad7ede4f1e7b70800000000000000
+      internalID: 8898584337331364031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e34da33153b400a0800000000000000
+      internalID: -6916205966393523230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcb12f3183442c10800000000000000
+      internalID: 2027819954612583608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7361aecf75ddca90800000000000000
+      internalID: -7291937476738718854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff32f1a0c2ba890800000000000000
+      internalID: -7445809136943235183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af601f94f73aab6a0800000000000000
+      internalID: -6432649350648625414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278050c4be7397ad0800000000000000
+      internalID: -2704068617527031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1165f33eb2b4d1570800000000000000
+      internalID: 8438983928630433297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a6e992d96707210800000000000000
+      internalID: 1328692307454487087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a2495c61190e7c0800000000000000
+      internalID: -4044072938388575689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 191
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78cf8c408e828820800000000000000
+      internalID: 2919052190180952186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ce23e7011a1840800000000000000
+      internalID: 5195483845699224746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 63
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ade30cf5103830800000000000000
+      internalID: 4048760237147924768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d81522813f8540800000000000000
+      internalID: 5012279345324544615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da950e0b1443437b0800000000000000
+      internalID: -5245510209234773587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f14d3031c6c7040800000000000000
+      internalID: 4646707744463920930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1a476585c6d1a60800000000000000
+      internalID: 7646386869008376235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafcfec25e08a590800000000000000
+      internalID: -7662859017148106054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf908d169e5af000800000000000000
+      internalID: 70472743010738096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_59
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1987e1339ef45d0800000000000000
+      internalID: -3075983614706937410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 97
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d00377c562e3970800000000000000
+      internalID: 8736462505723825516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b363966ddc3a860800000000000000
+      internalID: 7540096521920199430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0062c203d437cf30800000000000000
+      internalID: 4595700025643917323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_63
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27ca5348498b440800000000000000
+      internalID: 4951871085850948332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4ea554de254f40800000000000000
+      internalID: 5712023191894773550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d5fc1a29b39e9d0800000000000000
+      internalID: -2744596996939621052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 127
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df24386294aa8f1c0800000000000000
+      internalID: -4469635399009746179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386fa3172743f480800000000000000
+      internalID: -8866665008202815431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 127
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8db15298d6f4c50800000000000000
+      internalID: 6651655610450040992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75aaa248f9defa0800000000000000
+      internalID: -5769780157591431214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1be5e992fb7600800000000000000
+      internalID: 467233729164286686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788857b60c80bc8f0800000000000000
+      internalID: -519311709501552505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83083a18b07609930800000000000000
+      internalID: 4147928555925504056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cf1ae762f64a800800000000000000
+      internalID: 622744859607956571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_74
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be30949863978e0f0800000000000000
+      internalID: -1087486034871516181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4baf8919a170e0800000000000000
+      internalID: -2273850409595745092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827b98aa421dc300800000000000000
+      internalID: 273895264205107850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c910a3ac667650800000000000000
+      internalID: 6230286584535171101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 95
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9ab09b809fc3f0800000000000000
+      internalID: -878324473210954598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c24b8ab4423500800000000000000
+      internalID: 374437287016187519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 95
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feec7151dec2ebca0800000000000000
+      internalID: -5999308256838168849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e786019b55a6fc30800000000000000
+      internalID: 4392880299240228836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c53d13a43874220800000000000000
+      internalID: 2470087275322760332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_83
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969818daa28eb1590800000000000000
+      internalID: -7702307467689883287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ced89aa30c92190800000000000000
+      internalID: -7986641105979577227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_85
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d760cb701f74e6b0800000000000000
+      internalID: -5267945955344226352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f46c8ab659fbe460800000000000000
+      internalID: 7272180174212064497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26307cebc31999b0800000000000000
+      internalID: -5073001738690087382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 63
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8804717dca1170800000000000000
+      internalID: 8150052362842049041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 31
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c718419f144410800000000000000
+      internalID: 1460326888015120262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 63
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a5aa382a2920f0800000000000000
+      internalID: -1141334678290717638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_91
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c004b87e5aa36c0800000000000000
+      internalID: -4162832491658343321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d788ffa6c38356320800000000000000
+      internalID: 2550506596119578749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76edcbcaebc31940800000000000000
+      internalID: 5265776598628296316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc19ee3a3592350800000000000000
+      internalID: 5992412742740463557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d58a1bd09175510800000000000000
+      internalID: 1537725344376184182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_96
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 31
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e3583b6145dfe70800000000000000
+      internalID: 9150562474364583489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_97
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68d4b0f6dabd3f0800000000000000
+      internalID: -874915010150824286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_98
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b8787cfb40b830800000000000000
+      internalID: 4084848409750059244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_99
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 31
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d0be732d537b80800000000000000
+      internalID: -8398266473085086912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_100
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dba4d97c1899e10800000000000000
+      internalID: 2204936186911964507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90028de14331dd0800000000000000
+      internalID: -2516610459690333714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421dd62a00dce1be0800000000000000
+      internalID: -1504539822886366940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9f0b6adf2ed920800000000000000
+      internalID: 3016901415530371978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a564043f89ce30800000000000000
+      internalID: 4524304754245215958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768827a5b5d4fed10800000000000000
+      internalID: 2157027801288575079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d078ec039d46d10800000000000000
+      internalID: 2118056528417590656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1872bcec4b93db0800000000000000
+      internalID: -4811615926604037698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_0: 5974118568643688563
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_1: -2220308322386143242
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_10: 4734938193486297033
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_100: 2204936186911964507
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_101: -2516610459690333714
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_102: -1504539822886366940
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_103: 3016901415530371978
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_104: 4524304754245215958
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_105: 2157027801288575079
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_106: 2118056528417590656
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_107: -4811615926604037698
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_11: 1140026214158012607
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_12: -3503576885011038771
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_13: -8232517010098218397
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_14: -5072065706747101594
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_15: -697819363677086180
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_16: 6932720982410803658
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_17: -2208763671894679247
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_18: 4036681693184422574
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_19: -7526166047916535993
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_2: 2889114347544247200
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_20: 1126302171656068126
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_21: -5719109617762107417
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_22: 7548678731475217596
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_23: -8442508358212000811
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_24: -2172626621917553270
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_25: 2754045380907165875
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_26: -4289584027324083939
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_27: 661349729945556044
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_28: -7954823756136161643
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_29: -5003944217926468760
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_3: 6112476494326982660
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_30: 7802287110706618623
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_31: 7157891028907241880
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_32: 6623922736257451058
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_33: -5955128608313913544
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_34: 7589824010141510017
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_35: -996756273923750626
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_36: 8376827949720999725
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_37: 8249027284154992104
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_38: -2518113833000968076
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_39: 5469076755101187765
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_4: -8489882009517362846
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_40: 8898584337331364031
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_41: -6916205966393523230
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_42: 2027819954612583608
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_43: -7291937476738718854
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_44: -7445809136943235183
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_45: -6432649350648625414
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_46: -2704068617527031694
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_47: 8438983928630433297
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_48: 1328692307454487087
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_49: -4044072938388575689
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_5: 2204684772355206290
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_50: 2919052190180952186
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_51: 5195483845699224746
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_52: 4048760237147924768
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_53: 5012279345324544615
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_54: -5245510209234773587
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_55: 4646707744463920930
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_56: 7646386869008376235
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_57: -7662859017148106054
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_58: 70472743010738096
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_59: -3075983614706937410
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_6: -5530296209997835397
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_60: 8736462505723825516
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_61: 7540096521920199430
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_62: 4595700025643917323
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_63: 4951871085850948332
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_64: 5712023191894773550
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_65: -2744596996939621052
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_66: -4469635399009746179
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_67: -8866665008202815431
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_68: 6651655610450040992
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_69: -5769780157591431214
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_7: -111829911561223866
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_70: 467233729164286686
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_71: -519311709501552505
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_72: 4147928555925504056
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_73: 622744859607956571
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_74: -1087486034871516181
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_75: -2273850409595745092
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_76: 273895264205107850
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_77: 6230286584535171101
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_78: -878324473210954598
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_79: 374437287016187519
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_8: -4002394886680581650
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_80: -5999308256838168849
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_81: 4392880299240228836
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_82: 2470087275322760332
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_83: -7702307467689883287
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_84: -7986641105979577227
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_85: -5267945955344226352
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_86: 7272180174212064497
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_87: -5073001738690087382
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_88: 8150052362842049041
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_89: 1460326888015120262
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_9: -7490638991403236567
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_90: -1141334678290717638
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_91: -4162832491658343321
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_92: 2550506596119578749
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_93: 5265776598628296316
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_94: 5992412742740463557
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_95: 1537725344376184182
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_96: 9150562474364583489
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_97: -874915010150824286
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_98: 4084848409750059244
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Alex_99: -8398266473085086912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

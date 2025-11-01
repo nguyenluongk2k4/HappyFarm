@@ -104,6 +104,14 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T16:56:14.567Z",
+              "Title": "ShopUIManager.cs",
+              "DocumentMoniker": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\ShopUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Market\\ShopUIManager.cs",
+              "ToolTip": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\ShopUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Market\\ShopUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T04:05:12.545Z",
               "EditorCaption": ""
             },
             {
@@ -280,6 +288,68 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T09:57:17.696Z"
+            },
+ {
+              "DocumentIndex": 2,
+              "Title": "ShopTrigger.cs",
+              "DocumentMoniker": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\ShopTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Market\\ShopTrigger.cs",
+              "ToolTip": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\ShopTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Market\\ShopTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:06:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopData.cs",
+              "DocumentMoniker": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Data\\ShopData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ShopData.cs",
+              "ToolTip": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Data\\ShopData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\ShopData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:57:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Data\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ItemData.cs",
+              "ToolTip": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Data\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:54:28.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Market\\PlayerMovement.cs",
+              "ToolTip": "D:\\Github\\HappyFarm\\Assets\\Scripts\\Market\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Market\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:36:16.537Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

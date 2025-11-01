@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: 24e63b8f115fc6f46bbceca374756b8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4550443449647051087
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_0
+  - first:
+      213: 3651618997391500577
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_1
+  - first:
+      213: -2408908836426758448
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_2
+  - first:
+      213: 6531863354318874028
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_3
+  - first:
+      213: 7624649731366354795
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_4
+  - first:
+      213: -2285010762825422114
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_5
+  - first:
+      213: -2038695424284191498
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_6
+  - first:
+      213: -1963848190645356802
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_7
+  - first:
+      213: 8765743812211047287
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_8
+  - first:
+      213: 282862577922441177
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_9
+  - first:
+      213: -350740873146682554
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_10
+  - first:
+      213: 8219499830428996489
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_11
+  - first:
+      213: -944779193596028287
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_12
+  - first:
+      213: 499688288655304457
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_13
+  - first:
+      213: 7951261956691032335
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_14
+  - first:
+      213: -5814955733031284283
+    second: PC _ Computer - Stardew Valley - Tilesets - Festivals_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_0
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 388
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec845bac399d0c0800000000000000
+      internalID: -4550443449647051087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125a69a81282da230800000000000000
+      internalID: 3651618997391500577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6cb7c1d26d19ed0800000000000000
+      internalID: -2408908836426758448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5619b0d17d5aa50800000000000000
+      internalID: 6531863354318874028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 127
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f7ed6988230d960800000000000000
+      internalID: 7624649731366354795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 79
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa8d551d20a40e0800000000000000
+      internalID: -2285010762825422114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f49356205915b3e0800000000000000
+      internalID: -2038695424284191498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 31
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63acbb9720fb4e0800000000000000
+      internalID: -1963848190645356802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfae6ed8d26a970800000000000000
+      internalID: 8765743812211047287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7155140eece300800000000000000
+      internalID: 282862577922441177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643b1efb80be12bf0800000000000000
+      internalID: -350740873146682554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9839a180c87811270800000000000000
+      internalID: 8219499830428996489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a578e345873e2f0800000000000000
+      internalID: -944779193596028287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e8bfd9df3fe600800000000000000
+      internalID: 499688288655304457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0975ac3f9e885e60800000000000000
+      internalID: 7951261956691032335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Festivals_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19c0cd1902d4fa0800000000000000
+      internalID: -5814955733031284283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_0
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 486
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0da976d7780645a9eba260d5387de
+      internalID: 156356451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 402
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cb3f5298bd6649861c000d40663ce
+      internalID: 1016695490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92542b757ceec644805c408cac6ecbe
+      internalID: 1563484129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 207
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5ba8a571c11c74db2b1b77bc491d4b
+      internalID: -888782490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db4cfc644cb3d4d827909ed2d043a2
+      internalID: -1795725564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6f3b055a6b8e44964dd370a114967
+      internalID: -1893240928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 352
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5efe13de11fb943914ea1c1eccda1b
+      internalID: 1699426972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 353
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf3a150fe6af184b99b21971b2ac619
+      internalID: -963664116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 188
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759fde7e9dd12b64284a94b32b76f2f9
+      internalID: -1817605926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767edb326be69b47beb7c6bfa84d43d
+      internalID: 339945500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Festival_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df951aa85f74c4dbe1458cfe1c3d18
+      internalID: -247659818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 432e11681d29fec48bccfbedf935ddb6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Festival_0: 156356451
+      Festival_1: 1016695490
+      Festival_10: -247659818
+      Festival_2: 1563484129
+      Festival_3: -888782490
+      Festival_4: -1795725564
+      Festival_5: -1893240928
+      Festival_6: 1699426972
+      Festival_7: -963664116
+      Festival_8: -1817605926
+      Festival_9: 339945500
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_0: -4550443449647051087
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_1: 3651618997391500577
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_10: -350740873146682554
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_11: 8219499830428996489
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_12: -944779193596028287
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_13: 499688288655304457
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_14: 7951261956691032335
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_15: -5814955733031284283
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_2: -2408908836426758448
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_3: 6531863354318874028
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_4: 7624649731366354795
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_5: -2285010762825422114
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_6: -2038695424284191498
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_7: -1963848190645356802
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_8: 8765743812211047287
+      PC _ Computer - Stardew Valley - Tilesets - Festivals_9: 282862577922441177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

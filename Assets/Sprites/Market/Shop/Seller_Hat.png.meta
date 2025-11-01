@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: f478e3becabc666428b2c31c733a0789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3576664525077449703
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_0
+  - first:
+      213: -5032695652842620229
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_1
+  - first:
+      213: -1984662396258784563
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_2
+  - first:
+      213: -119935259442130166
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_3
+  - first:
+      213: 5909654063568666116
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_4
+  - first:
+      213: -2368518197597167507
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_5
+  - first:
+      213: 2825738692468042748
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_6
+  - first:
+      213: -7359579210021539721
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_7
+  - first:
+      213: -643245692673326984
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_8
+  - first:
+      213: 8699536469503158520
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_9
+  - first:
+      213: -2234245920628822831
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_10
+  - first:
+      213: 8527766697849711810
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_11
+  - first:
+      213: 983485303543137844
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_12
+  - first:
+      213: -846172597685222838
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_13
+  - first:
+      213: 5658425213286839585
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_14
+  - first:
+      213: -1058036247166918101
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_15
+  - first:
+      213: 1730309033861391445
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_16
+  - first:
+      213: 4465966512175562330
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_17
+  - first:
+      213: 9031759525426413444
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_18
+  - first:
+      213: 5880319472319257035
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_19
+  - first:
+      213: -1659210892317655028
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_20
+  - first:
+      213: -71618877736164718
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_21
+  - first:
+      213: -1361157989630129515
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_22
+  - first:
+      213: 1128366480953959221
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_23
+  - first:
+      213: -5056513956445874831
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_24
+  - first:
+      213: -1756045694748649229
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_25
+  - first:
+      213: 476538069346673408
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_26
+  - first:
+      213: -7387518532067764868
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_27
+  - first:
+      213: 138716665554126087
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_28
+  - first:
+      213: 5291857316880002
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_29
+  - first:
+      213: -5368672481803930967
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_30
+  - first:
+      213: -588182778676069890
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_31
+  - first:
+      213: 5484540861083233628
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914740e70922d5ec0800000000000000
+      internalID: -3576664525077449703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 191
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbab9a5d7f5482ab0800000000000000
+      internalID: -5032695652842620229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca6be7d0101574e0800000000000000
+      internalID: -1984662396258784563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0358e85487e55ef0800000000000000
+      internalID: -119935259442130166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e34746f0f430250800000000000000
+      internalID: 5909654063568666116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602c2c8f35512fd0800000000000000
+      internalID: -2368518197597167507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 207
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb62a09e5a073720800000000000000
+      internalID: 2825738692468042748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770f05283b58dd990800000000000000
+      internalID: -7359579210021539721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87008e8537bb217f0800000000000000
+      internalID: -643245692673326984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8aa4fa356fab870800000000000000
+      internalID: 8699536469503158520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcad083c2d5ef0e0800000000000000
+      internalID: -2234245920628822831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccecb031a6b85670800000000000000
+      internalID: 8527766697849711810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436818f3caa06ad00800000000000000
+      internalID: 983485303543137844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a428d40718ac144f0800000000000000
+      internalID: -846172597685222838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125731a70c3c68e40800000000000000
+      internalID: 5658425213286839585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22e02093a91151f0800000000000000
+      internalID: -1058036247166918101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55425f216ea430810800000000000000
+      internalID: 1730309033861391445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb30191ec4afd30800000000000000
+      internalID: 4465966512175562330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fbac1af61475d70800000000000000
+      internalID: 9031759525426413444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9d661a7671b9150800000000000000
+      internalID: 5880319472319257035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0082fbfb7c49f8e0800000000000000
+      internalID: -1659210892317655028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e259920f810ff0800000000000000
+      internalID: -71618877736164718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a49e825023c1de0800000000000000
+      internalID: -1361157989630129515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533e7b90653c8af00800000000000000
+      internalID: 1128366480953959221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751d30e857a3d9b0800000000000000
+      internalID: -5056513956445874831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8172b9eb541a7e0800000000000000
+      internalID: -1756045694748649229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eb5969d00d9600800000000000000
+      internalID: 476538069346673408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 31
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755c7c29034a7990800000000000000
+      internalID: -7387518532067764868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c7c68212dce100800000000000000
+      internalID: 138716665554126087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e139b8aecc21000800000000000000
+      internalID: 5291857316880002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a279ae72d4ae75b0800000000000000
+      internalID: -5368672481803930967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b20e01ea56d7f0800000000000000
+      internalID: -588182778676069890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2bf4dad00d1c40800000000000000
+      internalID: 5484540861083233628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_0: -3576664525077449703
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_1: -5032695652842620229
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_10: -2234245920628822831
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_11: 8527766697849711810
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_12: 983485303543137844
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_13: -846172597685222838
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_14: 5658425213286839585
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_15: -1058036247166918101
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_16: 1730309033861391445
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_17: 4465966512175562330
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_18: 9031759525426413444
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_19: 5880319472319257035
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_2: -1984662396258784563
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_20: -1659210892317655028
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_21: -71618877736164718
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_22: -1361157989630129515
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_23: 1128366480953959221
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_24: -5056513956445874831
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_25: -1756045694748649229
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_26: 476538069346673408
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_27: -7387518532067764868
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_28: 138716665554126087
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_29: 5291857316880002
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_3: -119935259442130166
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_30: -5368672481803930967
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_31: -588182778676069890
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_32: 5484540861083233628
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_4: 5909654063568666116
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_5: -2368518197597167507
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_6: 2825738692468042748
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_7: -7359579210021539721
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_8: -643245692673326984
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Pierre_9: 8699536469503158520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
