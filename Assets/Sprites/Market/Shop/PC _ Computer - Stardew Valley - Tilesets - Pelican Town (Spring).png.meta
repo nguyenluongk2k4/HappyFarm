@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 3f27ca1c60814a249920d9a26436712b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8083844404966482398
+    second: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_0
+  - first:
+      213: 6253715286369082640
+    second: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 193
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e917ef75a60df80800000000000000
+      internalID: -8083844404966482398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 353
+        width: 133
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d957a5be8a9c650800000000000000
+      internalID: 6253715286369082640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1021
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873affc3131ed9b4e97f827e71da3840
+      internalID: -1851362280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 769
+        width: 141
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f57c7e008e359a4b8c900db9d25cff8
+      internalID: -1878223764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 589
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf2dcbb9186544480ac060f3f53733
+      internalID: 1488720865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 638
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef42a858b88ff45813039a69ab0186
+      internalID: -1053894628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 692
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec40acf67c45fd42b6943c459becdf2
+      internalID: 21035819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 529
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d085185564576488588c5edd8d2638
+      internalID: -1441655919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1105
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6deca3032a59429469443fd7c99fd
+      internalID: 31847062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1105
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1b6bf307348b43b57a524977da4d3
+      internalID: -441335656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 590
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35f2de8ab6dfd459608d0d7c31634d
+      internalID: -2112533390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 225
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07a736ae1572648ae16ebf53c0d2c4
+      internalID: -698594705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 161
+        width: 63
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1c3e02c17b9a45920cfc823e88cb4
+      internalID: 440071565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfee34c57579f5438e513ac7d6869a6
+      internalID: -1292358642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 161
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e5ee2316308c4ab97036162744cdc
+      internalID: -2012173793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1104
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c38f4bc95f39042866344db971ffb0
+      internalID: 2112899187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 640
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d04a9ee9a55484894dbcf2faeb4f1d
+      internalID: 2124674862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c409334a07298549908cab18ea722a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_0: -8083844404966482398
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_1: 6253715286369082640
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_10: -2112533390
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_11: -698594705
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_12: 440071565
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_13: -1292358642
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_14: -2012173793
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_15: 2112899187
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_16: 2124674862
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_2: -1851362280
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_3: -1878223764
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_4: 1488720865
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_5: -1053894628
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_6: 21035819
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_7: -1441655919
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_8: 31847062
+      PC _ Computer - Stardew Valley - Tilesets - Pelican Town (Spring)_9: -441335656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
