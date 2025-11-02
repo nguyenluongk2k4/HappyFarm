@@ -9,7 +9,7 @@ public class ShopManager : MonoBehaviour
     public TextMeshProUGUI storeTitle;
     public Transform contentPanel;
     public GameObject productItemPrefab;
-    public List<ItemData> items;
+    public List<ItemDataProduct> items;
 
     void Start()
     {

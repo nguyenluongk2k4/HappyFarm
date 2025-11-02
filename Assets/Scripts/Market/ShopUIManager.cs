@@ -10,7 +10,7 @@ public class ShopUIManager : MonoBehaviour
     public Transform contentParent;             // Scroll View → Viewport → Content
     public GameObject productItemPrefab;        // Prefab ProductItem
 
-    public void DisplayShopContent(List<ItemData> itemsToDisplay, string currentShopName)
+    public void DisplayShopContent(List<ItemDataProduct> itemsToDisplay, string currentShopName)
     {
         // Gán tên cửa hàng
         if (shopNameText != null)
@@ -21,7 +21,7 @@ public class ShopUIManager : MonoBehaviour
             Destroy(child.gameObject);
 
         // Hiển thị danh sách sản phẩm mới
-        foreach (ItemData item in itemsToDisplay)
+        foreach (ItemDataProduct item in itemsToDisplay)
         {
             GameObject newItem = Instantiate(productItemPrefab, contentParent);
 

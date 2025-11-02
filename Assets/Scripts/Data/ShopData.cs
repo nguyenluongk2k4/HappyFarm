@@ -6,5 +6,5 @@ public class ShopData : ScriptableObject
 {
     public string shopName;
 
-    public List<ItemData> itemsForSale;
+    public List<ItemDataProduct> itemsForSale;
 }

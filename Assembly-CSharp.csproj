@@ -65,19 +65,18 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Farm\CropData.cs" />
+    <Compile Include="Assets\Scripts\Data\ItemDataProduct.cs" />
     <Compile Include="Assets\Scripts\Market\ShopManager.cs" />
     <Compile Include="Assets\Scripts\Farm\InventorySlot.cs" />
     <Compile Include="Assets\Scripts\Data\ShopData.cs" />
     <Compile Include="Assets\Scripts\Farm\SoftFollowCamera.cs" />
     <Compile Include="Assets\Scripts\Farm\ItemData.cs" />
     <Compile Include="Assets\Scripts\Farm\LandPlot.cs" />
-    <Compile Include="Assets\Scripts\Data\ItemData.cs" />
     <Compile Include="Assets\Scripts\Farm\PlayerInteraction.cs" />
     <Compile Include="Assets\Scripts\Farm\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Farm\Player.cs" />
     <Compile Include="Assets\Scripts\Farm\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Market\ShopTrigger.cs" />
-    <Compile Include="Assets\Scripts\Market\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Market\ShopUIManager.cs" />
   </ItemGroup>
   <ItemGroup>
