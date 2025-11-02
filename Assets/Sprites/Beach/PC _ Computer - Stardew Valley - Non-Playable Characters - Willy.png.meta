@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 1c79752a934498748b386934cd85b882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4068982913364644993
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_0
+  - first:
+      213: 1336956673992513049
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_1
+  - first:
+      213: -4770456378256890099
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_2
+  - first:
+      213: 5313820195817087459
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_3
+  - first:
+      213: -101037232344608090
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_4
+  - first:
+      213: -1081677146664963409
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_5
+  - first:
+      213: -2905526587240582505
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_6
+  - first:
+      213: 1765935705013071807
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_7
+  - first:
+      213: -6655188232505087461
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_8
+  - first:
+      213: -3415136901838593044
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_9
+  - first:
+      213: -6564153714634923189
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_10
+  - first:
+      213: 9020060482608476754
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_11
+  - first:
+      213: 1796775429730950579
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_12
+  - first:
+      213: 3604880912419851184
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_13
+  - first:
+      213: 275843559211317334
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_14
+  - first:
+      213: 5324547547100562682
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_15
+  - first:
+      213: -348997686425595511
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_16
+  - first:
+      213: 1705944903410257493
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_17
+  - first:
+      213: 8723178280703646188
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_18
+  - first:
+      213: -7309821044165379502
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_19
+  - first:
+      213: -5348911007136388104
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_20
+  - first:
+      213: 2683021110134950093
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_21
+  - first:
+      213: -8019589318429038315
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_22
+  - first:
+      213: 3772909272089745792
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_23
+  - first:
+      213: -3618144492222159643
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_24
+  - first:
+      213: 8847334002938009379
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_25
+  - first:
+      213: 677710983911582593
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_26
+  - first:
+      213: -6380881647476808506
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_27
+  - first:
+      213: 3088944313907602972
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_28
+  - first:
+      213: 1585578549349176979
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_29
+  - first:
+      213: 1270173464439847337
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_30
+  - first:
+      213: 6764196739109338994
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_31
+  - first:
+      213: 7052094863290046456
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_32
+  - first:
+      213: 5439044996729815971
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_33
+  - first:
+      213: -1847863483777218974
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_34
+  - first:
+      213: -4913370047895853452
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_35
+  - first:
+      213: -5269543508963625682
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_36
+  - first:
+      213: 1235232308228040171
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_37
+  - first:
+      213: 3313965459709507694
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_38
+  - first:
+      213: 880870736978672723
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_39
+  - first:
+      213: 8452639528869708618
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_40
+  - first:
+      213: 1379737671721757780
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_41
+  - first:
+      213: 2099354969424694290
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_42
+  - first:
+      213: 1374235077846115459
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_43
+  - first:
+      213: -7436587711765397965
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_44
+  - first:
+      213: 6604088356710945510
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_45
+  - first:
+      213: -7276041878498055594
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_46
+  - first:
+      213: 3148771198122811189
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_47
+  - first:
+      213: 994906972852871369
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_48
+  - first:
+      213: -3618225600884537095
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_49
+  - first:
+      213: 1612550066502202338
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_50
+  - first:
+      213: -4254205845536259816
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_51
+  - first:
+      213: -3132298780472712203
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_52
+  - first:
+      213: -6803971484552689886
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_53
+  - first:
+      213: -8598603371155589982
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_54
+  - first:
+      213: 6660985354480580164
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_55
+  - first:
+      213: -4828867822502708824
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_56
+  - first:
+      213: -909787150929204709
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_57
+  - first:
+      213: -5146990884149126732
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_58
+  - first:
+      213: -4140021112933823718
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_59
+  - first:
+      213: 4031550287218041859
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_60
+  - first:
+      213: 3386545420525587961
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_61
+  - first:
+      213: -8014452937705497614
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_62
+  - first:
+      213: 2942619967652726200
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_63
+  - first:
+      213: -7526202540661103971
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_64
+  - first:
+      213: -1789768784499177506
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_65
+  - first:
+      213: 149064786066382430
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_66
+  - first:
+      213: 7216793815090974798
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_67
+  - first:
+      213: -7316039332442184093
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_68
+  - first:
+      213: 1459504180555558616
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_69
+  - first:
+      213: -2211460463503856868
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_70
+  - first:
+      213: 4991062133575972017
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_71
+  - first:
+      213: -46675198912172315
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_72
+  - first:
+      213: 7111268712047319269
+    second: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b24c349911887c0800000000000000
+      internalID: -4068982913364644993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165961f203dd8210800000000000000
+      internalID: 1336956673992513049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07608de23febcdb0800000000000000
+      internalID: -4770456378256890099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e169f3705b7eb940800000000000000
+      internalID: 5313820195817087459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2d2092c2b099ef0800000000000000
+      internalID: -101037232344608090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa27067bd5c1df0f0800000000000000
+      internalID: -1081677146664963409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792721a86fe7da7d0800000000000000
+      internalID: -2905526587240582505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfab79da2dd18810800000000000000
+      internalID: 1765935705013071807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 319
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aac20309504a3a0800000000000000
+      internalID: -6655188232505087461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3259af41ffa90d0800000000000000
+      internalID: -3415136901838593044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ef1499f077e4a0800000000000000
+      internalID: -6564153714634923189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252ba66f731bd2d70800000000000000
+      internalID: 9020060482608476754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd534ecbbd6fe810800000000000000
+      internalID: 1796775429730950579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb0f52271c170230800000000000000
+      internalID: 3604880912419851184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658be50714ef3d300800000000000000
+      internalID: 275843559211317334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44b9e88c794e940800000000000000
+      internalID: 5324547547100562682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9815b29047c182bf0800000000000000
+      internalID: -348997686425595511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0826e9dbbca710800000000000000
+      internalID: 1705944903410257493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 255
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95ebdcd64fe0970800000000000000
+      internalID: 8723178280703646188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 287
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af8da4d7c4e8a90800000000000000
+      internalID: -7309821044165379502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb657c57c9d4c5b0800000000000000
+      internalID: -5348911007136388104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 255
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8c7720c710c3520800000000000000
+      internalID: 2683021110134950093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51925862102b4b090800000000000000
+      internalID: -8019589318429038315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089dfa44ef01c5430800000000000000
+      internalID: 3772909272089745792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 223
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4ef0b01c4c9cdc0800000000000000
+      internalID: -3618144492222159643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327da56866b08ca70800000000000000
+      internalID: 8847334002938009379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 223
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2e689c86b76900800000000000000
+      internalID: 677710983911582593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 255
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e550f2fd8277a0800000000000000
+      internalID: -6380881647476808506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ec61dc722eda20800000000000000
+      internalID: 3088944313907602972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396df653a4b110610800000000000000
+      internalID: 1585578549349176979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 166
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a97017490090a110800000000000000
+      internalID: 1270173464439847337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 166
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb77198114fdd50800000000000000
+      internalID: 6764196739109338994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f792c02ae21ed160800000000000000
+      internalID: 7052094863290046456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 166
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a342737b9e5b7b40800000000000000
+      internalID: 5439044996729815971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 166
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2660b00b3f11b56e0800000000000000
+      internalID: -1847863483777218974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476af1d39f330dbb0800000000000000
+      internalID: -4913370047895853452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 166
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f1cb0912ded6b0800000000000000
+      internalID: -5269543508963625682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 166
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a4036d3d642110800000000000000
+      internalID: 1235232308228040171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6836e707029dfd20800000000000000
+      internalID: 3313965459709507694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 166
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c76aaa44b793c00800000000000000
+      internalID: 880870736978672723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4344b41edecd4570800000000000000
+      internalID: 8452639528869708618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c233e2a10d52310800000000000000
+      internalID: 1379737671721757780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c820ac838622d10800000000000000
+      internalID: 2099354969424694290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38426e4b583421310800000000000000
+      internalID: 1374235077846115459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e303b70eeebc890800000000000000
+      internalID: -7436587711765397965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e29c07de5f66ab50800000000000000
+      internalID: 6604088356710945510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ae14d267e460b90800000000000000
+      internalID: -7276041878498055594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5717c8bea2bb20800000000000000
+      internalID: 3148771198122811189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0647dde9e9ecd00800000000000000
+      internalID: 994906972852871369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f88d067cfa79cdc0800000000000000
+      internalID: -3618225600884537095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37568edbde06610800000000000000
+      internalID: 1612550066502202338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811cb6fb25606f4c0800000000000000
+      internalID: -4254205845536259816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e883dad6d784d0800000000000000
+      internalID: -3132298780472712203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278959dbff6391a0800000000000000
+      internalID: -6803971484552689886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47bc19acf9ba880800000000000000
+      internalID: -8598603371155589982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 127
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f4e373e2907c50800000000000000
+      internalID: 6660985354480580164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a97964cc4a6cfcb0800000000000000
+      internalID: -4828867822502708824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a66af0869cf53f0800000000000000
+      internalID: -909787150929204709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91e109f073298b0800000000000000
+      internalID: -5146990884149126732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b46f88bb0bb86c0800000000000000
+      internalID: -4140021112933823718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30461cb40a1f2f730800000000000000
+      internalID: 4031550287218041859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 38
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd47260e1d6ffe20800000000000000
+      internalID: 3386545420525587961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5afaf381f6c090800000000000000
+      internalID: -8014452937705497614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b589e8154946d820800000000000000
+      internalID: 2942619967652726200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a0403aae8d8790800000000000000
+      internalID: -7526202540661103971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed708d9e5c67927e0800000000000000
+      internalID: -1789768784499177506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e910612a5911200800000000000000
+      internalID: 149064786066382430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40dbb51db3372460800000000000000
+      internalID: 7216793815090974798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3666ffa3df4387a90800000000000000
+      internalID: -7316039332442184093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2636c153314410800000000000000
+      internalID: 1459504180555558616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b280edc605f41e0800000000000000
+      internalID: -2211460463503856868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f2b31190d34540800000000000000
+      internalID: 4991062133575972017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eee405672d2a5ff0800000000000000
+      internalID: -46675198912172315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e81eeb673d40b260800000000000000
+      internalID: 7111268712047319269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_0: -4068982913364644993
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_1: 1336956673992513049
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_10: -6564153714634923189
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_11: 9020060482608476754
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_12: 1796775429730950579
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_13: 3604880912419851184
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_14: 275843559211317334
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_15: 5324547547100562682
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_16: -348997686425595511
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_17: 1705944903410257493
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_18: 8723178280703646188
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_19: -7309821044165379502
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_2: -4770456378256890099
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_20: -5348911007136388104
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_21: 2683021110134950093
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_22: -8019589318429038315
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_23: 3772909272089745792
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_24: -3618144492222159643
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_25: 8847334002938009379
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_26: 677710983911582593
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_27: -6380881647476808506
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_28: 3088944313907602972
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_29: 1585578549349176979
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_3: 5313820195817087459
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_30: 1270173464439847337
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_31: 6764196739109338994
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_32: 7052094863290046456
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_33: 5439044996729815971
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_34: -1847863483777218974
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_35: -4913370047895853452
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_36: -5269543508963625682
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_37: 1235232308228040171
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_38: 3313965459709507694
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_39: 880870736978672723
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_4: -101037232344608090
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_40: 8452639528869708618
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_41: 1379737671721757780
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_42: 2099354969424694290
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_43: 1374235077846115459
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_44: -7436587711765397965
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_45: 6604088356710945510
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_46: -7276041878498055594
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_47: 3148771198122811189
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_48: 994906972852871369
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_49: -3618225600884537095
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_5: -1081677146664963409
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_50: 1612550066502202338
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_51: -4254205845536259816
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_52: -3132298780472712203
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_53: -6803971484552689886
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_54: -8598603371155589982
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_55: 6660985354480580164
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_56: -4828867822502708824
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_57: -909787150929204709
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_58: -5146990884149126732
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_59: -4140021112933823718
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_6: -2905526587240582505
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_60: 4031550287218041859
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_61: 3386545420525587961
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_62: -8014452937705497614
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_63: 2942619967652726200
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_64: -7526202540661103971
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_65: -1789768784499177506
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_66: 149064786066382430
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_67: 7216793815090974798
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_68: -7316039332442184093
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_69: 1459504180555558616
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_7: 1765935705013071807
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_70: -2211460463503856868
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_71: 4991062133575972017
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_72: -46675198912172315
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_73: 7111268712047319269
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_8: -6655188232505087461
+      PC _ Computer - Stardew Valley - Non-Playable Characters - Willy_9: -3415136901838593044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
