@@ -60896,7 +60896,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b146968443e2fbb4487d2446e4e29d59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
-  targetSceneIndex: 0
+  targetSceneIndex: 2
 --- !u!1 &2146541330 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7499364239541664317, guid: 6a12757e78457ec42a3aeef3b3d615a1, type: 3}

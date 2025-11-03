@@ -5,53 +5,30 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     [Header("UI Panels")]
-    public CanvasGroup menuMainGroup;   // Menu chính (Play, Exit)
-    public CanvasGroup menuPlayGroup;   // Menu chọn map (Beach, Farm...)
+    public CanvasGroup menuMainGroup;   // Chỉ còn Play, Exit
 
     [Header("Fade Settings")]
     public float fadeDuration = 0.5f;
 
     void Start()
     {
-        // Bắt đầu: Chỉ hiện menu chính, ẩn menu play
         ShowPanel(menuMainGroup, true);
-        ShowPanel(menuPlayGroup, false);
     }
 
     // ====================== BUTTON CALLS ======================
 
     public void PlayGame()
     {
-        // Từ Main → Play Menu
-        StartCoroutine(SwitchMenu(menuMainGroup, menuPlayGroup));
-    }
-
-    public void OnExitClicked()
-    {
-        // Từ Play Menu → Main Menu
-        StartCoroutine(SwitchMenu(menuPlayGroup, menuMainGroup));
-    }
-
-    public void BeachMap()
-    {
-        LoadMap("Beach");
-    }
-
-    public void FarmMap()
-    {
-        LoadMap("Farm");
-    }
-
-    public void MarketMap()
-    {
-        LoadMap("Market");
+        // Bắt đầu chơi mới → vào Farm luôn
+        PlayerPrefs.SetString("NextScene", "Farm");
+        PlayerPrefs.SetInt("IsPlaying", 1); // Đánh dấu đang chơi
+        StartCoroutine(LoadWithFade());
     }
 
     public void QuitGame()
     {
         Debug.Log("Thoát game...");
         Application.Quit();
-
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
@@ -59,24 +36,14 @@ public class MainMenu : MonoBehaviour
 
     // ====================== HÀM HỖ TRỢ ======================
 
-    void LoadMap(string mapName)
+    IEnumerator LoadWithFade()
     {
-        PlayerPrefs.SetString("NextScene", mapName);
+        yield return FadePanel(menuMainGroup, 0f);
         SceneManager.LoadScene("LoadingScene");
-    }
-
-    IEnumerator SwitchMenu(CanvasGroup fromPanel, CanvasGroup toPanel)
-    {
-        // 1. Fade out panel cũ
-        yield return FadePanel(fromPanel, 0f);
-
-        // 2. Fade in panel mới
-        yield return FadePanel(toPanel, 1f);
     }
 
     IEnumerator FadePanel(CanvasGroup panel, float targetAlpha)
     {
-        // Bật/tắt interactable
         panel.interactable = (targetAlpha > 0.5f);
         panel.blocksRaycasts = (targetAlpha > 0.5f);
 
@@ -85,7 +52,7 @@ public class MainMenu : MonoBehaviour
 
         while (elapsed < fadeDuration)
         {
-            elapsed += Time.unscaledDeltaTime; // Dùng unscaled để mượt khi pause
+            elapsed += Time.unscaledDeltaTime;
             panel.alpha = Mathf.Lerp(startAlpha, targetAlpha, elapsed / fadeDuration);
             yield return null;
         }
@@ -98,6 +65,5 @@ public class MainMenu : MonoBehaviour
         panel.alpha = show ? 1f : 0f;
         panel.interactable = show;
         panel.blocksRaycasts = show;
-        // Không cần SetActive → vẫn giữ object
     }
 }

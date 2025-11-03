@@ -2,14 +2,25 @@
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
+
 public class LoadingScreen : MonoBehaviour
 {
-    public Slider progressBar; // Thanh loading (tùy chọn)
+    public Slider progressBar;
 
     void Start()
     {
-        string nextScene = PlayerPrefs.GetString("NextScene", "PlayerPref");
-        StartCoroutine(LoadSceneAsync(nextScene));
+        // Kiểm tra: đang chơi chưa?
+        if (PlayerPrefs.GetInt("IsPlaying", 0) == 1)
+        {
+            // Nếu đang chơi → vào Farm luôn (không đọc NextScene)
+            StartCoroutine(LoadSceneAsync("Farm"));
+        }
+        else
+        {
+            // Nếu chưa chơi → đọc NextScene (từ MainMenu)
+            string nextScene = PlayerPrefs.GetString("NextScene", "MainMenu");
+            StartCoroutine(LoadSceneAsync(nextScene));
+        }
     }
 
     IEnumerator LoadSceneAsync(string sceneName)
@@ -25,4 +36,4 @@ public class LoadingScreen : MonoBehaviour
             yield return null;
         }
     }
-    }
+}
