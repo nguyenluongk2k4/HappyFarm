@@ -30,14 +30,14 @@ public class PlayerMovement : MonoBehaviour
 
         lastMovementDirection = new Vector2(0, -1f);
 
-        Debug.Log("Rigidbody2D bodyType = " + rb.bodyType);
+        //Debug.Log("Rigidbody2D bodyType = " + rb.bodyType);
     }
 
     void Update()
     {
         movementInput.x = Input.GetAxisRaw("Horizontal");
         movementInput.y = Input.GetAxisRaw("Vertical");
-
+       
         if (movementInput.x > 0.01f) spriteRenderer.flipX = false;
         else if (movementInput.x < -0.01f) spriteRenderer.flipX = true;
 
@@ -60,13 +60,13 @@ public class PlayerMovement : MonoBehaviour
         Vector2 moveDirection = movementInput.normalized;
         rb.linearVelocity = moveDirection * moveSpeed;
 
-        if (rb.linearVelocity.sqrMagnitude > 0.01f)
-            Debug.Log("Player đang di chuyển với vận tốc: " + rb.linearVelocity);
+        //if (rb.linearVelocity.sqrMagnitude > 0.01f) ;
+            //Debug.Log("Player đang di chuyển với vận tốc: " + rb.linearVelocity);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Obstacle"))
-            Debug.Log("Player đã va chạm với vật cản: " + collision.gameObject.name);
+        //if (collision.gameObject.CompareTag("Obstacle"))
+            //Debug.Log("Player đã va chạm với vật cản: " + collision.gameObject.name);
     }
 }

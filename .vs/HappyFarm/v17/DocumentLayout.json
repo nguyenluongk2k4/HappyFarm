@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dowload\\HappyFarm\\",
+  "WorkspaceRootPath": "E:\\Unity\\Project\\HappyFarm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|d:\\dowload\\happyfarm\\assets\\scripts\\farm\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\unity\\project\\happyfarm\\assets\\scripts\\farm\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\unity\\project\\happyfarm\\assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\unity\\project\\happyfarm\\assets\\scripts\\farm\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\unity\\project\\happyfarm\\assets\\scripts\\farm\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\unity\\project\\happyfarm\\assets\\scripts\\farm\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\Player.cs",
+              "ToolTip": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:27:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PotalManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Managers\\PotalManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PotalManager.cs",
+              "ToolTip": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Managers\\PotalManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\PotalManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:45:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\InventoryManager.cs",
+              "ToolTip": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\InventoryManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:39:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\PlayerInteraction.cs",
+              "ToolTip": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\PlayerInteraction.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAD4v0IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:00:40.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Dowload\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\PlayerMovement.cs",
-              "ToolTip": "D:\\Dowload\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerMovement.cs",
+              "ToolTip": "E:\\Unity\\Project\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\PlayerMovement.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T11:40:41.474Z",
               "EditorCaption": ""

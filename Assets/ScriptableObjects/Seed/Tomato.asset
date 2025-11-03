@@ -16,7 +16,7 @@ MonoBehaviour:
   growTimeInSeconds: 10
   witherTimeInSeconds: 5
   seedItem: {fileID: 11400000, guid: c722da31eb34fe649a2e3bce049fab5e, type: 2}
-  harvestItem: {fileID: 0}
+  harvestItem: {fileID: 11400000, guid: 8af9ad4ef6f13784c904415e590a6b87, type: 2}
   harvestItemAmount: 1
   xpGained: 10
   growthSprites:
