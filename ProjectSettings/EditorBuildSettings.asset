@@ -5,13 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/PlayerPref.unity
+    guid: 4b41bb6e6af932b4cbf29115df79c8bb
+  - enabled: 0
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 36510408b4bedfa43b072c8c3efd7af5
+  - enabled: 0
+    path: D:/New folder (2)/TestPRUprj/ProjectGameBomberMan/Assets/Scenes/MainMenu.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Beach.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Farm.unity
     guid: ce1e5e8d48154b94d82e899fe1315528
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Market.unity
     guid: eb147fee61bbfce4980a1dbc01038339
   m_configObjects:

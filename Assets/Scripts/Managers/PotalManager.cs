@@ -2,7 +2,7 @@
 
 public class PotalManager : MonoBehaviour
 {
-    [SerializeField] private int targetSceneIndex = 1; // Index của scene muốn chuyển đến
+    [SerializeField] private int targetSceneIndex = 2; // Index của scene muốn chuyển đến
     
     void Start()
     {
