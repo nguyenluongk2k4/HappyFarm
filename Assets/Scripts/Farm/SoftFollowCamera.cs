@@ -1,9 +1,4 @@
-﻿// 30/10/2025
-// Script Camera "Dead Zone" VÀ "Giới hạn Biên" (Limits)
-// Camera sẽ chỉ di chuyển khi target (Player) đi ra khỏi vùng an toàn
-// VÀ sẽ dừng lại khi chạm đến các mốc giới hạn min/max.
-
-using UnityEngine;
+﻿using UnityEngine;
 
 public class SoftFollowCamera : MonoBehaviour
 {
@@ -26,6 +21,22 @@ public class SoftFollowCamera : MonoBehaviour
 
     private Vector3 velocity = Vector3.zero;
 
+    void Start()
+    {
+        if (target == null)
+        {
+            GameObject playerObject = GameObject.FindWithTag("Player");
+            if (playerObject != null)
+            {
+                target = playerObject.transform;
+                Debug.Log("Camera đã tự động tìm thấy và theo dõi Player!");
+            }
+            else
+            {
+                Debug.LogWarning("Camera không tìm thấy đối tượng nào có tag 'Player' trong Scene!");
+            }
+        }
+    }
     private void OnDrawGizmos()
     {
         // 1. Vẽ vùng Dead Zone (Màu đỏ)
@@ -46,7 +57,20 @@ public class SoftFollowCamera : MonoBehaviour
 
     void LateUpdate()
     {
-        if (target == null) return;
+        // Nếu target bằng null, tìm object có tag "Player"
+        if (target == null)
+        {
+            GameObject playerObject = GameObject.FindWithTag("Player");
+            if (playerObject != null)
+            {
+                target = playerObject.transform;
+                Debug.Log("Camera đã tìm thấy Player: " + target.name);
+            }
+            else
+            {
+                return; // Không tìm thấy Player, thoát
+            }
+        }
 
         Vector3 cameraPos = transform.position;
         Vector3 targetPos = target.position;

@@ -694,6 +694,7 @@ GameObject:
   - component: {fileID: 363110053}
   - component: {fileID: 363110052}
   - component: {fileID: 363110055}
+  - component: {fileID: 363110056}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -744,7 +745,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 14
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -819,6 +820,27 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &363110056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 363110051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca56f22b7a4f9b43961666274267eec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SoftFollowCamera
+  target: {fileID: 0}
+  smoothTime: 0.3
+  deadZoneSize: {x: 0, y: 0}
+  zOffset: -10
+  useLimits: 1
+  minX: -20
+  maxX: 20
+  minY: -20
+  maxY: 20
 --- !u!1 &373181056
 GameObject:
   m_ObjectHideFlags: 0
@@ -2526,7 +2548,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1183665762
 BoxCollider2D:
   m_ObjectHideFlags: 0

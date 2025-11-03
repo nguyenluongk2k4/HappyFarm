@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour
 {
@@ -25,5 +27,20 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         // Game logic here
+    }
+
+    /// <summary>
+    /// Load scene theo index
+    /// </summary>
+    public void LoadSceneByIndex(int sceneIndex)
+    {
+        if (sceneIndex < 0 || sceneIndex >= SceneManager.sceneCountInBuildSettings)
+        {
+            Debug.LogError($"Scene index {sceneIndex} is out of range!");
+            return;
+        }
+
+        Debug.Log($"Loading scene at index: {sceneIndex}");
+        SceneManager.LoadScene(sceneIndex);
     }
 }

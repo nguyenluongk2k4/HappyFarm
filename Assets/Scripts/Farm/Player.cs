@@ -10,6 +10,19 @@ public class Player : MonoBehaviour
     public int XP;
     public int Coins;
 
+    public static Player instance;
+    void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else if (instance != this)
+        {
+            Destroy(gameObject);
+        }
+    }
     public void AddXP(int amount)
     {
         XP += amount;
