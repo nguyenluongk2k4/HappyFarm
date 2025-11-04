@@ -55212,6 +55212,7 @@ MonoBehaviour:
   maxX: 48
   minY: -20
   maxY: 20
+  boundaryCollider: {fileID: 0}
 --- !u!1 &714630981
 GameObject:
   m_ObjectHideFlags: 0
@@ -55685,6 +55686,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 2
+  useCustomSpawnPosition: 1
+  customSpawnPosition: {x: 16, y: 15, z: 0}
+  spawnPointName: 
 --- !u!1001 &909629801
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58285,7 +58289,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!212 &1687029025
 SpriteRenderer:
@@ -61062,6 +61066,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 2
+  useCustomSpawnPosition: 0
+  customSpawnPosition: {x: 0, y: 0, z: 0}
+  spawnPointName: 
 --- !u!1 &2146541330 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7499364239541664317, guid: 6a12757e78457ec42a3aeef3b3d615a1, type: 3}
