@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
-  m_Name: Cow
-  m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Cow
-  icon: {fileID: 0}
-  price: 10
-  category: 4
+  m_Name: "B\xECnh T\u01B0\u1EDBi"
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataProduct
+  itemName: "B\xECnh T\u01B0\u1EDBi"
+  itemIcon: {fileID: 3246497681997327526, guid: cc274f58782dc204f89548484d5b4d9b, type: 3}
+  price: 5
+  category: 3

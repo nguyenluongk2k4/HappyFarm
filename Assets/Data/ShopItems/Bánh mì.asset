@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
-  m_Name: Bread
-  m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Bread
-  icon: {fileID: 0}
-  price: 10
+  m_Name: "B\xE1nh m\xEC"
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataProduct
+  itemName: "B\xE1nh M\u1EF3"
+  itemIcon: {fileID: -550354215262952339, guid: b3bd02d57a209194f80d49bb044e731a, type: 3}
+  price: 5
   category: 0

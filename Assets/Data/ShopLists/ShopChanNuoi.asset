@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3401e8b044f844aaffcecb2b3f98f1, type: 3}
   m_Name: ShopChanNuoi
   m_EditorClassIdentifier: Assembly-CSharp::ShopData
-  shopName: "C\u1EEDa h\xE0ng chung"
+  shopName: "C\u1EEDa h\xE0ng ch\u0103n nu\xF4i"
   itemsForSale:
-  - {fileID: 11400000, guid: 4535ddabaa49b2e4492bbadd4af5d992, type: 2}
+  - {fileID: 11400000, guid: a911401982198884f91ae48b74c930de, type: 2}
+  - {fileID: 11400000, guid: c9cea31bdaa3058458e5ce9d135d1726, type: 2}
+  - {fileID: 11400000, guid: 2d7c81ca400da924ca0e347c829b413b, type: 2}
+  - {fileID: 11400000, guid: 1f4c8599ba61bb844b4df09c609d472f, type: 2}
