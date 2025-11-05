@@ -47,20 +47,30 @@ public class PotalManager : MonoBehaviour
 
     private void ChangeScene()
     {
-        // Kiểm tra GameManager có tồn tại không
-        if (GameManager.Instance == null)
+        GameManager gm = GameManager.Instance;
+
+        if (gm == null)
         {
-            Debug.LogError("GameManager not found! Please add GameManager to the scene.");
-            return;
+            gm = FindFirstObjectByType<GameManager>();
+            if (gm == null)
+            {
+                Debug.LogWarning("⚠️ GameManager không tồn tại — tạo tạm trong runtime!");
+                GameObject gmObj = new GameObject("[GameManager - Runtime]");
+                gm = gmObj.AddComponent<GameManager>();
+                DontDestroyOnLoad(gmObj);
+            }
+            else
+            {
+                GameManager.Instance = gm;
+            }
         }
 
-        // ✨ Gửi thông tin spawn sang GameManager
-        GameManager.Instance.SetNextSpawnInfo(useCustomSpawnPosition, customSpawnPosition, spawnPointName);
+        gm.SetNextSpawnInfo(useCustomSpawnPosition, customSpawnPosition, spawnPointName);
+        gm.LoadSceneByIndex(targetSceneIndex);
 
-        // Chuyển scene bằng index
-        GameManager.Instance.LoadSceneByIndex(targetSceneIndex);
-        Debug.Log($"Portal: Loading scene at index {targetSceneIndex}");
+        Debug.Log($"✓ Portal: Chuyển đến scene {targetSceneIndex}");
     }
+
 
     /// <summary>
     /// Hàm công khai để load scene theo index từ bên ngoài
