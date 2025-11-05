@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
-  m_Name: Apple
-  m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Apple
-  icon: {fileID: 0}
-  price: 10
-  category: 1
+  m_Name: "Khoai T\xE2y"
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataProduct
+  itemName: "Khoai T\xE2y"
+  itemIcon: {fileID: -8286018175113047878, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
+  price: 5
+  category: 2

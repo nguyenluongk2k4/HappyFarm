@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: 7e6e38702185a9a4aac45827f2d885f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 138437426192691693
+    second: Seedling_0
+  - first:
+      213: -7862130200913681361
+    second: Seedling_1
+  - first:
+      213: 984215475310794159
+    second: Seedling_2
+  - first:
+      213: 1234874422485274925
+    second: Seedling_3
+  - first:
+      213: 1244223869004913309
+    second: Seedling_4
+  - first:
+      213: -8638260308508965491
+    second: Seedling_5
+  - first:
+      213: 5810798220359972319
+    second: Seedling_6
+  - first:
+      213: 5519594273840120545
+    second: Seedling_7
+  - first:
+      213: 7415473532184597858
+    second: Seedling_8
+  - first:
+      213: -2410242721417261906
+    second: Seedling_9
+  - first:
+      213: -1118996380198811072
+    second: Seedling_10
+  - first:
+      213: -7231144348059264991
+    second: Seedling_11
+  - first:
+      213: -1016580652722472885
+    second: Seedling_12
+  - first:
+      213: -4257057218657259934
+    second: Seedling_13
+  - first:
+      213: 6562711641070896273
+    second: Seedling_14
+  - first:
+      213: 4328360513434257616
+    second: Seedling_15
+  - first:
+      213: 2852730562757832543
+    second: Seedling_16
+  - first:
+      213: -4008228019918864821
+    second: Seedling_17
+  - first:
+      213: -521420484486507987
+    second: Seedling_18
+  - first:
+      213: 5310659533754083194
+    second: Seedling_19
+  - first:
+      213: -4077903418241652048
+    second: Seedling_20
+  - first:
+      213: 559438565261930569
+    second: Seedling_21
+  - first:
+      213: -5871092936333312894
+    second: Seedling_22
+  - first:
+      213: 4348672820178958279
+    second: Seedling_23
+  - first:
+      213: 6647763427778174700
+    second: Seedling_24
+  - first:
+      213: -8536331686156546639
+    second: Seedling_25
+  - first:
+      213: -90477576207775391
+    second: Seedling_26
+  - first:
+      213: 7062903567887758651
+    second: Seedling_27
+  - first:
+      213: 5490630130870980894
+    second: Seedling_28
+  - first:
+      213: -6666135779916002093
+    second: Seedling_29
+  - first:
+      213: 2042723764844125330
+    second: Seedling_30
+  - first:
+      213: -5886268281154647428
+    second: Seedling_31
+  - first:
+      213: 8692041830599522675
+    second: Seedling_32
+  - first:
+      213: 7328127817432900122
+    second: Seedling_33
+  - first:
+      213: -3896178100430706182
+    second: Seedling_34
+  - first:
+      213: 4305727506650000274
+    second: Seedling_35
+  - first:
+      213: 1821801119157437298
+    second: Seedling_36
+  - first:
+      213: 8091621545819321021
+    second: Seedling_37
+  - first:
+      213: 3471754099879896814
+    second: Seedling_38
+  - first:
+      213: 1479900456901391339
+    second: Seedling_39
+  - first:
+      213: -6914588288867816330
+    second: Seedling_40
+  - first:
+      213: -4721219110490337283
+    second: Seedling_41
+  - first:
+      213: -8712066090397962259
+    second: Seedling_42
+  - first:
+      213: 4470081041953500517
+    second: Seedling_43
+  - first:
+      213: 2651004149088077431
+    second: Seedling_44
+  - first:
+      213: 822338962559168132
+    second: Seedling_45
+  - first:
+      213: -5288405791569417264
+    second: Seedling_46
+  - first:
+      213: -8247019279482582176
+    second: Seedling_47
+  - first:
+      213: -2691802199852104630
+    second: Seedling_48
+  - first:
+      213: 4580532094502048850
+    second: Seedling_49
+  - first:
+      213: 2949928201907456005
+    second: Seedling_50
+  - first:
+      213: -2582498823371100270
+    second: Seedling_51
+  - first:
+      213: -151353099189233569
+    second: Seedling_52
+  - first:
+      213: -8615893691121333453
+    second: Seedling_53
+  - first:
+      213: -6666780508006905909
+    second: Seedling_54
+  - first:
+      213: -3287121170761667702
+    second: Seedling_55
+  - first:
+      213: 3255737407989892656
+    second: Seedling_56
+  - first:
+      213: 5198979626094863137
+    second: Seedling_57
+  - first:
+      213: -785235950753569382
+    second: Seedling_58
+  - first:
+      213: 6702201070497051099
+    second: Seedling_59
+  - first:
+      213: -8061376485662895737
+    second: Seedling_60
+  - first:
+      213: -1335223186576999393
+    second: Seedling_61
+  - first:
+      213: 1555340420991479108
+    second: Seedling_62
+  - first:
+      213: 2128636731010481018
+    second: Seedling_63
+  - first:
+      213: 1655090100453740642
+    second: Seedling_64
+  - first:
+      213: 3389042922414430889
+    second: Seedling_65
+  - first:
+      213: -8136926943236625423
+    second: Seedling_66
+  - first:
+      213: -1754546903563918630
+    second: Seedling_67
+  - first:
+      213: 7663450676119434524
+    second: Seedling_68
+  - first:
+      213: 662785941395427502
+    second: Seedling_69
+  - first:
+      213: 418803187622925870
+    second: Seedling_70
+  - first:
+      213: -5037514482261248863
+    second: Seedling_71
+  - first:
+      213: 983152998840734783
+    second: Seedling_72
+  - first:
+      213: -547021695115396172
+    second: Seedling_73
+  - first:
+      213: 1962848840584756724
+    second: Seedling_74
+  - first:
+      213: 3714069281240698604
+    second: Seedling_75
+  - first:
+      213: -464219711774933058
+    second: Seedling_76
+  - first:
+      213: 4171260487700067949
+    second: Seedling_77
+  - first:
+      213: -3361965846179160907
+    second: Seedling_78
+  - first:
+      213: -2077336125475184340
+    second: Seedling_79
+  - first:
+      213: -934904023813435466
+    second: Seedling_80
+  - first:
+      213: 5952214951924788877
+    second: Seedling_81
+  - first:
+      213: -4036154110825273156
+    second: Seedling_82
+  - first:
+      213: 3390954089759606795
+    second: Seedling_83
+  - first:
+      213: 1850628648725374771
+    second: Seedling_84
+  - first:
+      213: 1369953263468352455
+    second: Seedling_85
+  - first:
+      213: -8940886762483577844
+    second: Seedling_86
+  - first:
+      213: 962037919845069468
+    second: Seedling_87
+  - first:
+      213: 7278363730993402784
+    second: Seedling_88
+  - first:
+      213: 3013659218981637558
+    second: Seedling_89
+  - first:
+      213: 1269468780332876421
+    second: Seedling_90
+  - first:
+      213: 7413270313137653689
+    second: Seedling_91
+  - first:
+      213: -6386504080692605253
+    second: Seedling_92
+  - first:
+      213: 3061833092591700669
+    second: Seedling_93
+  - first:
+      213: -4796704561686905626
+    second: Seedling_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seedling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b5db0b14dbe100800000000000000
+      internalID: 138437426192691693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246ba4dc3a14e290800000000000000
+      internalID: -7862130200913681361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5975c92c2a8ad00800000000000000
+      internalID: 984215475310794159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21537e9eb7232110800000000000000
+      internalID: 1234874422485274925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9915440f544110800000000000000
+      internalID: 1244223869004913309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8587f1540cbe1880800000000000000
+      internalID: -8638260308508965491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5370ac13a14a050800000000000000
+      internalID: 5810798220359972319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2458c7fb9899c40800000000000000
+      internalID: 5519594273840120545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659c2f73ed09e660800000000000000
+      internalID: 7415473532184597858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac047fc3091d8ed0800000000000000
+      internalID: -2410242721417261906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 84
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4d4d88b68870f0800000000000000
+      internalID: -1118996380198811072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1289a561780d5ab90800000000000000
+      internalID: -7231144348059264991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4831fc484164e1f0800000000000000
+      internalID: -1016580652722472885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eeb65b305ebe4c0800000000000000
+      internalID: -4257057218657259934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940a51877f631b50800000000000000
+      internalID: 6562711641070896273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 83
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8831f44fc611c30800000000000000
+      internalID: 4328360513434257616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fa419155fe69720800000000000000
+      internalID: 2852730562757832543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef7f53ad9ef58c0800000000000000
+      internalID: -4008228019918864821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22d19bf4da83c8f0800000000000000
+      internalID: -521420484486507987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77247875b043b940800000000000000
+      internalID: 5310659533754083194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baea5f52706867c0800000000000000
+      internalID: -4077903418241652048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940771c396683c700800000000000000
+      internalID: 559438565261930569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c3c8ea410b58ea0800000000000000
+      internalID: -5871092936333312894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7b923c3e6995c30800000000000000
+      internalID: 4348672820178958279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1d8fbd99914c50800000000000000
+      internalID: 6647763427778174700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 82
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd4ab11f8bd88980800000000000000
+      internalID: -8536331686156546639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 83
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1694ff1bf1f8ebef0800000000000000
+      internalID: -90477576207775391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f9c6cf59740260800000000000000
+      internalID: 7062903567887758651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 83
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e111f9f6303a23c40800000000000000
+      internalID: 5490630130870980894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 83
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc59da3d02d73a0800000000000000
+      internalID: -6666135779916002093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c58c9f076395c10800000000000000
+      internalID: 2042723764844125330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac0216f26cf4ea0800000000000000
+      internalID: -5886268281154647428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37978b51ef550a870800000000000000
+      internalID: 8692041830599522675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a122fb28c6db2b560800000000000000
+      internalID: 7328127817432900122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9eb2619aefde9c0800000000000000
+      internalID: -3896178100430706182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b6085ca5401cb30800000000000000
+      internalID: 4305727506650000274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c9ce2776584910800000000000000
+      internalID: 1821801119157437298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db23577bce63b4070800000000000000
+      internalID: 8091621545819321021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6e8dea5f52e2030800000000000000
+      internalID: 3471754099879896814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bb8cef99a98410800000000000000
+      internalID: 1479900456901391339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c25f916927a00a0800000000000000
+      internalID: -6914588288867816330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff007cab3cda7eb0800000000000000
+      internalID: -4721219110490337283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6a1e9c06881780800000000000000
+      internalID: -8712066090397962259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da8de260be80e30800000000000000
+      internalID: 4470081041953500517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7764b7c5a324ac420800000000000000
+      internalID: 2651004149088077431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6d44fde8896b00800000000000000
+      internalID: 822338962559168132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 67
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbe265a3fecb96b0800000000000000
+      internalID: -5288405791569417264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b84aee8a3bc8d80800000000000000
+      internalID: -8247019279482582176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 68
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444338392cc4aad0800000000000000
+      internalID: -2691802199852104630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541217dba1519f30800000000000000
+      internalID: 4580532094502048850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 65
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508c99bf11040f820800000000000000
+      internalID: 2949928201907456005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fe918b00f192cd0800000000000000
+      internalID: -2582498823371100270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58db2f782946edf0800000000000000
+      internalID: -151353099189233569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0f2e36523e6880800000000000000
+      internalID: -8615893691121333453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc700c83376da73a0800000000000000
+      internalID: -6666780508006905909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 49
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ba51b06bcc162d0800000000000000
+      internalID: -3287121170761667702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03640354ce3be2d20800000000000000
+      internalID: 3255737407989892656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 51
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a0efac6c762840800000000000000
+      internalID: 5198979626094863137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a77a20184a15f0800000000000000
+      internalID: -785235950753569382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd138342d50030d50800000000000000
+      internalID: 6702201070497051099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781506b1ccc302090800000000000000
+      internalID: -8061376485662895737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c763c0695587de0800000000000000
+      internalID: -1335223186576999393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44de0025fdda59510800000000000000
+      internalID: 1555340420991479108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7abf24df6a8d10800000000000000
+      internalID: 2128636731010481018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609fc46daf08f610800000000000000
+      internalID: 1655090100453740642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 50
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa501ff49c480f20800000000000000
+      internalID: 3389042922414430889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb63117e04d31f80800000000000000
+      internalID: -8136926943236625423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2af4f13e896a7e0800000000000000
+      internalID: -1754546903563918630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1573d789cb0a5a60800000000000000
+      internalID: 7663450676119434524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea05ff65d40b23900800000000000000
+      internalID: 662785941395427502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d01db743efc500800000000000000
+      internalID: 418803187622925870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4beeda447271ab0800000000000000
+      internalID: -5037514482261248863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3413c7817cd4ad00800000000000000
+      internalID: 983152998840734783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf632aaa69868f0800000000000000
+      internalID: -547021695115396172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd77d2fe907d3b10800000000000000
+      internalID: 1962848840584756724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeca8355560b8330800000000000000
+      internalID: 3714069281240698604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfbbe5b1a2ce89f0800000000000000
+      internalID: -464219711774933058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d663cf2305b43e930800000000000000
+      internalID: 4171260487700067949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcde7710e5e751d0800000000000000
+      internalID: -3361965846179160907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 33
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2127f1dcc1db23e0800000000000000
+      internalID: -2077336125475184340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf44816ebd8603f0800000000000000
+      internalID: -934904023813435466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eee3c66f38a9250800000000000000
+      internalID: 5952214951924788877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8e68d7833bcf7c0800000000000000
+      internalID: -4036154110825273156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0887c157c61f0f20800000000000000
+      internalID: 3390954089759606795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ef6273f0cea910800000000000000
+      internalID: 1850628648725374771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c31beb1c3d030310800000000000000
+      internalID: 1369953263468352455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8c214cd69be380800000000000000
+      internalID: -8940886762483577844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9232d81468d95d00800000000000000
+      internalID: 962037919845069468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d2fb3041f10560800000000000000
+      internalID: 7278363730993402784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4b75b71ba2d920800000000000000
+      internalID: 3013659218981637558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_90
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828039312f0e9110800000000000000
+      internalID: 1269468780332876421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_91
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c486921a31e660800000000000000
+      internalID: 7413270313137653689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_92
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe0cb130649e57a0800000000000000
+      internalID: -6386504080692605253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac675b9f0dd7a20800000000000000
+      internalID: 3061833092591700669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seedling_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecf72c7d9eae6db0800000000000000
+      internalID: -4796704561686905626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Seedling_0: 138437426192691693
+      Seedling_1: -7862130200913681361
+      Seedling_10: -1118996380198811072
+      Seedling_11: -7231144348059264991
+      Seedling_12: -1016580652722472885
+      Seedling_13: -4257057218657259934
+      Seedling_14: 6562711641070896273
+      Seedling_15: 4328360513434257616
+      Seedling_16: 2852730562757832543
+      Seedling_17: -4008228019918864821
+      Seedling_18: -521420484486507987
+      Seedling_19: 5310659533754083194
+      Seedling_2: 984215475310794159
+      Seedling_20: -4077903418241652048
+      Seedling_21: 559438565261930569
+      Seedling_22: -5871092936333312894
+      Seedling_23: 4348672820178958279
+      Seedling_24: 6647763427778174700
+      Seedling_25: -8536331686156546639
+      Seedling_26: -90477576207775391
+      Seedling_27: 7062903567887758651
+      Seedling_28: 5490630130870980894
+      Seedling_29: -6666135779916002093
+      Seedling_3: 1234874422485274925
+      Seedling_30: 2042723764844125330
+      Seedling_31: -5886268281154647428
+      Seedling_32: 8692041830599522675
+      Seedling_33: 7328127817432900122
+      Seedling_34: -3896178100430706182
+      Seedling_35: 4305727506650000274
+      Seedling_36: 1821801119157437298
+      Seedling_37: 8091621545819321021
+      Seedling_38: 3471754099879896814
+      Seedling_39: 1479900456901391339
+      Seedling_4: 1244223869004913309
+      Seedling_40: -6914588288867816330
+      Seedling_41: -4721219110490337283
+      Seedling_42: -8712066090397962259
+      Seedling_43: 4470081041953500517
+      Seedling_44: 2651004149088077431
+      Seedling_45: 822338962559168132
+      Seedling_46: -5288405791569417264
+      Seedling_47: -8247019279482582176
+      Seedling_48: -2691802199852104630
+      Seedling_49: 4580532094502048850
+      Seedling_5: -8638260308508965491
+      Seedling_50: 2949928201907456005
+      Seedling_51: -2582498823371100270
+      Seedling_52: -151353099189233569
+      Seedling_53: -8615893691121333453
+      Seedling_54: -6666780508006905909
+      Seedling_55: -3287121170761667702
+      Seedling_56: 3255737407989892656
+      Seedling_57: 5198979626094863137
+      Seedling_58: -785235950753569382
+      Seedling_59: 6702201070497051099
+      Seedling_6: 5810798220359972319
+      Seedling_60: -8061376485662895737
+      Seedling_61: -1335223186576999393
+      Seedling_62: 1555340420991479108
+      Seedling_63: 2128636731010481018
+      Seedling_64: 1655090100453740642
+      Seedling_65: 3389042922414430889
+      Seedling_66: -8136926943236625423
+      Seedling_67: -1754546903563918630
+      Seedling_68: 7663450676119434524
+      Seedling_69: 662785941395427502
+      Seedling_7: 5519594273840120545
+      Seedling_70: 418803187622925870
+      Seedling_71: -5037514482261248863
+      Seedling_72: 983152998840734783
+      Seedling_73: -547021695115396172
+      Seedling_74: 1962848840584756724
+      Seedling_75: 3714069281240698604
+      Seedling_76: -464219711774933058
+      Seedling_77: 4171260487700067949
+      Seedling_78: -3361965846179160907
+      Seedling_79: -2077336125475184340
+      Seedling_8: 7415473532184597858
+      Seedling_80: -934904023813435466
+      Seedling_81: 5952214951924788877
+      Seedling_82: -4036154110825273156
+      Seedling_83: 3390954089759606795
+      Seedling_84: 1850628648725374771
+      Seedling_85: 1369953263468352455
+      Seedling_86: -8940886762483577844
+      Seedling_87: 962037919845069468
+      Seedling_88: 7278363730993402784
+      Seedling_89: 3013659218981637558
+      Seedling_9: -2410242721417261906
+      Seedling_90: 1269468780332876421
+      Seedling_91: 7413270313137653689
+      Seedling_92: -6386504080692605253
+      Seedling_93: 3061833092591700669
+      Seedling_94: -4796704561686905626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

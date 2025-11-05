@@ -33,6 +33,33 @@ public class ShopUIManager : MonoBehaviour
             if (nameText != null) nameText.text = item.itemName;
             if (priceText != null) priceText.text = item.price + " G";
             if (image != null) image.sprite = item.itemIcon;
+
+            // --- Gán sự kiện click vào ảnh ---
+            if (image != null)
+            {
+                // Đảm bảo ảnh có Button hoặc EventTrigger để nhận click
+                Button imageButton = image.GetComponent<Button>();
+                if (imageButton == null)
+                    imageButton = image.gameObject.AddComponent<Button>();
+
+                imageButton.onClick.RemoveAllListeners();
+                imageButton.onClick.AddListener(() => OnProductImageClicked(item));
+            }
+
         }
     }
+
+
+    // --- Khi người chơi click vào ảnh sản phẩm ---
+    private void OnProductImageClicked(ItemDataProduct item)
+    {
+        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemName} ({item.price} G)");
+
+        // 👉 Thêm logic mua hàng tại đây:
+        // - Kiểm tra đủ tiền
+        // - Trừ tiền
+        // - Thêm item vào kho (inventory)
+        // - Cập nhật UI hoặc hiệu ứng mua
+    }
 }
+
