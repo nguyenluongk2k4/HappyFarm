@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "E:\\git repo\\HappyFarm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\hotbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\hotbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\git repo\\happyfarm\\assets\\scripts\\farm\\hotbarslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\hotbarslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\git repo\\happyfarm\\assets\\scripts\\farm\\dragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\dragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\git repo\\happyfarm\\assets\\scripts\\farm\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\itemdatalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\itemdatalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\itemstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\itemstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\landplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\landplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\git repo\\happyfarm\\assets\\scripts\\farm\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,122 +58,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PickupItem.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\PickupItem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\PickupItem.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\PickupItem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\PickupItem.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HotBarSlotUI.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\HotBarSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\HotBarSlotUI.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\HotBarSlotUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\HotBarSlotUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:27:43.23Z",
+              "WhenOpened": "2025-11-05T07:23:31.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IInteractable.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\IInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\IInteractable.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\IInteractable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\IInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DragService.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\DragService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\DragService.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\DragService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\DragService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:26:44.773Z",
+              "WhenOpened": "2025-11-05T07:23:16.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LandPlot.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\LandPlot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\LandPlot.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\LandPlot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\LandPlot.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAYwAYAAAAzAAAAAAAAAA==",
+              "Title": "ItemStack.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\ItemStack.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\ItemStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:22:30.629Z",
+              "WhenOpened": "2025-11-05T07:07:32.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ItemData.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\ItemData.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\ItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HotBarUI.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\HotBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\HotBarUI.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\HotBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\HotBarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:18:53.954Z"
+              "WhenOpened": "2025-11-05T05:26:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\InventoryUI.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\InventoryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T05:23:24.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ItemDataList.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemDataList.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\ItemDataList.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemDataList.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\ItemDataList.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:17:58.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "InventoryManager.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\InventoryManager.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventoryManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\InventoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T04:12:15.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InventorySlot.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventorySlot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\InventorySlot.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\InventorySlot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\InventorySlot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T04:12:05.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\PlayerInteraction.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerInteraction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\PlayerInteraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T04:07:11.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Chicken.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\Chicken.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\Chicken.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\Chicken.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\Chicken.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T03:49:04.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T03:49:04.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\LoadingScene\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingScene\\MainMenu.cs",
@@ -189,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\PlayerMovement.cs",

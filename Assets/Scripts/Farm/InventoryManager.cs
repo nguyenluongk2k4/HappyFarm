@@ -1,110 +1,112 @@
-﻿// 30/10/2025
-// Quản lý kho đồ của người chơi (Singleton)
-
+﻿using UnityEngine;
+using UnityEngine.Events;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
-    // --- Singleton Pattern ---
-    // Giúp các script khác có thể gọi InventoryManager.Instance.HàmGìĐó()
     public static InventoryManager Instance { get; private set; }
+
+    [System.Serializable] public class SlotChangedEvent : UnityEvent<int> { }
+
+    public UnityEvent OnChanged = new UnityEvent();        // tổng
+    public SlotChangedEvent OnSlotChanged = new SlotChangedEvent(); // theo ô
+
+    [Header("Settings")] public int maxSlots = 20;
+    [Header("Data")] public List<ItemStack> slots = new List<ItemStack>();
 
     void Awake()
     {
-        // Chỉ cho phép 1 InventoryManager tồn tại
-        if (Instance != null && Instance != this)
-        {
-            Destroy(gameObject);
-        }
-        else
-        {
-            Instance = this;
-            DontDestroyOnLoad(gameObject); // (Tùy chọn) Giữ kho đồ khi chuyển scene
-        }
+        if (Instance != null && Instance != this) { Destroy(gameObject); return; }
+        Instance = this; DontDestroyOnLoad(gameObject);
+        // Khởi tạo đủ ô rỗng
+        while (slots.Count < maxSlots) slots.Add(new ItemStack(null, 0));
     }
-    // --- Hết Singleton ---
 
-    [Header("Settings")]
-    public int maxSlots = 20; // Số ô kho tối đa
-
-    [Header("Inventory Data")]
-    public List<InventorySlot> slots = new List<InventorySlot>();
-
-    // --- CÁC HÀM CỐT LÕI ---
-
-    /**
-     * HÀM QUAN TRỌNG (UC-1.3)
-     * Kiểm tra xem có đủ chỗ để thêm vật phẩm không.
-     */
-    public bool CheckForSpace(ItemData item, int amount)
+    public bool CanAdd(ItemData item, int amount)
     {
-        int amountLeftToAdd = amount;
-
-        // 1. Kiểm tra các ô ĐÃ CÓ item này và còn chỗ
-        foreach (InventorySlot slot in slots)
+        // đơn giản: còn ô trống hoặc có stack cùng loại chưa full
+        int left = amount;
+        for (int i = 0; i < slots.Count; i++)
         {
-            if (slot.item == item && !slot.IsStackFull())
+            var s = slots[i];
+            if (s.item == item && s.quantity < item.maxStackSize)
             {
-                int spaceInStack = item.maxStackSize - slot.quantity;
-                amountLeftToAdd -= spaceInStack;
-
-                if (amountLeftToAdd <= 0)
-                {
-                    return true; // Có đủ chỗ trong các stack cũ
-                }
+                int space = item.maxStackSize - s.quantity;
+                left -= Mathf.Min(space, left);
+                if (left <= 0) return true;
             }
         }
-
-        // 2. Nếu vẫn còn, kiểm tra xem còn Ô TRỐNG không
-        if (amountLeftToAdd > 0)
+        // tìm ô trống
+        for (int i = 0; i < slots.Count; i++)
         {
-            int emptySlotsNeeded = Mathf.CeilToInt((float)amountLeftToAdd / item.maxStackSize);
-            int emptySlotsAvailable = maxSlots - slots.Count;
-
-            return emptySlotsAvailable >= emptySlotsNeeded; // True nếu đủ ô trống
-        }
-
-        return true; // Đã đủ chỗ ở bước 1
-    }
-
-    /**
-     * Thêm vật phẩm vào kho. 
-     * (Giả định bạn đã dùng CheckForSpace() trước đó)
-     */
-    public void AddItem(ItemData item, int amount)
-    {
-        int amountLeft = amount;
-
-        // 1. Thêm vào các stack cũ
-        foreach (InventorySlot slot in slots)
-        {
-            if (slot.item == item && !slot.IsStackFull())
+            if (slots[i].IsEmpty)
             {
-                int spaceInStack = item.maxStackSize - slot.quantity;
-                int amountToAdd = Mathf.Min(amountLeft, spaceInStack);
-
-                slot.quantity += amountToAdd;
-                amountLeft -= amountToAdd;
-
-                if (amountLeft <= 0)
-                {
-                    Debug.Log($"Thêm {amount} {item.itemName} vào kho.");
-                    return; // Thêm xong
-                }
+                int stacks = Mathf.CeilToInt((float)left / item.maxStackSize);
+                // có đủ số ô trống?
+                int empties = 0;
+                for (int j = 0; j < slots.Count; j++) if (slots[j].IsEmpty) empties++;
+                return empties >= stacks;
             }
         }
-
-        // 2. Nếu còn, dùng các ô trống
-        while (amountLeft > 0 && slots.Count < maxSlots)
-        {
-            int amountForNewStack = Mathf.Min(amountLeft, item.maxStackSize);
-            slots.Add(new InventorySlot(item, amountForNewStack));
-            amountLeft -= amountForNewStack;
-        }
-
-        Debug.Log($"Thêm {amount} {item.itemName} vào kho.");
+        return left <= 0;
     }
 
-    // TODO: Thêm các hàm RemoveItem(), HasItem() v.v...
+    public int Add(ItemData item, int amount)
+    {
+        if (item == null || amount <= 0) return 0;
+        int left = amount;
+
+        // 1) fill các stack hiện có
+        for (int i = 0; i < slots.Count; i++)
+        {
+            if (left <= 0) break;
+            var s = slots[i];
+            if (s.item == item && s.quantity < item.maxStackSize)
+            {
+                int space = item.maxStackSize - s.quantity;
+                int add = Mathf.Min(space, left);
+                s.quantity += add; left -= add;
+                slots[i] = s;
+                OnSlotChanged.Invoke(i);
+            }
+        }
+        // 2) tạo stack mới vào ô trống
+        for (int i = 0; i < slots.Count; i++)
+        {
+            if (left <= 0) break;
+            if (slots[i].IsEmpty)
+            {
+                int add = Mathf.Min(item.maxStackSize, left);
+                slots[i] = new ItemStack(item, add);
+                left -= add;
+                OnSlotChanged.Invoke(i);
+            }
+        }
+        OnChanged.Invoke();
+        return amount - left; // số đã thêm
+    }
+
+    public int Remove(ItemData item, int amount)
+    {
+        if (item == null || amount <= 0) return 0;
+        int left = amount;
+
+        for (int i = 0; i < slots.Count; i++)
+        {
+            if (left <= 0) break;
+            var s = slots[i];
+            if (s.item == item && s.quantity > 0)
+            {
+                int take = Mathf.Min(s.quantity, left);
+                s.quantity -= take; left -= take;
+                if (s.quantity <= 0) s.Clear();
+                slots[i] = s;
+                OnSlotChanged.Invoke(i);
+            }
+        }
+        OnChanged.Invoke();
+        return amount - left; // số đã lấy
+    }
+
+    // move/swap/stack giữa 2 ô inventory (nếu bạn cần)
 }
