@@ -54383,7 +54383,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIManager
   panels: []
-  closeButtons: []
 --- !u!4 &661182097
 Transform:
   m_ObjectHideFlags: 0
@@ -55517,7 +55516,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 661182096}
         m_TargetAssemblyTypeName: UIManager, Assembly-CSharp
-        m_MethodName: OpenPanel
+        m_MethodName: ClosePanel
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 2095941653}
