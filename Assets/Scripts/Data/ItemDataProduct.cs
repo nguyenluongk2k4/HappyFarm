@@ -6,8 +6,7 @@ public class ItemDataProduct : ScriptableObject
     public string itemName;
     public Sprite itemIcon;
     public int price;
-    public ItemCategory category; 
-
+    public ItemCategory category;
 
     public enum ItemCategory
     {

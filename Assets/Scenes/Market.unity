@@ -1001,10 +1001,10 @@ MonoBehaviour:
   deadZoneSize: {x: 0, y: 0}
   zOffset: -10
   useLimits: 1
-  minX: -20
-  maxX: 20
-  minY: -20
-  maxY: 20
+  minX: -50
+  maxX: 50
+  minY: -50
+  maxY: 50
 --- !u!1 &373181056
 GameObject:
   m_ObjectHideFlags: 0
