@@ -23,24 +23,51 @@ public class UIManager : MonoBehaviour
 
     /// <summary>
     /// Mở panel theo tên GameObject.
+    /// Nếu panel đang active thì đóng, nếu inactive thì mở.
     /// </summary>
     public void OpenPanel(string panelName)
     {
         foreach (var panel in panels)
         {
-            if (panel != null)
-                panel.SetActive(panel.name == panelName);
+            if (panel != null && panel.name == panelName)
+            {
+                // Toggle trạng thái của panel này
+                bool newState = !panel.activeSelf;
+                panel.SetActive(newState);
+                
+                // Đóng các panel khác
+                foreach (var otherPanel in panels)
+                {
+                    if (otherPanel != null && otherPanel != panel)
+                        otherPanel.SetActive(false);
+                }
+                return;
+            }
         }
     }
 
     /// <summary>
     /// Mở panel bằng reference.
+    /// Nếu panel đang active thì đóng, nếu inactive thì mở.
     /// </summary>
     public void OpenPanel(GameObject panel)
     {
-        CloseAllPanels();
         if (panel != null)
-            panel.SetActive(true);
+        {
+            // Toggle trạng thái của panel này
+            bool newState = !panel.activeSelf;
+            panel.SetActive(newState);
+            
+            // Đóng các panel khác khi mở panel mới
+            if (newState)
+            {
+                foreach (var otherPanel in panels)
+                {
+                    if (otherPanel != null && otherPanel != panel)
+                        otherPanel.SetActive(false);
+                }
+            }
+        }
     }
 
     /// <summary>
