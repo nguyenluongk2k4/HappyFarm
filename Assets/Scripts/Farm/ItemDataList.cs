@@ -26,7 +26,7 @@ public class ItemDataList : MonoBehaviour
     }
     public ItemData GetItemByName(string name)
     {
-        foreach (ItemData item in itemDatas)
+        foreach (var item in itemDatas)
         {
             if (item.itemName == name)
             {
@@ -35,4 +35,6 @@ public class ItemDataList : MonoBehaviour
         }
         return null;
     }
+
+
 }

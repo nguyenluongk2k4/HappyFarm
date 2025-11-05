@@ -46,28 +46,45 @@ public class ShopUIManager : MonoBehaviour
 
     private void OnProductImageClicked(ItemDataProduct item)
     {
-        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemName} ({item.price} G)");
+        Debug.Log($"💡 DEBUG: Coins hiện tại = {Player.instance.Coins}, giá = {item.price}");
+
         if (Player.instance.Coins < item.price)
         {
             Debug.LogWarning("❌ Không đủ tiền để mua vật phẩm này!");
-            return;
         }
-
-        bool hasSpace = InventoryManager.Instance.CheckForSpace(item, 1);
-        if (!hasSpace)
+        else
         {
-            Debug.LogWarning("⚠️ Kho đồ đã đầy, không thể thêm vật phẩm mới!");
-            return;
+            // --- 2️⃣ Tìm ItemData tương ứng theo tên ---
+            ItemData matchedItem = ItemDataList.Instance.GetItemByName(item.itemName);
+            if (matchedItem == null)
+            {
+                Debug.LogError($"❌ Không tìm thấy vật phẩm '{item.itemName}' trong ItemDataList!");
+                return;
+            }
+
+            // --- 3️⃣ Kiểm tra kho có thể thêm không ---
+            if (!InventoryManager.Instance.CanAdd(matchedItem, 1))
+            {
+                Debug.LogWarning("⚠️ Kho đồ đã đầy, không thể thêm vật phẩm mới!");
+                return;
+            }
+
+            // --- 4️⃣ Trừ tiền ---
+            Player.instance.Coins -= item.price;
+            Debug.Log($"💰 Đã trừ {item.price} G. Còn lại: {Player.instance.Coins} G");
+
+            // --- 5️⃣ Thêm vật phẩm vào kho ---
+            int added = InventoryManager.Instance.Add(matchedItem, 1);
+            if (added > 0)
+            {
+                Debug.Log($"✅ Mua thành công: {matchedItem.itemName}");
+            }
+            else
+            {
+                Debug.LogWarning("⚠️ Không thể thêm vật phẩm vào kho (có lỗi bất ngờ)!");
+            }
         }
-        // --- 3️⃣ Trừ tiền ---
-        Player.instance.Coins -= item.price;
-        Debug.Log($"💰 Đã trừ {item.price} G. Số tiền còn lại: {Player.instance.Coins} G");
-
-        // --- 4️⃣ Thêm vật phẩm vào kho ---
-        InventoryManager.Instance.AddItem(item, 1);
-
-        // --- 5️⃣ Cập nhật UI hoặc hiệu ứng mua hàng ---
-        Debug.Log($"✅ Mua thành công: {item.itemName}");
     }
+
 }
 
