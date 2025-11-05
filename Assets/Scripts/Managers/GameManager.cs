@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance { get; private set; }
+    public static GameManager Instance { get; set; }
 
     // ✨ Thêm mới - Thông tin spawn khi đổi scene
     private bool useCustomSpawnPosition = false;
@@ -16,13 +16,16 @@ public class GameManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject);
+            DontDestroyOnLoad(gameObject); // ✅ GameManager sẽ tồn tại qua các scene
+            gameObject.name = "[GameManager - DontDestroyOnLoad]"; // Dễ nhận biết
 
             // ✨ Đăng ký sự kiện khi load scene xong
             SceneManager.sceneLoaded += OnSceneLoaded;
+            Debug.Log("✓ GameManager khởi tạo và set DontDestroyOnLoad");
         }
         else
         {
+            Debug.LogWarning("⚠️ GameManager đã tồn tại, destroy bản sao này");
             Destroy(gameObject);
         }
     }
