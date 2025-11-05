@@ -4,7 +4,7 @@
 
 using UnityEngine;
 
-public class LandPlot : MonoBehaviour
+public class LandPlot : MonoBehaviour,IInteractable
 {
     // Enum định nghĩa các trạng thái của ô đất (như trong Use Case)
     public enum LandState
@@ -199,5 +199,10 @@ public class LandPlot : MonoBehaviour
             currentCrop = null;
             UpdateVisuals();
         }
+    }
+
+    public void Interact()
+    {
+        throw new System.NotImplementedException();
     }
 }

@@ -70,38 +70,58 @@ public class PlayerInteraction : MonoBehaviour
 
     private void Interact()
     {
-        // Tìm kiếm tất cả đối tượng trong vòng tròn tương tác
         Collider2D hit = Physics2D.OverlapCircle(interactionPoint.position, interactionRadius, interactableLayer);
 
-        if (hit != null)
+        if (hit == null) return;
+
+        // 1️⃣ Nếu vật thể có IInteractable → gọi trực tiếp
+        IInteractable interactable = hit.GetComponent<IInteractable>();
+        if (interactable != null)
         {
-            // Đã tìm thấy một ô đất, thử lấy script LandPlot
+            // Nếu là ô đất, ta vẫn dùng logic cũ (có tool)
             LandPlot plot = hit.GetComponent<LandPlot>();
             if (plot != null)
             {
-                // Gửi lệnh tương tác đến ô đất
-                // Ô đất sẽ tự quyết định làm gì (UC-1.1 -> 1.4)
                 switch (currentTool)
                 {
                     case SelectedTool.Hand:
-                        // Nếu là tay, thử Thu hoạch (UC-1.3)
                         plot.Harvest();
-                        // Nếu không thu hoạch được, thử Dọn dẹp (UC-1.4)
                         plot.ClearWithered();
                         break;
-
                     case SelectedTool.Hoe:
-                        // Nếu là cuốc, thử Cày (UC-1.1)
                         plot.Plow();
                         break;
-
                     case SelectedTool.Seed:
-                        // Nếu là hạt giống, thử Gieo hạt (UC-1.2)
-                        // (Gửi kèm data của hạt giống đang cầm)
                         plot.Plant(testTomatoSeed);
                         break;
                 }
             }
+            else
+            {
+                // Nếu là vật thể nhặt được (PickupItem, v.v.)
+                interactable.Interact();
+            }
+
+            return;
+        }
+
+        // 2️⃣ Nếu không có IInteractable, thử xem đây có phải item nằm trên đất không
+        string baseName = hit.gameObject.name;
+        ItemData item = ItemDataList.Instance.GetItemByName(baseName);
+
+        if (item != null)
+        {
+            // Nếu tìm thấy item trùng tên trong danh sách
+            if (!InventoryManager.Instance.CheckForSpace(item, 1))
+            {
+                Debug.LogWarning("Kho đầy, không thể nhặt " + item.itemName);
+                return;
+            }
+
+            InventoryManager.Instance.AddItem(item, 1);
+            Debug.Log("Nhặt được " + item.itemName);
+
+            Destroy(hit.gameObject);
         }
     }
 
