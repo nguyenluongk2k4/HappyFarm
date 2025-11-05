@@ -257,6 +257,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 2
+  useCustomSpawnPosition: 0
+  customSpawnPosition: {x: -10, y: 13, z: 0}
+  spawnPointName: 
 --- !u!58 &6017581
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -73938,6 +73941,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 1
+  useCustomSpawnPosition: 0
+  customSpawnPosition: {x: 13, y: 8, z: 0}
+  spawnPointName: 
 --- !u!58 &1969999419
 CircleCollider2D:
   m_ObjectHideFlags: 0

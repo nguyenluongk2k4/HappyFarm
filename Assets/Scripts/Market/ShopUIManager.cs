@@ -12,20 +12,16 @@ public class ShopUIManager : MonoBehaviour
 
     public void DisplayShopContent(List<ItemDataProduct> itemsToDisplay, string currentShopName)
     {
-        // Gán tên cửa hàng
         if (shopNameText != null)
             shopNameText.text = currentShopName;
 
-        // Xóa sản phẩm cũ trước khi load mới
         foreach (Transform child in contentParent)
             Destroy(child.gameObject);
 
-        // Hiển thị danh sách sản phẩm mới
         foreach (ItemDataProduct item in itemsToDisplay)
         {
             GameObject newItem = Instantiate(productItemPrefab, contentParent);
 
-            // Tìm và gán các thành phần con
             var nameText = newItem.transform.Find("ProductName").GetComponent<TextMeshProUGUI>();
             var priceText = newItem.transform.Find("Price").GetComponent<TextMeshProUGUI>();
             var image = newItem.transform.Find("ProductImage").GetComponent<Image>();
@@ -34,10 +30,8 @@ public class ShopUIManager : MonoBehaviour
             if (priceText != null) priceText.text = item.price + " G";
             if (image != null) image.sprite = item.itemIcon;
 
-            // --- Gán sự kiện click vào ảnh ---
             if (image != null)
             {
-                // Đảm bảo ảnh có Button hoặc EventTrigger để nhận click
                 Button imageButton = image.GetComponent<Button>();
                 if (imageButton == null)
                     imageButton = image.gameObject.AddComponent<Button>();
@@ -50,16 +44,30 @@ public class ShopUIManager : MonoBehaviour
     }
 
 
-    // --- Khi người chơi click vào ảnh sản phẩm ---
     private void OnProductImageClicked(ItemDataProduct item)
     {
         Debug.Log($"🛒 Bạn đã chọn mua: {item.itemName} ({item.price} G)");
+        if (Player.instance.Coins < item.price)
+        {
+            Debug.LogWarning("❌ Không đủ tiền để mua vật phẩm này!");
+            return;
+        }
 
-        // 👉 Thêm logic mua hàng tại đây:
-        // - Kiểm tra đủ tiền
-        // - Trừ tiền
-        // - Thêm item vào kho (inventory)
-        // - Cập nhật UI hoặc hiệu ứng mua
+        bool hasSpace = InventoryManager.Instance.CheckForSpace(item, 1);
+        if (!hasSpace)
+        {
+            Debug.LogWarning("⚠️ Kho đồ đã đầy, không thể thêm vật phẩm mới!");
+            return;
+        }
+        // --- 3️⃣ Trừ tiền ---
+        Player.instance.Coins -= item.price;
+        Debug.Log($"💰 Đã trừ {item.price} G. Số tiền còn lại: {Player.instance.Coins} G");
+
+        // --- 4️⃣ Thêm vật phẩm vào kho ---
+        InventoryManager.Instance.AddItem(item, 1);
+
+        // --- 5️⃣ Cập nhật UI hoặc hiệu ứng mua hàng ---
+        Debug.Log($"✅ Mua thành công: {item.itemName}");
     }
 }
 

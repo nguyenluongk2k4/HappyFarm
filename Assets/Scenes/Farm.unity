@@ -55212,7 +55212,6 @@ MonoBehaviour:
   maxX: 48
   minY: -20
   maxY: 20
-  boundaryCollider: {fileID: 0}
 --- !u!1 &714630981
 GameObject:
   m_ObjectHideFlags: 0
@@ -55685,9 +55684,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b146968443e2fbb4487d2446e4e29d59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
-  targetSceneIndex: 2
+  targetSceneIndex: 4
   useCustomSpawnPosition: 1
-  customSpawnPosition: {x: 16, y: 15, z: 0}
+  customSpawnPosition: {x: -8, y: -6.73, z: 0}
   spawnPointName: 
 --- !u!1001 &909629801
 PrefabInstance:
