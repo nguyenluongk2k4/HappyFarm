@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
   m_Name: Hoe
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
+  itemName: Hoe
   icon: {fileID: 0}
   maxStackSize: 99
   type: 0
