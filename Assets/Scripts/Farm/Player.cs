@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -19,6 +20,10 @@ public class Player : MonoBehaviour
     public UnityEvent<int> OnCoinChanged = new UnityEvent<int>();
     public UnityEvent<int> OnLevelChanged = new UnityEvent<int>();
 
+    [Header("Thiết lập ban đầu")]
+    public bool startWithDefaultInventory = true; // ✅ Bật/tắt khởi tạo kho ban đầu
+
+    private bool inventoryInitialized = false;
     private void Awake()
     {
         if (instance != null && instance != this)
@@ -29,6 +34,53 @@ public class Player : MonoBehaviour
 
         instance = this;
         DontDestroyOnLoad(gameObject);
+    }
+    private void Start()
+    {
+        StartCoroutine(InitWithDelay());
+    }
+
+    private IEnumerator InitWithDelay()
+    {
+        // Đợi InventoryManager khởi tạo
+        yield return new WaitUntil(() => InventoryManager.Instance != null);
+
+        // Sau khi InventoryManager sẵn sàng thì mới init
+        if (startWithDefaultInventory && !inventoryInitialized)
+        {
+            InitializeStartingInventory();
+            inventoryInitialized = true;
+        }
+    }
+
+    private void InitializeStartingInventory()
+    {
+        Debug.Log("🎒 Khởi tạo kho đồ ban đầu...");
+
+        // ✅ Gán số tiền ban đầu và gọi event để update UI
+        coins = 50;
+        OnCoinChanged.Invoke(coins);
+        Debug.Log("💰 Người chơi bắt đầu với 50 xu.");
+
+        // ✅ Thêm vật phẩm khởi đầu
+        var hoe = ItemDataList.Instance.GetItemByName("Hoe");
+        var seeds = ItemDataList.Instance.GetItemByName("TomatoSeed");
+
+        if (hoe != null)
+        {
+            InventoryManager.Instance.Add(hoe, 1);
+            Debug.Log("🪓 Đã thêm 1 Cuốc vào kho.");
+        }
+
+        if (seeds != null)
+        {
+            InventoryManager.Instance.Add(seeds, 10);
+            Debug.Log("🌱 Đã thêm 10 hạt giống Cà Chua vào kho.");
+        }
+
+        // ✅ Cập nhật XP và Level ban đầu
+        OnXPChanged.Invoke(xp);
+        OnLevelChanged.Invoke(level);
     }
 
     // ======================
