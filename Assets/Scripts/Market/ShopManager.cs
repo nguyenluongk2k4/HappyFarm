@@ -23,8 +23,8 @@ public class ShopManager : MonoBehaviour
         {
             GameObject item = Instantiate(productItemPrefab, contentPanel);
 
-            item.transform.Find("ProductName").GetComponent<Text>().text = itemData.itemName;
-            item.transform.Find("ProductImage").GetComponent<Image>().sprite = itemData.itemIcon;
+            item.transform.Find("ProductName").GetComponent<Text>().text = itemData.itemData.itemName;
+            item.transform.Find("ProductImage").GetComponent<Image>().sprite = itemData.itemData.icon;
             item.transform.Find("Price").GetComponent<Text>().text = itemData.price + " coins";
 
         }

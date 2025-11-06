@@ -106,10 +106,38 @@ public class LandPlot : MonoBehaviour, IInteractable
                 Plow();
                 break;
             case PlayerInteraction.ToolType.Seed:
-                Plant(interactor.testTomatoSeed);
+                var selected = HotbarManager.Instance.GetSelectedStack();
+
+                if (selected != null && selected.item.type == ItemType.Seed)
+                {
+                    // 🔍 tìm CropData có seedItem trùng với item đang cầm
+                    CropData foundCrop = FindCropBySeed(selected.item);
+                    if (foundCrop != null)
+                    {
+                        Plant(foundCrop);
+                        InventoryManager.Instance.Remove(selected.item, 1); // trừ 1 hạt
+                    }
+                    else
+                    {
+                        Debug.LogWarning("❌ Không tìm thấy CropData cho hạt này!");
+                    }
+                }
                 break;
+
         }
     }
+    private CropData FindCropBySeed(ItemData seedItem)
+    {
+        // Cách 1: nếu bạn có danh sách crop trong Resources
+        CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
+        foreach (var crop in allCrops)
+        {
+            if (crop.seedItem == seedItem)
+                return crop;
+        }
+        return null;
+    }
+
 
     public void Plow()
     {

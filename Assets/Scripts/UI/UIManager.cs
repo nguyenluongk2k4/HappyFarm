@@ -3,15 +3,17 @@ using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
-    // Singleton pattern để dễ truy cập
     public static UIManager Instance { get; private set; }
 
     [Header("List of UI Panels")]
     [SerializeField] private List<GameObject> panels = new List<GameObject>();
 
+    [Header("Hotkey Panels")]
+    [SerializeField] private GameObject inventoryPanel;
+    [SerializeField] private GameObject hotbarPanel;
+
     private void Awake()
     {
-        // Đảm bảo chỉ có 1 instance duy nhất
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
@@ -21,21 +23,42 @@ public class UIManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    /// <summary>
-    /// Mở panel theo tên GameObject.
-    /// Nếu panel đang active thì đóng, nếu inactive thì mở.
-    /// </summary>
+    private void Update()
+    {
+        HandleKeyInput();
+    }
+
+    private void HandleKeyInput()
+    {
+        // Nhấn I mở/tắt Inventory
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            Debug.Log("Toggling Inventory Panel");
+            if (inventoryPanel != null)
+                OpenPanel(inventoryPanel);
+            else
+                OpenPanel("InventoryPanel");
+        }
+
+        // Nhấn H mở/tắt Hotbar
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            if (hotbarPanel != null)
+                OpenPanel(hotbarPanel);
+            else
+                OpenPanel("HotbarPanel");
+        }
+    }
+
     public void OpenPanel(string panelName)
     {
         foreach (var panel in panels)
         {
             if (panel != null && panel.name == panelName)
             {
-                // Toggle trạng thái của panel này
                 bool newState = !panel.activeSelf;
                 panel.SetActive(newState);
-                
-                // Đóng các panel khác
+
                 foreach (var otherPanel in panels)
                 {
                     if (otherPanel != null && otherPanel != panel)
@@ -46,19 +69,13 @@ public class UIManager : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Mở panel bằng reference.
-    /// Nếu panel đang active thì đóng, nếu inactive thì mở.
-    /// </summary>
     public void OpenPanel(GameObject panel)
     {
         if (panel != null)
         {
-            // Toggle trạng thái của panel này
             bool newState = !panel.activeSelf;
             panel.SetActive(newState);
-            
-            // Đóng các panel khác khi mở panel mới
+
             if (newState)
             {
                 foreach (var otherPanel in panels)
@@ -70,18 +87,12 @@ public class UIManager : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Đóng 1 panel cụ thể.
-    /// </summary>
     public void ClosePanel(GameObject panel)
     {
         if (panel != null)
             panel.SetActive(false);
     }
 
-    /// <summary>
-    /// Đóng toàn bộ panel.
-    /// </summary>
     public void CloseAllPanels()
     {
         foreach (var panel in panels)
@@ -91,9 +102,6 @@ public class UIManager : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Toggle panel (bật/tắt).
-    /// </summary>
     public void TogglePanel(GameObject panel)
     {
         if (panel != null)

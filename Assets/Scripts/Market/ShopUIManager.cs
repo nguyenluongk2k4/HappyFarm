@@ -30,9 +30,9 @@ public class ShopUIManager : MonoBehaviour
             var priceText = newItem.transform.Find("Price").GetComponent<TextMeshProUGUI>();
             var image = newItem.transform.Find("ProductImage").GetComponent<Image>();
 
-            if (nameText != null) nameText.text = item.itemName;
+            if (nameText != null) nameText.text = item.itemData.itemName;
             if (priceText != null) priceText.text = item.price + " G";
-            if (image != null) image.sprite = item.itemIcon;
+            if (image != null) image.sprite = item.itemData.icon;
 
             // --- Gán sự kiện click vào ảnh ---
             if (image != null)
@@ -53,7 +53,7 @@ public class ShopUIManager : MonoBehaviour
     // --- Khi người chơi click vào ảnh sản phẩm ---
     private void OnProductImageClicked(ItemDataProduct item)
     {
-        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemName} ({item.price} G)");
+        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemData.itemName} ({item.price} G)");
 
         // 👉 Thêm logic mua hàng tại đây:
         // - Kiểm tra đủ tiền

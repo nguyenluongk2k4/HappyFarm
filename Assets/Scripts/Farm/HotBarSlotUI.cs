@@ -1,21 +1,40 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDragHandler, IDropHandler
 {
-    Canvas canvas;
+    private Canvas canvas;
+    private Image background; // để highlight slot đang chọn
+    private Color normalColor = new Color(1f, 1f, 1f, 0.6f);
+    private Color selectedColor = new Color(1f, 1f, 0.3f, 0.9f); // màu vàng nhạt highlight
 
     void Start()
     {
         canvas = GetComponentInParent<Canvas>();
+        background = GetComponent<Image>();
+        if (background == null)
+        {
+            background = gameObject.AddComponent<Image>();
+            background.color = normalColor;
+        }
+
+        // Lắng nghe khi dữ liệu hotbar thay đổi
         HotbarManager.Instance.OnSlotChanged.AddListener(OnSlotChanged);
+        HotbarManager.Instance.OnSelectedChanged.AddListener(OnSelectedChanged);
+
+        // Cập nhật hiển thị ban đầu
         OnSlotChanged(slotIndex);
+        UpdateHighlight();
     }
 
     void OnDestroy()
     {
         if (HotbarManager.Instance != null)
+        {
             HotbarManager.Instance.OnSlotChanged.RemoveListener(OnSlotChanged);
+            HotbarManager.Instance.OnSelectedChanged.RemoveListener(OnSelectedChanged);
+        }
     }
 
     void OnSlotChanged(int idx)
@@ -24,7 +43,19 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
         Show(HotbarManager.Instance.slots[slotIndex]);
     }
 
-    // Drag from HOTBAR
+    void OnSelectedChanged(int selectedIdx)
+    {
+        UpdateHighlight();
+    }
+
+    void UpdateHighlight()
+    {
+        if (background == null) return;
+        bool isSelected = (HotbarManager.Instance.SelectedIndex == slotIndex);
+        background.color = isSelected ? selectedColor : normalColor;
+    }
+
+    // === DRAG & DROP ===
     public void OnBeginDrag(PointerEventData e)
     {
         var s = HotbarManager.Instance.slots[slotIndex];
@@ -35,18 +66,25 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
         DragService.Begin(canvas, DragSource.Hotbar, slotIndex, s.item, amount);
     }
 
-    public void OnDrag(PointerEventData e) { DragService.Move(e.position); }
+    public void OnDrag(PointerEventData e)
+    {
+        DragService.Move(e.position);
+    }
 
-    public void OnEndDrag(PointerEventData e) { DragService.End(); }
+    public void OnEndDrag(PointerEventData e)
+    {
+        DragService.End();
+    }
 
     // Drop TO HOTBAR
     public void OnDrop(PointerEventData e)
     {
-        if (DragService.Source == DragSource.None || DragService.Item == null) return;
+        if (DragService.Source == DragSource.None || DragService.Item == null)
+            return;
 
         if (DragService.Source == DragSource.Hotbar)
         {
-            // HOTBAR → HOTBAR (stack/swap/move)
+            // HOTBAR → HOTBAR
             if (DragService.SourceIndex == slotIndex) return;
             ApplyStackSwapHotbarToHotbar(DragService.SourceIndex, slotIndex, DragService.Item, DragService.Amount);
         }
@@ -54,7 +92,7 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
         {
             // INVENTORY → HOTBAR
             int take = DragService.Amount;
-            int actually = InventoryManager.Instance.Remove(DragService.Item, take); // lấy ra từ kho
+            int actually = InventoryManager.Instance.Remove(DragService.Item, take);
             if (actually <= 0) return;
 
             var target = HotbarManager.Instance.slots[slotIndex];
@@ -65,7 +103,6 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
             else if (target.item == DragService.Item)
             {
                 target.quantity = Mathf.Min(target.quantity + actually, target.item.maxStackSize);
-                // nếu muốn xử lý phần dư trả về inventory có thể thêm ở đây
             }
             else
             {
@@ -107,7 +144,9 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
             a = tmp;
         }
 
-        slots[from] = a; slots[to] = b;
+        slots[from] = a;
+        slots[to] = b;
+
         HotbarManager.Instance.OnSlotChanged.Invoke(from);
         HotbarManager.Instance.OnSlotChanged.Invoke(to);
         HotbarManager.Instance.OnChanged.Invoke();

@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public enum DragSource { None, Inventory, Hotbar }
 
@@ -10,30 +9,38 @@ public static class DragService
     public static ItemData Item = null;
     public static int Amount = 0;
 
-    static Image ghost;
-    static RectTransform ghostRect;
-    static Canvas canvas;
+    private static GameObject dragIcon;
 
-    public static void Begin(Canvas c, DragSource src, int index, ItemData item, int amount)
+    public static void Begin(Canvas canvas, DragSource src, int index, ItemData item, int amount)
     {
-        canvas = c; Source = src; SourceIndex = index; Item = item; Amount = amount;
-        if (item == null) return;
-        ghost = new GameObject("DragGhost").AddComponent<Image>();
-        ghost.sprite = item.icon; ghost.raycastTarget = false;
-        ghostRect = ghost.GetComponent<RectTransform>();
-        ghostRect.SetParent(canvas.transform, false);
-        ghostRect.sizeDelta = new Vector2(64, 64);
+        Source = src;
+        SourceIndex = index;
+        Item = item;
+        Amount = amount;
+
+        if (item != null && item.icon != null)
+        {
+            dragIcon = new GameObject("DragIcon", typeof(RectTransform), typeof(CanvasRenderer), typeof(UnityEngine.UI.Image));
+            dragIcon.transform.SetParent(canvas.transform, false);
+            var img = dragIcon.GetComponent<UnityEngine.UI.Image>();
+            img.sprite = item.icon;
+            img.raycastTarget = false;
+        }
     }
 
-    public static void Move(Vector2 screenPos)
+    public static void Move(Vector2 position)
     {
-        if (ghostRect != null) ghostRect.position = screenPos;
+        if (dragIcon != null)
+            dragIcon.transform.position = position;
     }
 
     public static void End()
     {
-        if (ghost != null) Object.Destroy(ghost.gameObject);
-        ghost = null; ghostRect = null;
-        Source = DragSource.None; SourceIndex = -1; Item = null; Amount = 0;
+        if (dragIcon != null) Object.Destroy(dragIcon);
+        dragIcon = null;
+        Source = DragSource.None;
+        SourceIndex = -1;
+        Item = null;
+        Amount = 0;
     }
 }

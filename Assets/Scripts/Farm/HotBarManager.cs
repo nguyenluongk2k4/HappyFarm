@@ -5,35 +5,74 @@ using System.Collections.Generic;
 public class HotbarManager : MonoBehaviour
 {
     public static HotbarManager Instance { get; private set; }
-    [System.Serializable] public class SlotChangedEvent : UnityEvent<int> { }
 
+    [Header("Slots")]
     public int size = 9;
     public List<ItemStack> slots = new List<ItemStack>();
-    public UnityEvent OnChanged = new UnityEvent();
-    public SlotChangedEvent OnSlotChanged = new SlotChangedEvent();
 
-    void Awake()
+    [Header("Events")]
+    public UnityEvent<int> OnSlotChanged = new UnityEvent<int>();
+    public UnityEvent OnChanged = new UnityEvent();
+    public UnityEvent<int> OnSelectedChanged = new UnityEvent<int>(); // 🆕 thêm event này
+
+    [Header("Defaults")]
+    public ItemData handItem;
+    private int selectedIndex = 0;
+    public int SelectedIndex => selectedIndex;
+
+    private void Awake()
     {
         if (Instance != null && Instance != this) { Destroy(gameObject); return; }
-        Instance = this; DontDestroyOnLoad(gameObject);
-        while (slots.Count < size) slots.Add(new ItemStack(null, 0));
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+        while (slots.Count < size)
+            slots.Add(new ItemStack());
+        if (handItem != null)
+        {
+            slots[0] = new ItemStack(handItem, 1);
+        }
+        else
+        {
+            Debug.LogWarning("⚠️ HotbarManager: chưa gán handItem trong Inspector!");
+        }
+        SelectSlot(0);
     }
 
-    public void Set(int index, ItemStack v)
+    private void Update()
+    {
+        HandleHotbarInput();
+    }
+
+    private void HandleHotbarInput()
+    {
+        for (int i = 0; i < size; i++)
+        {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + i))
+            {
+                SelectSlot(i);
+            }
+        }
+    }
+
+    public void SelectSlot(int index)
+    {
+        if (index < 0 || index >= size) return;
+        if (selectedIndex == index) return;
+
+        selectedIndex = index;
+        Debug.Log($"🎯 Hotbar chọn ô {index + 1}");
+        OnSelectedChanged.Invoke(selectedIndex);
+    }
+
+
+    public ItemStack GetSelectedStack() => slots[selectedIndex];
+    public void Set(int index, ItemStack stack)
     {
         if (index < 0 || index >= slots.Count) return;
-        slots[index] = v;
+
+        slots[index] = stack;
         OnSlotChanged.Invoke(index);
         OnChanged.Invoke();
     }
 
-    public void Clear(int index)
-    {
-        if (index < 0 || index >= slots.Count) return;
-        slots[index].Clear();
-        OnSlotChanged.Invoke(index);
-        OnChanged.Invoke();
-    }
-
-    public bool IsEmpty(int i) => i >= 0 && i < slots.Count && slots[i].IsEmpty;
 }
