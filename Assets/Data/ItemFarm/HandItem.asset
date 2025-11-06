@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
   m_Name: HandItem
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  id: 
-  itemName: 
-  icon: {fileID: 0}
+  itemName: Hand
+  icon: {fileID: 8403215288983880825, guid: bedc6e124120bb445a20f1fc4b206fc0, type: 3}
   maxStackSize: 99
   type: 0
