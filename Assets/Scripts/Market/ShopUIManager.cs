@@ -26,9 +26,9 @@ public class ShopUIManager : MonoBehaviour
             var priceText = newItem.transform.Find("Price").GetComponent<TextMeshProUGUI>();
             var image = newItem.transform.Find("ProductImage").GetComponent<Image>();
 
-            if (nameText != null) nameText.text = item.itemName;
+            if (nameText != null) nameText.text = item.itemData.itemName;
             if (priceText != null) priceText.text = item.price + " G";
-            if (image != null) image.sprite = item.itemIcon;
+            if (image != null) image.sprite = item.itemData.icon;
 
             if (image != null)
             {
@@ -46,8 +46,8 @@ public class ShopUIManager : MonoBehaviour
 
     private void OnProductImageClicked(ItemDataProduct item)
     {
-        Debug.Log($"💡 DEBUG: Coins hiện tại = {Player.instance.Coins}, giá = {item.price}");
 
+        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemData.itemName} ({item.price} G)");
         if (Player.instance.Coins < item.price)
         {
             Debug.LogWarning("❌ Không đủ tiền để mua vật phẩm này!");

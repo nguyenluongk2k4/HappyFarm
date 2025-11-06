@@ -10,29 +10,25 @@ public class PlayerInteraction : MonoBehaviour
     public float interactionRadius = 0.5f;
     public LayerMask interactableLayer;
 
-    [Header("Input Keys")]
-    public KeyCode interactKey = KeyCode.E;
-    public KeyCode handKey = KeyCode.Alpha1;
-    public KeyCode hoeKey = KeyCode.Alpha2;
-    public KeyCode seedKey = KeyCode.Alpha3;
-
-    [Header("Testing")]
-    public CropData testTomatoSeed;
-
     private Vector2 lastMoveDir = Vector2.down;
 
-    void Update()
+    private void Start()
     {
-        HandleToolSelect();
-        HandleInteractionPoint();
-        HandleInteract();
+        // Lắng nghe khi hotbar đổi slot
+        if (HotbarManager.Instance != null)
+            HotbarManager.Instance.OnSelectedChanged.AddListener(OnHotbarSelectedChanged);
     }
 
-    void HandleToolSelect()
+    private void OnDestroy()
     {
-        if (Input.GetKeyDown(handKey)) { CurrentTool = ToolType.Hand; Debug.Log("Chọn tay"); }
-        if (Input.GetKeyDown(hoeKey)) { CurrentTool = ToolType.Hoe; Debug.Log("Chọn cuốc"); }
-        if (Input.GetKeyDown(seedKey)) { CurrentTool = ToolType.Seed; Debug.Log("Chọn hạt giống"); }
+        if (HotbarManager.Instance != null)
+            HotbarManager.Instance.OnSelectedChanged.RemoveListener(OnHotbarSelectedChanged);
+    }
+
+    private void Update()
+    {
+        HandleInteractionPoint();
+        HandleInteract();
     }
 
     void HandleInteractionPoint()
@@ -42,12 +38,13 @@ public class PlayerInteraction : MonoBehaviour
         if (moveX != 0 || moveY != 0)
             lastMoveDir = new Vector2(moveX, moveY).normalized;
 
-        interactionPoint.position = transform.position + (Vector3)lastMoveDir * 0.5f;
+        if (interactionPoint != null)
+            interactionPoint.position = transform.position + (Vector3)lastMoveDir * 0.5f;
     }
 
     void HandleInteract()
     {
-        if (!Input.GetKeyDown(interactKey)) return;
+        if (!Input.GetKeyDown(KeyCode.E)) return;
 
         Collider2D hit = Physics2D.OverlapCircle(interactionPoint.position, interactionRadius, interactableLayer);
         if (hit == null) return;
@@ -57,16 +54,32 @@ public class PlayerInteraction : MonoBehaviour
         {
             interactable.Interact(this);
         }
-        else
-        {
-            Debug.Log("Không thể tương tác với " + hit.name);
-        }
     }
 
-    private void OnDrawGizmos()
+    void OnHotbarSelectedChanged(int index)
     {
-        if (interactionPoint == null) return;
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(interactionPoint.position, interactionRadius);
+        var stack = HotbarManager.Instance.GetSelectedStack();
+
+        if (stack == null || stack.IsEmpty)
+        {
+            CurrentTool = ToolType.Hand;
+            return;
+        }
+
+        // Chuyển ItemType → ToolType
+        switch (stack.item.type)
+        {
+            case ItemType.Tool_Hoe:
+                CurrentTool = ToolType.Hoe;
+                break;
+            case ItemType.Seed:
+                CurrentTool = ToolType.Seed;
+                break;
+            default:
+                CurrentTool = ToolType.Hand;
+                break;
+        }
+
+        Debug.Log($"🔧 Tool hiện tại: {CurrentTool}");
     }
 }

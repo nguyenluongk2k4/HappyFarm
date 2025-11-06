@@ -1,12 +1,22 @@
-﻿// 30/10/2025
-// ScriptableObject để định nghĩa dữ liệu cho một vật phẩm (Item)
+﻿using UnityEngine;
 
-using UnityEngine;
+public enum ItemType
+{
+    None,
+    Tool_Hoe,
+    Tool_WateringCan,
+    Seed,
+    Crop,
+    Material,
+    Food
+}
 
-[CreateAssetMenu(fileName = "New Item", menuName = "Farming/Item")]
+[CreateAssetMenu(menuName = "Item/ItemData")]
 public class ItemData : ScriptableObject
 {
-    public string itemName = "New Item";
+    public string itemName;
     public Sprite icon;
     public int maxStackSize = 99;
+
+    public ItemType type; 
 }

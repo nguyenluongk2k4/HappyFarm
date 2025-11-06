@@ -93,7 +93,7 @@ public class LandPlot : MonoBehaviour, IInteractable
         return Mathf.Clamp(stage, 0, totalStages);
     }
 
-    // Tương tác thông qua IInteractable
+    // =============== INTERACTION =============== //
     public void Interact(PlayerInteraction interactor)
     {
         switch (interactor.CurrentTool)
@@ -102,15 +102,44 @@ public class LandPlot : MonoBehaviour, IInteractable
                 Harvest();
                 ClearWithered();
                 break;
+
             case PlayerInteraction.ToolType.Hoe:
                 Plow();
                 break;
+
             case PlayerInteraction.ToolType.Seed:
-                Plant(interactor.testTomatoSeed);
+                var selected = HotbarManager.Instance.GetSelectedStack();
+
+                if (selected != null && selected.item.type == ItemType.Seed)
+                {
+                    // 🔍 tìm CropData có seedItem trùng với item đang cầm
+                    CropData foundCrop = FindCropBySeed(selected.item);
+                    if (foundCrop != null)
+                    {
+                        Plant(foundCrop);
+                        InventoryManager.Instance.Remove(selected.item, 1); // trừ 1 hạt
+                    }
+                    else
+                    {
+                        Debug.LogWarning("❌ Không tìm thấy CropData cho hạt này!");
+                    }
+                }
                 break;
         }
     }
 
+    private CropData FindCropBySeed(ItemData seedItem)
+    {
+        CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
+        foreach (var crop in allCrops)
+        {
+            if (crop.seedItem == seedItem)
+                return crop;
+        }
+        return null;
+    }
+
+    // =============== ACTIONS =============== //
     public void Plow()
     {
         if (currentState == LandState.Empty)
@@ -147,6 +176,13 @@ public class LandPlot : MonoBehaviour, IInteractable
         InventoryManager.Instance.Add(currentCrop.harvestItem, currentCrop.harvestItemAmount);
         Debug.Log("Thu hoạch thành công: " + currentCrop.harvestItem.itemName);
 
+        // ✅ Cộng XP khi thu hoạch thành công
+        if (Player.instance != null)
+        {
+            Player.instance.AddXP(5);
+            Debug.Log("+5 XP từ việc thu hoạch!");
+        }
+
         currentState = LandState.Empty;
         currentCrop = null;
         UpdateVisuals();
@@ -156,7 +192,19 @@ public class LandPlot : MonoBehaviour, IInteractable
     {
         if (currentState == LandState.Withered)
         {
-            Debug.Log("Dọn cây héo (Mất 5 xu)");
+            if (Player.instance != null)
+            {
+                // ✅ Kiểm tra đủ tiền không
+                bool paid = Player.instance.SpendCoins(5);
+                if (!paid)
+                {
+                    Debug.LogWarning("❌ Không đủ 5 xu để dọn cây héo!");
+                    return;
+                }
+
+                Debug.Log("🧹 Dọn cây héo (Mất 5 xu)");
+            }
+
             currentState = LandState.Empty;
             currentCrop = null;
             UpdateVisuals();
