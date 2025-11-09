@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
-  m_Name: "Cu\u1ED1c"
+  m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
+  m_Name: Sheep
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemData: {fileID: 11400000, guid: fe8f755f4ef73bc42b1b54dfec4e25f9, type: 2}
-  itemIcon: {fileID: -3190335049457495340, guid: 7d899621d8bb2d64c989a847ff485411, type: 3}
-  price: 10
-  category: 3
+  itemName: Sheep
+  icon: {fileID: 3184159518366690391, guid: 5791f1bbe6abdbd42b6ed914bfa61aed, type: 3}
+  maxStackSize: 99
+  type: 0

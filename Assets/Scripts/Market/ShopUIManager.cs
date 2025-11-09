@@ -16,19 +16,18 @@ public class ShopUIManager : MonoBehaviour
         if (shopNameText != null)
             shopNameText.text = currentShopName;
 
-        // Xóa sản phẩm cũ trước khi load mới
+        // Xóa sản phẩm cũ
         foreach (Transform child in contentParent)
             Destroy(child.gameObject);
 
-        // Hiển thị danh sách sản phẩm mới
+        // Hiển thị sản phẩm mới
         foreach (ItemDataProduct item in itemsToDisplay)
         {
             GameObject newItem = Instantiate(productItemPrefab, contentParent);
 
-            // Tìm và gán các thành phần con
-            var nameText = newItem.transform.Find("ProductName").GetComponent<TextMeshProUGUI>();
-            var priceText = newItem.transform.Find("Price").GetComponent<TextMeshProUGUI>();
-            var image = newItem.transform.Find("ProductImage").GetComponent<Image>();
+            var nameText = newItem.transform.Find("ProductName")?.GetComponent<TextMeshProUGUI>();
+            var priceText = newItem.transform.Find("Price")?.GetComponent<TextMeshProUGUI>();
+            var image = newItem.transform.Find("ProductImage")?.GetComponent<Image>();
 
             if (nameText != null) nameText.text = item.itemData.itemName;
             if (priceText != null) priceText.text = item.price + " G";
@@ -37,7 +36,6 @@ public class ShopUIManager : MonoBehaviour
             // --- Gán sự kiện click vào ảnh ---
             if (image != null)
             {
-                // Đảm bảo ảnh có Button hoặc EventTrigger để nhận click
                 Button imageButton = image.GetComponent<Button>();
                 if (imageButton == null)
                     imageButton = image.gameObject.AddComponent<Button>();
@@ -45,21 +43,42 @@ public class ShopUIManager : MonoBehaviour
                 imageButton.onClick.RemoveAllListeners();
                 imageButton.onClick.AddListener(() => OnProductImageClicked(item));
             }
+        }
+    }
 
+    private void OnProductImageClicked(ItemDataProduct item)
+    {
+        try
+        {
+            if (item == null)
+            {
+                Debug.LogWarning("⚠️ Sản phẩm bị null!");                                            
+                return;
+            }
+
+            if (item.itemData == null)
+            {
+                Debug.LogWarning($"⚠️ {item.name} chưa gán ItemData!");
+                return;
+            }
+                                                                        
+            // 💸 Trừ tiền
+            if (!Player.instance.SpendCoins(item.price))
+            {
+                Debug.LogWarning("❌ Giao dịch thất bại vì bạn không đủ tiền. Hãy kiếm thêm trước khi quay lại!");
+                return;
+            }
+
+            InventoryManager.Instance.Add(item.itemData, 1);
+
+            Debug.Log($"✅ Đã mua {item.itemData.itemName} với giá {item.price} G");
+        }
+        catch (System.Exception ex)
+        {
+            Debug.LogError($"⚠️ Lỗi khi mua sản phẩm: {ex.Message}");
         }
     }
 
 
-    // --- Khi người chơi click vào ảnh sản phẩm ---
-    private void OnProductImageClicked(ItemDataProduct item)
-    {
-        Debug.Log($"🛒 Bạn đã chọn mua: {item.itemData.itemName} ({item.price} G)");
 
-        // 👉 Thêm logic mua hàng tại đây:
-        // - Kiểm tra đủ tiền
-        // - Trừ tiền
-        // - Thêm item vào kho (inventory)
-        // - Cập nhật UI hoặc hiệu ứng mua
-    }
 }
-
