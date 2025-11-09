@@ -64,7 +64,7 @@ public class Player : MonoBehaviour
 
         // ✅ Thêm vật phẩm khởi đầu
         var hoe = ItemDataList.Instance.GetItemByName("Hoe");
-        var seeds = ItemDataList.Instance.GetItemByName("TomatoSeed");
+        var seeds = ItemDataList.Instance.GetItemByName("Tomato");
 
         if (hoe != null)
         {

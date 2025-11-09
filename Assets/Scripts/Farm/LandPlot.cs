@@ -129,15 +129,24 @@ public class LandPlot : MonoBehaviour, IInteractable
     }
 
     private CropData FindCropBySeed(ItemData seedItem)
+{
+    CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
+    Debug.Log($"Có {allCrops.Length} CropData được load.");
+
+    foreach (var crop in allCrops)
     {
-        CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
-        foreach (var crop in allCrops)
+        Debug.Log($"🌱 Crop: {crop.name}, seedItem = {crop.seedItem?.name}");
+        if (crop.seedItem == seedItem)
         {
-            if (crop.seedItem == seedItem)
-                return crop;
+            Debug.Log($"✅ Match tìm thấy: {crop.cropName}");
+            return crop;
         }
-        return null;
     }
+
+    Debug.LogWarning($"❌ Không tìm thấy CropData cho {seedItem?.name}");
+    return null;
+}
+
 
     // =============== ACTIONS =============== //
     public void Plow()
