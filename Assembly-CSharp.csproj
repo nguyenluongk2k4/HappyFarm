@@ -73,7 +73,6 @@
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Farm\CropData.cs" />
     <Compile Include="Assets\Scripts\Data\ItemDataProduct.cs" />
-    <Compile Include="Assets\Scripts\Market\ShopManager.cs" />
     <Compile Include="Assets\Scripts\Farm\InventorySlot.cs" />
     <Compile Include="Assets\Scripts\Data\ShopData.cs" />
     <Compile Include="Assets\Scripts\Farm\HotBarManager.cs" />
@@ -86,6 +85,7 @@
     <Compile Include="Assets\Scripts\Beach\FishDatabase.cs" />
     <Compile Include="Assets\Scripts\Farm\InventoryUISlot.cs" />
     <Compile Include="Assets\Scripts\Farm\ItemDataList.cs" />
+    <Compile Include="Assets\Scripts\Managers\SaveSystem.cs" />
     <Compile Include="Assets\Scripts\Farm\Chicken.cs" />
     <Compile Include="Assets\Scripts\Farm\PlayerInteraction.cs" />
     <Compile Include="Assets\Scripts\Farm\SlotUIBase.cs" />

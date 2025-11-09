@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 public class LandPlot : MonoBehaviour, IInteractable
 {
@@ -62,7 +63,7 @@ public class LandPlot : MonoBehaviour, IInteractable
         }
     }
 
-    private void UpdateVisuals()
+    public void UpdateVisuals()
     {
         switch (currentState)
         {
@@ -83,6 +84,7 @@ public class LandPlot : MonoBehaviour, IInteractable
                 break;
         }
     }
+
 
     private int GetCurrentGrowthStage()
     {
@@ -219,4 +221,85 @@ public class LandPlot : MonoBehaviour, IInteractable
             UpdateVisuals();
         }
     }
+
+
+    [System.Serializable]
+    public class LandPlotSaveData
+    {
+        public List<LandSave> lands = new();
+
+        [System.Serializable]
+        public class LandSave
+        {
+            public Vector3 position;
+            public int state;
+            public string cropName;
+            public float growTimer;
+            public float witherTimer;
+            public int growthStage;
+        }
+
+        public void Save()
+        {
+            lands.Clear();
+            foreach (var land in GameObject.FindObjectsOfType<LandPlot>())
+            {
+                lands.Add(new LandSave
+                {
+                    position = land.transform.position,
+                    state = (int)land.currentState,
+                    cropName = land.currentCrop != null ? land.currentCrop.name : "",
+                    growTimer = land.currentState == LandPlot.LandState.Planted ? land.growTimer : 0,
+                    witherTimer = land.currentState == LandPlot.LandState.Ready ? land.witherTimer : 0,
+                    growthStage = land.currentGrowthStage
+                });
+            }
+
+            Debug.Log($"💾 Đã lưu {lands.Count} mảnh đất");
+        }
+
+        public void Load()
+        {
+            var allPlots = GameObject.FindObjectsOfType<LandPlot>();
+            int loaded = 0;
+
+            foreach (var data in lands)
+            {
+                LandPlot plot = FindPlotByPosition(allPlots, data.position);
+
+                if (plot == null)
+                {
+                    Debug.LogWarning($"⚠ Không tìm thấy LandPlot tại {data.position}");
+                    continue;
+                }
+
+                plot.currentState = (LandPlot.LandState)data.state;
+                plot.currentCrop = string.IsNullOrEmpty(data.cropName)
+                    ? null
+                    : Resources.Load<CropData>("Crops/" + data.cropName);
+
+                plot.growTimer = data.growTimer;
+                plot.witherTimer = data.witherTimer;
+                plot.currentGrowthStage = data.growthStage;
+
+                plot.UpdateVisuals();
+                loaded++;
+            }
+
+            Debug.Log($"✅ Load thành công {loaded}/{lands.Count} mảnh đất");
+        }
+
+        // Tìm đất gần đúng vị trí (sai số 0.1f)
+        private LandPlot FindPlotByPosition(LandPlot[] plots, Vector3 pos)
+        {
+            foreach (var plot in plots)
+            {
+                if (Vector3.Distance(plot.transform.position, pos) < 0.1f)
+                    return plot;
+            }
+            return null;
+        }
+    }
+
 }
+

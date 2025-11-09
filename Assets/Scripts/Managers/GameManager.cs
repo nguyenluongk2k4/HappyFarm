@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; set; }
 
     // ✨ Thêm mới - Thông tin spawn khi đổi scene
+    private SaveSystem saveSystem;
     private bool useCustomSpawnPosition = false;
     private Vector3 nextSpawnPosition;
     private string nextSpawnPointName;
@@ -18,6 +19,7 @@ public class GameManager : MonoBehaviour
             Instance = this;
             DontDestroyOnLoad(gameObject); // ✅ GameManager sẽ tồn tại qua các scene
             gameObject.name = "[GameManager - DontDestroyOnLoad]"; // Dễ nhận biết
+            saveSystem = new SaveSystem();
 
             // ✨ Đăng ký sự kiện khi load scene xong
             SceneManager.sceneLoaded += OnSceneLoaded;
@@ -84,4 +86,13 @@ public class GameManager : MonoBehaviour
             }
         }
     }
+    public void LoadGame()
+    {
+        SaveSystem.Load();
+    }
+    public void SaveGame()
+    {
+        SaveSystem.Save();
+    }
+
 }

@@ -145,4 +145,27 @@ public class Player : MonoBehaviour
     public int GetXP() => xp;
     public int GetCoins() => coins;
     public int GetLevel() => level;
+
+    [System.Serializable]
+    public class PlayerSaveData
+    {
+        public int xp;
+        public int coin;
+        public Vector3 position;
+
+        public void Save()
+        {
+            xp = Player.instance.xp;
+            coin = Player.instance.coins;
+            position = Player.instance.transform.position;
+        }
+
+        public void Load()
+        {
+            Player.instance.xp = xp;
+            Player.instance.coins = coin;
+            Player.instance.transform.position = position;
+            //PlayerHUD.Instance.Refresh(); // nếu bạn có HUD
+        }
+    }
 }

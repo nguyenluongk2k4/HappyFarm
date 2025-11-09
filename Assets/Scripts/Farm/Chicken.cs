@@ -95,7 +95,6 @@ public class Chicken : MonoBehaviour
         if (Mathf.Abs(transform.position.x - startPos.x) >= moveDistance)
         {
             moveLeft = !moveLeft;
-            animator.SetBool("bool_MoveLeft", moveLeft);
             startPos = transform.position;
             transform.localScale = new Vector3(moveLeft ? 1 : -1, 1, 1);
         }

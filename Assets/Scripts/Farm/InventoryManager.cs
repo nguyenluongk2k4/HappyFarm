@@ -108,5 +108,61 @@ public class InventoryManager : MonoBehaviour
         return amount - left; // số đã lấy
     }
 
-    // move/swap/stack giữa 2 ô inventory (nếu bạn cần)
+    public void Clear()
+    {
+        for (int i = 0; i < slots.Count; i++)
+        {
+            slots[i] = new ItemStack(null, 0);
+            OnSlotChanged.Invoke(i);
+        }
+        OnChanged.Invoke();
+        Debug.Log("🗑 Inventory đã được reset!");
+    }
+
+    [System.Serializable]
+    public class InventorySaveData
+    {
+        public List<ItemSave> items = new();
+
+        [System.Serializable]
+        public class ItemSave
+        {
+            public string itemName;
+            public int amount;
+            public int slotIndex;
+        }
+
+        public void Save()
+        {
+            items.Clear();
+            for (int i = 0; i < InventoryManager.Instance.slots.Count; i++)
+            {
+                var slot = InventoryManager.Instance.slots[i];
+                if (!slot.IsEmpty)
+                {
+                    items.Add(new ItemSave
+                    {
+                        itemName = slot.item.itemName,
+                        amount = slot.quantity,
+                        slotIndex = i
+                    });
+                }
+            }
+        }
+
+        public void Load()
+        {
+            InventoryManager.Instance.Clear();
+            foreach (var i in items)
+            {
+                var item = ItemDataList.Instance.GetItemByName(i.itemName);
+                if (item != null)
+                    InventoryManager.Instance.slots[i.slotIndex] = new ItemStack(item, i.amount);
+
+                InventoryManager.Instance.OnSlotChanged.Invoke(i.slotIndex);
+            }
+            InventoryManager.Instance.OnChanged.Invoke();
+        }
+    }
+
 }

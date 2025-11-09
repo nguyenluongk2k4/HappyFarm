@@ -6,17 +6,25 @@ public class PlayerInteraction : MonoBehaviour
     public ToolType CurrentTool { get; private set; } = ToolType.Hand;
 
     [Header("Interaction")]
-    public Transform interactionPoint;
     public float interactionRadius = 0.5f;
     public LayerMask interactableLayer;
 
-    private Vector2 lastMoveDir = Vector2.down;
+    [Header("Hoe Settings")]
+    public GameObject landPlotPrefab;
+    public int hoeHitsNeeded = 3;
+    private int hoeHitCount = 0;
+    private Vector2 lastHoePosition;
+    private bool willSpawnLand = false;
+
+    private Animator animator;
+    private Vector2 facingDirection = Vector2.down; // hướng nhìn của player
 
     private void Start()
     {
-        // Lắng nghe khi hotbar đổi slot
         if (HotbarManager.Instance != null)
             HotbarManager.Instance.OnSelectedChanged.AddListener(OnHotbarSelectedChanged);
+
+        animator = GetComponent<Animator>();
     }
 
     private void OnDestroy()
@@ -27,32 +35,62 @@ public class PlayerInteraction : MonoBehaviour
 
     private void Update()
     {
-        HandleInteractionPoint();
+        UpdateFacingDirection();
         HandleInteract();
     }
 
-    void HandleInteractionPoint()
+    // ✅ Lưu hướng nhìn player khi di chuyển
+    void UpdateFacingDirection()
     {
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
-        if (moveX != 0 || moveY != 0)
-            lastMoveDir = new Vector2(moveX, moveY).normalized;
 
-        if (interactionPoint != null)
-            interactionPoint.position = transform.position + (Vector3)lastMoveDir * 0.5f;
+        if (moveX != 0 || moveY != 0)
+            facingDirection = new Vector2(moveX, moveY).normalized;
     }
 
     void HandleInteract()
     {
         if (!Input.GetKeyDown(KeyCode.E)) return;
 
-        Collider2D hit = Physics2D.OverlapCircle(interactionPoint.position, interactionRadius, interactableLayer);
-        if (hit == null) return;
-
-        IInteractable interactable = hit.GetComponent<IInteractable>();
-        if (interactable != null)
+        // === CUỐC ĐẤT ===
+        if (CurrentTool == ToolType.Hoe)
         {
-            interactable.Interact(this);
+            Vector2 spawnPos = (Vector2)transform.position + facingDirection * 1f;
+            spawnPos = RoundToGrid(spawnPos);
+
+            // Nếu cuốc vị trí mới -> reset counter
+            if (spawnPos != lastHoePosition)
+            {
+                hoeHitCount = 0;
+                lastHoePosition = spawnPos;
+            }
+
+            hoeHitCount++;
+            Debug.Log($"⛏ Cuốc đất {hoeHitCount}/{hoeHitsNeeded} tại {spawnPos}");
+
+            if (hoeHitCount >= hoeHitsNeeded)
+            {
+                willSpawnLand = true;
+                hoeHitCount = 0;
+            }
+
+            animator.SetTrigger("trig_Hoe"); // phát animation cuốc
+            return;
+        }
+
+        // === TƯƠNG TÁC THƯỜNG ===
+        Collider2D hit = Physics2D.OverlapCircle(transform.position + (Vector3)facingDirection * 0.5f, interactionRadius, interactableLayer);
+        hit?.GetComponent<IInteractable>()?.Interact(this);
+    }
+
+    // ✅ Được gọi từ Animation Event ở cuối animation cuốc
+    public void OnHoeAnimationEnd()
+    {
+        if (willSpawnLand)
+        {
+            SpawnLandPlot(lastHoePosition);
+            willSpawnLand = false;
         }
     }
 
@@ -62,28 +100,50 @@ public class PlayerInteraction : MonoBehaviour
 
         if (stack == null || stack.IsEmpty)
         {
-            CurrentTool = ToolType.Hand;
+            SetTool(ToolType.Hand);
             return;
         }
 
-        // Chuyển ItemType → ToolType
         switch (stack.item.type)
         {
             case ItemType.Tool_Hoe:
-                CurrentTool = ToolType.Hoe;
+                SetTool(ToolType.Hoe);
                 break;
             case ItemType.Seed:
-                CurrentTool = ToolType.Seed;
+                SetTool(ToolType.Seed);
                 break;
-            case ItemType.Material:
-                CurrentTool = ToolType.Hand;
-                break;
-
             default:
-                CurrentTool = ToolType.Hand;
+                SetTool(ToolType.Hand);
                 break;
         }
 
         Debug.Log($"🔧 Tool hiện tại: {CurrentTool}");
+    }
+
+    void SetTool(ToolType tool)
+    {
+        CurrentTool = tool;
+        animator.SetBool("bool_Hoe", tool == ToolType.Hoe);
+    }
+
+    void SpawnLandPlot(Vector2 position)
+    {
+        Collider2D existing = Physics2D.OverlapCircle(position, 0.2f, interactableLayer);
+        if (existing != null && existing.GetComponent<LandPlot>())
+        {
+            Debug.Log("⚠ Ở đây đã có đất rồi!");
+            return;
+        }
+
+        Instantiate(landPlotPrefab, position, Quaternion.identity);
+        Debug.Log("🌱 Đất mới đã được tạo!");
+    }
+
+    Vector2 RoundToGrid(Vector2 pos)
+    {
+        return new Vector2(
+            Mathf.Round(pos.x),
+            Mathf.Round(pos.y)
+        );
     }
 }

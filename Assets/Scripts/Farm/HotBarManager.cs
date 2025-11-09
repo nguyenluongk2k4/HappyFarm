@@ -74,5 +74,71 @@ public class HotbarManager : MonoBehaviour
         OnSlotChanged.Invoke(index);
         OnChanged.Invoke();
     }
+    public void SetSlot(int index, ItemData item, int amount)
+    {
+        if (index < 0 || index >= slots.Count) return;
+
+        slots[index] = new ItemStack(item, amount);
+        OnSlotChanged.Invoke(index);
+        OnChanged.Invoke();
+    }
+
+    public void Clear()
+    {
+        for (int i = 0; i < slots.Count; i++)
+        {
+            slots[i] = new ItemStack(null, 0);
+            OnSlotChanged.Invoke(i); // ✅ update UI từng ô
+        }
+        OnSelectedChanged.Invoke(selectedIndex);
+        OnChanged.Invoke();
+        Debug.Log("🧽 Hotbar đã được reset!");
+    }
+
+
 
 }
+[System.Serializable]
+public class HotbarSaveData
+{
+    public List<HotbarItemSave> hotbarItems = new();
+
+    [System.Serializable]
+    public class HotbarItemSave
+    {
+        public string itemName;
+        public int amount;
+        public int slotIndex;
+    }
+
+    public void Save()
+    {
+        hotbarItems.Clear();
+        for (int i = 0; i < HotbarManager.Instance.slots.Count; i++)
+        {
+            var slot = HotbarManager.Instance.slots[i];
+            if (!slot.IsEmpty)
+            {
+                hotbarItems.Add(new HotbarItemSave
+                {
+                    itemName = slot.item.itemName,
+                    amount = slot.quantity,
+                    slotIndex = i
+                });
+            }
+        }
+    }
+
+    public void Load()
+    {
+        HotbarManager.Instance.Clear();
+        foreach (var data in hotbarItems)
+        {
+            var item = ItemDataList.Instance.GetItemByName(data.itemName);
+            if (item != null)
+                HotbarManager.Instance.SetSlot(data.slotIndex, item, data.amount);
+        }
+    }
+}
+
+
