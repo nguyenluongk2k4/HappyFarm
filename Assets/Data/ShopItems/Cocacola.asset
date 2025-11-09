@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
   m_Name: Cocacola
   m_EditorClassIdentifier: Assembly-CSharp::ItemDataProduct
-  itemName: Coca
+  itemData: {fileID: 11400000, guid: 6530673c169886d4a8a55a6be1ac39fe, type: 2}
   itemIcon: {fileID: 1341285982446485569, guid: b3bd02d57a209194f80d49bb044e731a, type: 3}
-  price: 6
-  category: 1
+  price: 7
+  category: 0

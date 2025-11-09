@@ -14,8 +14,6 @@ public class ShopTrigger : MonoBehaviour
     {
         if (shopPanelUI != null)
         {
-            shopPanelUI.SetActive(false);
-
             shopManager = shopPanelUI.GetComponent<ShopUIManager>();
             if (shopManager == null)
             {

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ShopData
   shopName: "C\u1EEDa h\xE0ng chung"
   itemsForSale:
-  - {fileID: 11400000, guid: 9b9ad175701364740bd05fe6b4e8cbe9, type: 2}
   - {fileID: 11400000, guid: 3c4d3b52bfde9f541ad02774069afc4e, type: 2}
   - {fileID: 11400000, guid: df4385f4edb3c2e4d956c95647abb7a7, type: 2}
+  - {fileID: 11400000, guid: 9b9ad175701364740bd05fe6b4e8cbe9, type: 2}

@@ -15,6 +15,4 @@ MonoBehaviour:
   shopName: "C\u1EEDa h\xE0ng c\xF4ng c\u1EE5"
   itemsForSale:
   - {fileID: 11400000, guid: c2171a7b2b7095e44907fafc4a5ad8b9, type: 2}
-  - {fileID: 11400000, guid: 65ae7e52233c6ab43bf466d9671322ea, type: 2}
-  - {fileID: 11400000, guid: c928dbfc64b33d7469e8d6c1a4d209a4, type: 2}
   - {fileID: 11400000, guid: 2d9ada278d8867c45b6de3c6bf583d16, type: 2}

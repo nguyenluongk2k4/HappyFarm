@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7027e2c6b4c0b2b48bd51164b975d056, type: 3}
   m_Name: "C\u1EEBu"
   m_EditorClassIdentifier: Assembly-CSharp::ItemDataProduct
-  itemName: "C\u1EEBu"
+  itemData: {fileID: 11400000, guid: 421b5d026e7cb814dbc318ce02ce0eae, type: 2}
   itemIcon: {fileID: 3184159518366690391, guid: 5791f1bbe6abdbd42b6ed914bfa61aed, type: 3}
   price: 5
   category: 4

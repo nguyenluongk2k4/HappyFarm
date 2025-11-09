@@ -257,6 +257,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 2
+  useCustomSpawnPosition: 0
+  customSpawnPosition: {x: 0, y: 0, z: 0}
+  spawnPointName: 
 --- !u!58 &6017581
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2026,6 +2029,7 @@ MonoBehaviour:
   shopNameText: {fileID: 1466822742}
   contentParent: {fileID: 1902599919}
   productItemPrefab: {fileID: 5054937589604432112, guid: 22e35f53517b6ab43aa32b133271a9ad, type: 3}
+  shopPanel: {fileID: 1222143741}
 --- !u!1 &926796099
 GameObject:
   m_ObjectHideFlags: 0
@@ -73938,6 +73942,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 1
+  useCustomSpawnPosition: 0
+  customSpawnPosition: {x: 0, y: 0, z: 0}
+  spawnPointName: 
 --- !u!58 &1969999419
 CircleCollider2D:
   m_ObjectHideFlags: 0
