@@ -75,6 +75,10 @@ public class PlayerInteraction : MonoBehaviour
             case ItemType.Seed:
                 CurrentTool = ToolType.Seed;
                 break;
+            case ItemType.Material:
+                CurrentTool = ToolType.Hand;
+                break;
+
             default:
                 CurrentTool = ToolType.Hand;
                 break;
