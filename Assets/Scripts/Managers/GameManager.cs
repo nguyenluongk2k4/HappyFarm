@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     private bool useCustomSpawnPosition = false;
     private Vector3 nextSpawnPosition;
     private string nextSpawnPointName;
+    [Header("Prefabs")]
+    public GameObject landPlotPrefab;
 
     private void Awake()
     {

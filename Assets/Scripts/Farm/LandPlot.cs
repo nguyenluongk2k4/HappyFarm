@@ -104,7 +104,7 @@ public class LandPlot : MonoBehaviour, IInteractable
                 Harvest();
                 ClearWithered();
                 break;
-                // CycleStateWithFarmTool();
+            // CycleStateWithFarmTool();
             // case PlayerInteraction.ToolType.Hoe:
             //     Plow();
             //     break;
@@ -151,23 +151,23 @@ public class LandPlot : MonoBehaviour, IInteractable
     }
 
     private CropData FindCropBySeed(ItemData seedItem)
-{
-    CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
-    Debug.Log($"Có {allCrops.Length} CropData được load.");
-
-    foreach (var crop in allCrops)
     {
-        Debug.Log($"🌱 Crop: {crop.name}, seedItem = {crop.seedItem?.name}");
-        if (crop.seedItem == seedItem)
-        {
-            Debug.Log($"✅ Match tìm thấy: {crop.cropName}");
-            return crop;
-        }
-    }
+        CropData[] allCrops = Resources.LoadAll<CropData>("Crops");
+        Debug.Log($"Có {allCrops.Length} CropData được load.");
 
-    Debug.LogWarning($"❌ Không tìm thấy CropData cho {seedItem?.name}");
-    return null;
-}
+        foreach (var crop in allCrops)
+        {
+            Debug.Log($"🌱 Crop: {crop.name}, seedItem = {crop.seedItem?.name}");
+            if (crop.seedItem == seedItem)
+            {
+                Debug.Log($"✅ Match tìm thấy: {crop.cropName}");
+                return crop;
+            }
+        }
+
+        Debug.LogWarning($"❌ Không tìm thấy CropData cho {seedItem?.name}");
+        return null;
+    }
 
 
     // =============== ACTIONS =============== //
@@ -338,19 +338,39 @@ public class LandPlot : MonoBehaviour, IInteractable
 
         public void Load()
         {
-            var allPlots = GameObject.FindObjectsOfType<LandPlot>();
+            var allPlots = new List<LandPlot>(GameObject.FindObjectsOfType<LandPlot>());
             int loaded = 0;
+            int spawned = 0;
 
             foreach (var data in lands)
             {
-                LandPlot plot = FindPlotByPosition(allPlots, data.position);
+                LandPlot plot = FindPlotByPosition(allPlots.ToArray(), data.position);
 
+                // ✅ Nếu không tìm thấy -> spawn mới
                 if (plot == null)
                 {
-                    Debug.LogWarning($"⚠ Không tìm thấy LandPlot tại {data.position}");
-                    continue;
+                    if (GameManager.Instance.landPlotPrefab != null)
+                    {
+                        GameObject newPlot = GameObject.Instantiate(
+                            GameManager.Instance.landPlotPrefab,
+                            data.position,
+                            Quaternion.identity
+                        );
+
+                        plot = newPlot.GetComponent<LandPlot>();
+                        allPlots.Add(plot);
+                        spawned++;
+
+                        Debug.Log($"🆕 Spawn mới ô đất tại {data.position}");
+                    }
+                    else
+                    {
+                        Debug.LogError("❌ landPlotPrefab chưa được gán trong GameManager!");
+                        continue;
+                    }
                 }
 
+                // ✅ Khôi phục dữ liệu đất
                 plot.currentState = (LandPlot.LandState)data.state;
                 plot.currentCrop = string.IsNullOrEmpty(data.cropName)
                     ? null
@@ -364,8 +384,9 @@ public class LandPlot : MonoBehaviour, IInteractable
                 loaded++;
             }
 
-            Debug.Log($"✅ Load thành công {loaded}/{lands.Count} mảnh đất");
+            Debug.Log($"✅ Load xong {loaded}/{lands.Count} ô đất (Spawn mới {spawned})");
         }
+
 
         // Tìm đất gần đúng vị trí (sai số 0.1f)
         private LandPlot FindPlotByPosition(LandPlot[] plots, Vector3 pos)
