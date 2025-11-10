@@ -1271,6 +1271,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   landPlotPrefab: {fileID: 7499364239541664317, guid: 6a12757e78457ec42a3aeef3b3d615a1, type: 3}
+  hudCanvas: {fileID: 193257477}
+  inventoryUI: {fileID: 352394201}
+  hotbarUI: {fileID: 704781586}
 --- !u!4 &639753084
 Transform:
   m_ObjectHideFlags: 0
@@ -2054,6 +2057,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FarmManager
   landPlotPrefab: {fileID: 0}
+  hudCanvas: {fileID: 0}
+  inventoryUI: {fileID: 0}
+  hotbarUI: {fileID: 0}
 --- !u!1 &1220759241
 GameObject:
   m_ObjectHideFlags: 0
