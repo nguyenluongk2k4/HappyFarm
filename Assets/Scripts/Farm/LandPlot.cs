@@ -104,21 +104,28 @@ public class LandPlot : MonoBehaviour, IInteractable
                 Harvest();
                 ClearWithered();
                 break;
-
-            case PlayerInteraction.ToolType.Hoe:
+                // CycleStateWithFarmTool();
+            // case PlayerInteraction.ToolType.Hoe:
+            //     Plow();
+            //     break;
+            case PlayerInteraction.ToolType.FarmLand:
                 Plow();
                 break;
-
             case PlayerInteraction.ToolType.Seed:
                 var selected = HotbarManager.Instance.GetSelectedStack();
 
                 if (selected != null && selected.item.type == ItemType.Seed)
                 {
+                    if (currentState != LandState.Plowed)
+                    {
+                        Debug.LogWarning("🌾 Đất chưa được cày nên không thể gieo hạt!");
+                        break;
+                    }
+
                     // 🔍 tìm CropData có seedItem trùng với item đang cầm
                     CropData foundCrop = FindCropBySeed(selected.item);
-                    if (foundCrop != null)
+                    if (foundCrop != null && Plant(foundCrop))
                     {
-                        Plant(foundCrop);
                         InventoryManager.Instance.Remove(selected.item, 1); // trừ 1 hạt
                     }
                     else
@@ -151,6 +158,61 @@ public class LandPlot : MonoBehaviour, IInteractable
 
 
     // =============== ACTIONS =============== //
+    void CycleStateWithFarmTool()
+    {
+        switch (currentState)
+        {
+            case LandState.Empty:
+                currentState = LandState.Plowed;
+                break;
+            case LandState.Plowed:
+                if (!EnsureDebugCrop()) return;
+                currentState = LandState.Planted;
+                growTimer = 0f;
+                currentGrowthStage = 0;
+                break;
+            case LandState.Planted:
+                if (!EnsureDebugCrop()) return;
+                currentState = LandState.Ready;
+                growTimer = 0f;
+                witherTimer = 0f;
+                currentGrowthStage = currentCrop.growthSprites.Length > 0 ? currentCrop.growthSprites.Length - 1 : 0;
+                break;
+            case LandState.Ready:
+                if (!EnsureDebugCrop()) return;
+                currentState = LandState.Withered;
+                witherTimer = 0f;
+                break;
+            case LandState.Withered:
+                currentState = LandState.Empty;
+                currentCrop = null;
+                growTimer = 0f;
+                witherTimer = 0f;
+                currentGrowthStage = 0;
+                break;
+        }
+
+        UpdateVisuals();
+        Debug.Log($"🌾 Farm tool chuyển sang trạng thái {currentState}");
+    }
+
+    bool EnsureDebugCrop()
+    {
+        if (currentCrop != null) return true;
+
+        CropData[] crops = Resources.LoadAll<CropData>("Crops");
+        if (crops.Length == 0)
+        {
+            Debug.LogWarning("⚠️ Không có CropData nào trong Resources/Crops để dùng cho FarmLand tool.");
+            return false;
+        }
+
+        currentCrop = crops[0];
+        currentGrowthStage = 0;
+        return currentCrop.growthSprites != null && currentCrop.growthSprites.Length > 0;
+    }
+
+    // =============== ACTIONS =============== //
     public void Plow()
     {
         if (currentState == LandState.Empty)
@@ -161,7 +223,7 @@ public class LandPlot : MonoBehaviour, IInteractable
         }
     }
 
-    public void Plant(CropData crop)
+    public bool Plant(CropData crop)
     {
         if (currentState == LandState.Plowed)
         {
@@ -171,7 +233,10 @@ public class LandPlot : MonoBehaviour, IInteractable
             growTimer = 0;
             currentGrowthStage = 0;
             UpdateVisuals();
+            return true;
         }
+
+        return false;
     }
 
     public void Harvest()

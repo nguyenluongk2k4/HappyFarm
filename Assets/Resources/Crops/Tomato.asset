@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 802f6a250f93af04b9fc38b8b56ccfe7, type: 3}
   m_Name: Tomato
   m_EditorClassIdentifier: Assembly-CSharp::CropData
-  cropName: CaChua
+  cropName: Tomato
   growTimeInSeconds: 10
   witherTimeInSeconds: 5
   seedItem: {fileID: 11400000, guid: c722da31eb34fe649a2e3bce049fab5e, type: 2}

@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Quoc
   icon: {fileID: -7352045877303822569, guid: cc274f58782dc204f89548484d5b4d9b, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 7
