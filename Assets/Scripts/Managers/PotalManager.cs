@@ -2,8 +2,14 @@
 
 public class PotalManager : MonoBehaviour
 {
-    [SerializeField] private int targetSceneIndex = 1; // Index của scene muốn chuyển đến
-    
+    [SerializeField] private int targetSceneIndex = 2; // Index của scene muốn chuyển đến
+
+    // ✨ Thêm mới — Thông tin spawn
+    [Header("Spawn Settings")]
+    [SerializeField] private bool useCustomSpawnPosition = false;
+    [SerializeField] private Vector3 customSpawnPosition;
+    [SerializeField] private string spawnPointName = "";
+
     void Start()
     {
         // Đảm bảo object có Collider và được set là Trigger
@@ -12,7 +18,7 @@ public class PotalManager : MonoBehaviour
         {
             col.isTrigger = true;
         }
-        
+
         // Nếu là Collider2D
         Collider2D col2D = GetComponent<Collider2D>();
         if (col2D != null)
@@ -29,7 +35,7 @@ public class PotalManager : MonoBehaviour
             ChangeScene();
         }
     }
-    
+
     // Phát hiện va chạm với player (2D)
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -38,7 +44,7 @@ public class PotalManager : MonoBehaviour
             ChangeScene();
         }
     }
-    
+
     private void ChangeScene()
     {
         // Kiểm tra GameManager có tồn tại không
@@ -47,6 +53,9 @@ public class PotalManager : MonoBehaviour
             Debug.LogError("GameManager not found! Please add GameManager to the scene.");
             return;
         }
+
+        // ✨ Gửi thông tin spawn sang GameManager
+        GameManager.Instance.SetNextSpawnInfo(useCustomSpawnPosition, customSpawnPosition, spawnPointName);
 
         // Chuyển scene bằng index
         GameManager.Instance.LoadSceneByIndex(targetSceneIndex);
@@ -60,6 +69,9 @@ public class PotalManager : MonoBehaviour
     {
         if (GameManager.Instance != null)
         {
+            // ✨ Gửi thông tin spawn khi load từ code khác
+            GameManager.Instance.SetNextSpawnInfo(useCustomSpawnPosition, customSpawnPosition, spawnPointName);
+
             GameManager.Instance.LoadSceneByIndex(sceneIndex);
             Debug.Log($"Portal: Loading scene at index {sceneIndex}");
         }

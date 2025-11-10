@@ -71,8 +71,10 @@
     <Compile Include="Assets\Scripts\Data\ShopData.cs" />
     <Compile Include="Assets\Scripts\Farm\SoftFollowCamera.cs" />
     <Compile Include="Assets\Scripts\Farm\ItemData.cs" />
+    <Compile Include="Assets\Scripts\LoadingScene\LoadingScreen.cs" />
     <Compile Include="Assets\Scripts\Farm\LandPlot.cs" />
     <Compile Include="Assets\Scripts\Farm\PlayerInteraction.cs" />
+    <Compile Include="Assets\Scripts\LoadingScene\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Farm\InventoryManager.cs" />
     <Compile Include="Assets\Scripts\Farm\Player.cs" />
     <Compile Include="Assets\Scripts\Managers\PotalManager.cs" />
