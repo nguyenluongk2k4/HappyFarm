@@ -13,6 +13,10 @@ public class GameManager : MonoBehaviour
     private string nextSpawnPointName;
     [Header("Prefabs")]
     public GameObject landPlotPrefab;
+    [Header("UI References")]
+    public GameObject hudCanvas;      // ✅ toàn UI HUD (HP, energy,...)
+    public GameObject inventoryUI;    // ✅ inventory window
+    public GameObject hotbarUI;
 
     private void Awake()
     {
@@ -32,6 +36,23 @@ public class GameManager : MonoBehaviour
             Debug.LogWarning("⚠️ GameManager đã tồn tại, destroy bản sao này");
             Destroy(gameObject);
         }
+    }
+    private void EnableGameplayUI()
+    {
+        if (hudCanvas != null) hudCanvas.SetActive(true);
+        if (hotbarUI != null) hotbarUI.SetActive(true);
+        if(inventoryUI != null) inventoryUI.SetActive(true); // Mặc định ẩn inventory
+
+        Debug.Log("HUD + Hotbar enabled after scene loaded.");
+    }
+
+    private void DisableAllGameplayUI()
+    {
+        if (hudCanvas != null) hudCanvas.SetActive(false);
+        if (hotbarUI != null) hotbarUI.SetActive(false);
+        if (inventoryUI != null) inventoryUI.SetActive(false);
+
+        Debug.Log("All gameplay UI disabled (Boot Scene)");
     }
 
     void Start()
@@ -70,6 +91,10 @@ public class GameManager : MonoBehaviour
     // ✨ Thêm mới — Khi scene mới load xong thì set vị trí Player
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if (scene.name == "Farm"|| scene.name == "Beach" || scene.name=="Market") // đổi theo tên scene của bạn
+        {
+            EnableGameplayUI();
+        }
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (player == null) return;
 
