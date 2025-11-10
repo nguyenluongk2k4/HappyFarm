@@ -74,6 +74,26 @@ public class HotbarManager : MonoBehaviour
         OnSlotChanged.Invoke(index);
         OnChanged.Invoke();
     }
+
+    public bool ConsumeSelected(int amount)
+    {
+        if (amount <= 0) return false;
+
+        var stack = slots[selectedIndex];
+        if (stack.IsEmpty || stack.quantity < amount) return false;
+
+        stack.quantity -= amount;
+        if (stack.quantity <= 0)
+        {
+            stack.Clear();
+        }
+
+        slots[selectedIndex] = stack;
+        OnSlotChanged.Invoke(selectedIndex);
+        OnChanged.Invoke();
+        return true;
+    }
+
     public void SetSlot(int index, ItemData item, int amount)
     {
         if (index < 0 || index >= slots.Count) return;

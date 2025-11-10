@@ -57329,6 +57329,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a91ccc4fc2a7c53479db0cf4d8c7f455, type: 2}
   - {fileID: 11400000, guid: 9f3fc1164144f574bb001c1267a7cc77, type: 2}
   - {fileID: 11400000, guid: 4bde58705f06a4b4fb5cee161e86eda5, type: 2}
+  - {fileID: 11400000, guid: 22b173c9a4ab0384cac78acbc1c3439a, type: 2}
+  - {fileID: 11400000, guid: 1434ae7a53f0ecb41adc997eb02d3ddf, type: 2}
+  - {fileID: 11400000, guid: 70403f09738a9e24da05b29277b8c8e2, type: 2}
 --- !u!1 &1052077647
 GameObject:
   m_ObjectHideFlags: 0
@@ -59843,6 +59846,11 @@ MonoBehaviour:
     m_Bits: 64
   landPlotPrefab: {fileID: 7499364239541664317, guid: 6a12757e78457ec42a3aeef3b3d615a1, type: 3}
   hoeHitsNeeded: 3
+  placementDistance: 1.2
+  placementRadiusCheck: 0.3
+  placementBlockedLayers:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1001 &1688091114
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -62843,6 +62851,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: c2517726f56663a4ca7bf226a9ec6499, type: 2}
+    - target: {fileID: 3053973010452352829, guid: ea698d75fd263aa47853135405a7e4fb, type: 3}
+      propertyPath: m_Mass
+      value: 0.015599999
+      objectReference: {fileID: 0}
     - target: {fileID: 3401264016494106662, guid: ea698d75fd263aa47853135405a7e4fb, type: 3}
       propertyPath: moveLeft
       value: 1

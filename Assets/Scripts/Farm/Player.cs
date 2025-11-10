@@ -67,6 +67,7 @@ public class Player : MonoBehaviour
         var seeds = ItemDataList.Instance.GetItemByName("TomatoSeed");
         var waterCan = ItemDataList.Instance.GetItemByName("WaterCan");
         var quoc = ItemDataList.Instance.GetItemByName("Quoc");
+        var chicken= ItemDataList.Instance.GetItemByName("Chicken");
         if (hoe != null)
         {
             InventoryManager.Instance.Add(hoe, 1);
@@ -75,7 +76,7 @@ public class Player : MonoBehaviour
 
         if (seeds != null)
         {
-            InventoryManager.Instance.Add(seeds, 10);
+            InventoryManager.Instance.Add(seeds, 1);
             Debug.Log("🌱 Đã thêm 10 hạt giống Cà Chua vào kho.");
         }
         if (waterCan != null)
@@ -86,6 +87,11 @@ public class Player : MonoBehaviour
         if (quoc != null)
         {
             InventoryManager.Instance.Add(quoc, 1);
+            Debug.Log(" Đã thêm water can vào kho.");
+        }
+        if (chicken != null)
+        {
+            InventoryManager.Instance.Add(chicken, 1);
             Debug.Log(" Đã thêm water can vào kho.");
         }
 

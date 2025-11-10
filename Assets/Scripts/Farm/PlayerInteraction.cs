@@ -2,7 +2,7 @@
 
 public class PlayerInteraction : MonoBehaviour
 {
-    public enum ToolType { Hand, Hoe, Seed, FarmLand }
+    public enum ToolType { Hand, Hoe, Seed, FarmLand, Animal }
     public ToolType CurrentTool { get; private set; } = ToolType.Hand;
 
     [Header("Interaction")]
@@ -15,6 +15,11 @@ public class PlayerInteraction : MonoBehaviour
     private int hoeHitCount = 0;
     private Vector2 lastHoePosition;
     private bool willSpawnLand = false;
+
+    [Header("Placement Settings")]
+    public float placementDistance = 1.2f;
+    public float placementRadiusCheck = 0.3f;
+    public LayerMask placementBlockedLayers;
 
     private Animator animator;
     private Vector2 facingDirection = Vector2.down; // hướng nhìn của player
@@ -79,6 +84,12 @@ public class PlayerInteraction : MonoBehaviour
             return;
         }
 
+        if (CurrentTool == ToolType.Animal)
+        {
+            TryPlaceAnimal();
+            return;
+        }
+
         // === TƯƠNG TÁC THƯỜNG ===
         Collider2D hit = Physics2D.OverlapCircle(transform.position + (Vector3)facingDirection * 0.5f, interactionRadius, interactableLayer);
         hit?.GetComponent<IInteractable>()?.Interact(this);
@@ -115,6 +126,9 @@ public class PlayerInteraction : MonoBehaviour
             case ItemType.Tool_FarmLand:
                 SetTool(ToolType.FarmLand);
                 break;
+            case ItemType.Animal:
+                SetTool(ToolType.Animal);
+                break;
             default:
                 SetTool(ToolType.Hand);
                 break;
@@ -148,5 +162,53 @@ public class PlayerInteraction : MonoBehaviour
             Mathf.Round(pos.x),
             Mathf.Round(pos.y)
         );
+    }
+
+    void TryPlaceAnimal()
+    {
+        if (HotbarManager.Instance == null)
+        {
+            Debug.LogWarning("⚠️ Không có HotbarManager để đặt vật nuôi.");
+            return;
+        }
+
+        var stack = HotbarManager.Instance.GetSelectedStack();
+        if (stack == null || stack.IsEmpty || stack.item == null || stack.item.type != ItemType.Animal)
+        {
+            Debug.LogWarning("⚠️ Không có vật nuôi hợp lệ được chọn để đặt.");
+            return;
+        }
+
+        if (stack.item.worldPrefab == null)
+        {
+            Debug.LogWarning($"❌ Item {stack.item.itemName} chưa gán worldPrefab để sinh ra gà.");
+            return;
+        }
+
+        Vector2 spawnPos = (Vector2)transform.position + facingDirection.normalized * placementDistance;
+        spawnPos = RoundToGrid(spawnPos);
+
+        if (placementBlockedLayers.value != 0)
+        {
+            Collider2D blocker = Physics2D.OverlapCircle(spawnPos, placementRadiusCheck, placementBlockedLayers);
+            if (blocker != null)
+            {
+                Debug.LogWarning("🚫 Khu vực này bị vật cản, không thể sinh vật nuôi!");
+                return;
+            }
+        }
+
+        GameObject animal = Instantiate(stack.item.worldPrefab, spawnPos, Quaternion.identity);
+        animal.layer = LayerMask.NameToLayer("Chicken");
+        Debug.Log($"🐔 Đã sinh ra {stack.item.itemName} tại {spawnPos}");
+
+        if (!HotbarManager.Instance.ConsumeSelected(1))
+        {
+            int removed = InventoryManager.Instance.Remove(stack.item, 1);
+            if (removed <= 0)
+            {
+                Debug.LogWarning("⚠️ Không thể trừ vật nuôi khỏi Hotbar/Inventory sau khi đặt!");
+            }
+        }
     }
 }

@@ -15,4 +15,5 @@ MonoBehaviour:
   itemName: Chicken
   icon: {fileID: 5336855417275088078, guid: 1a5530c62a0a9b049b07a03874958c61, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 8
+  worldPrefab: {fileID: 6715967690306019194, guid: ea698d75fd263aa47853135405a7e4fb, type: 3}

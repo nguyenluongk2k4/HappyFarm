@@ -10,6 +10,7 @@ public enum ItemType
     Material,
     Food,
     Tool_FarmLand,
+    Animal,
 }
 
 [CreateAssetMenu(menuName = "Item/ItemData")]
@@ -19,5 +20,8 @@ public class ItemData : ScriptableObject
     public Sprite icon;
     public int maxStackSize = 99;
 
-    public ItemType type; 
+    public ItemType type;
+
+    [Header("World Placement")]
+    public GameObject worldPrefab; // optional prefab spawned when using the item in world
 }

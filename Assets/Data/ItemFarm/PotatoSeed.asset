@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
   m_Name: PotatoSeed
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Potato
+  itemName: PotatoSeed
   icon: {fileID: -8286018175113047878, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
   maxStackSize: 99
   type: 3

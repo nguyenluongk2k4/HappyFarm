@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
   m_Name: TomatoSeed
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: Tomato
-  icon: {fileID: 8578180459406042070, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
+  itemName: TomatoSeed
+  icon: {fileID: -8677211718366676707, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
   maxStackSize: 99
   type: 3

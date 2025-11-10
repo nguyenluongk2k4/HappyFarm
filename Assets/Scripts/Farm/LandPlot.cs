@@ -124,13 +124,26 @@ public class LandPlot : MonoBehaviour, IInteractable
 
                     // 🔍 tìm CropData có seedItem trùng với item đang cầm
                     CropData foundCrop = FindCropBySeed(selected.item);
-                    if (foundCrop != null && Plant(foundCrop))
-                    {
-                        InventoryManager.Instance.Remove(selected.item, 1); // trừ 1 hạt
-                    }
-                    else
+                    if (foundCrop == null)
                     {
                         Debug.LogWarning("❌ Không tìm thấy CropData cho hạt này!");
+                        break;
+                    }
+
+                    if (!Plant(foundCrop))
+                    {
+                        Debug.LogWarning("❌ Không thể gieo hạt trên mảnh đất hiện tại!");
+                        break;
+                    }
+
+                    // Ưu tiên trừ trực tiếp trên hotbar; nếu thất bại thì trừ trong inventory như dự phòng
+                    if (!HotbarManager.Instance.ConsumeSelected(1))
+                    {
+                        int removed = InventoryManager.Instance.Remove(selected.item, 1);
+                        if (removed <= 0)
+                        {
+                            Debug.LogWarning("⚠️ Không thể trừ hạt giống khỏi Hotbar hoặc Inventory.");
+                        }
                     }
                 }
                 break;

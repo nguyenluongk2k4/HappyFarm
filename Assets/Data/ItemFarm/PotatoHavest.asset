@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4092c27b30594f74fb58d169c3fbfcd5, type: 3}
-  m_Name: TomatoHavest
+  m_Name: PotatoHavest
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: TomatoHavest
-  icon: {fileID: 4209240044320245080, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
+  itemName: PotatoHavest
+  icon: {fileID: 1942767228105140428, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
   maxStackSize: 99
   type: 5
