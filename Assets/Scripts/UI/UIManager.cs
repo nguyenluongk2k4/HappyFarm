@@ -11,6 +11,7 @@ public class UIManager : MonoBehaviour
     [Header("Hotkey Panels")]
     [SerializeField] private GameObject inventoryPanel;
     [SerializeField] private GameObject hotbarPanel;
+    [SerializeField] private GameObject settingsPanel;
 
     private void Awake()
     {
@@ -48,6 +49,16 @@ public class UIManager : MonoBehaviour
             else
                 OpenPanel("HotbarPanel");
         }
+
+        //Nhấn Esc mở/tắt Settings
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (settingsPanel != null)
+                OpenPanel(settingsPanel);
+            else
+                OpenPanel("SettingsPanel");
+        }
+
     }
 
     public void OpenPanel(string panelName)

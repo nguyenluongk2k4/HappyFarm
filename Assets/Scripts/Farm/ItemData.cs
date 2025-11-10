@@ -8,7 +8,8 @@ public enum ItemType
     Seed,
     Crop,
     Material,
-    Food
+    Food,
+    Tool_FarmLand,
 }
 
 [CreateAssetMenu(menuName = "Item/ItemData")]

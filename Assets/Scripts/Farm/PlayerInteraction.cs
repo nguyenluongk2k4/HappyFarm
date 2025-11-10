@@ -2,7 +2,7 @@
 
 public class PlayerInteraction : MonoBehaviour
 {
-    public enum ToolType { Hand, Hoe, Seed }
+    public enum ToolType { Hand, Hoe, Seed, FarmLand }
     public ToolType CurrentTool { get; private set; } = ToolType.Hand;
 
     [Header("Interaction")]
@@ -111,6 +111,9 @@ public class PlayerInteraction : MonoBehaviour
                 break;
             case ItemType.Seed:
                 SetTool(ToolType.Seed);
+                break;
+            case ItemType.Tool_FarmLand:
+                SetTool(ToolType.FarmLand);
                 break;
             default:
                 SetTool(ToolType.Hand);

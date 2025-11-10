@@ -65,7 +65,8 @@ public class Player : MonoBehaviour
         // ✅ Thêm vật phẩm khởi đầu
         var hoe = ItemDataList.Instance.GetItemByName("Hoe");
         var seeds = ItemDataList.Instance.GetItemByName("Tomato");
-
+        var waterCan = ItemDataList.Instance.GetItemByName("WaterCan");
+        var quoc = ItemDataList.Instance.GetItemByName("Quoc");
         if (hoe != null)
         {
             InventoryManager.Instance.Add(hoe, 1);
@@ -76,6 +77,16 @@ public class Player : MonoBehaviour
         {
             InventoryManager.Instance.Add(seeds, 10);
             Debug.Log("🌱 Đã thêm 10 hạt giống Cà Chua vào kho.");
+        }
+        if (waterCan != null)
+        {
+            InventoryManager.Instance.Add(waterCan, 1);
+            Debug.Log(" Đã thêm water can vào kho.");
+        }
+        if (waterCan != null)
+        {
+            InventoryManager.Instance.Add(waterCan, 1);
+            Debug.Log(" Đã thêm water can vào kho.");
         }
 
         // ✅ Cập nhật XP và Level ban đầu

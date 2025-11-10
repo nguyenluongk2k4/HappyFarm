@@ -54705,6 +54705,7 @@ MonoBehaviour:
   panels: []
   inventoryPanel: {fileID: 2095941653}
   hotbarPanel: {fileID: 1850553026}
+  settingsPanel: {fileID: 1249513859}
 --- !u!4 &661182097
 Transform:
   m_ObjectHideFlags: 0
@@ -57325,6 +57326,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c722da31eb34fe649a2e3bce049fab5e, type: 2}
   - {fileID: 11400000, guid: fe8f755f4ef73bc42b1b54dfec4e25f9, type: 2}
   - {fileID: 11400000, guid: c6be25cd6085a934fb662fe6a4c00d2b, type: 2}
+  - {fileID: 11400000, guid: a91ccc4fc2a7c53479db0cf4d8c7f455, type: 2}
+  - {fileID: 11400000, guid: 9f3fc1164144f574bb001c1267a7cc77, type: 2}
 --- !u!1 &1052077647
 GameObject:
   m_ObjectHideFlags: 0
@@ -57826,7 +57829,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1249513860
 RectTransform:
   m_ObjectHideFlags: 0
