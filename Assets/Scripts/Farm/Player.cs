@@ -58,7 +58,7 @@ public class Player : MonoBehaviour
         Debug.Log("🎒 Khởi tạo kho đồ ban đầu...");
 
         // ✅ Gán số tiền ban đầu và gọi event để update UI
-        coins = 50;
+        coins = 1000;
         OnCoinChanged.Invoke(coins);
         Debug.Log("💰 Người chơi bắt đầu với 50 xu.");
 

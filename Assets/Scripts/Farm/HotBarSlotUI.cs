@@ -167,17 +167,19 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
         var stack = HotbarManager.Instance.slots[slotIndex];
         if (stack.IsEmpty)
         {
-            Debug.Log("Slot trống, không có gì để bán.");
+            Debug.Log("❌ Slot trống, không có gì để bán.");
             return;
         }
+
         // Kiểm tra loại item
-        if (stack.item.type != ItemType.Material)
+        if (stack.item.type != ItemType.Material && stack.item.type != ItemType.Fish)
         {
-            Debug.Log($"Không thể bán {stack.item.itemName}. Chỉ vật liệu (Material) mới được bán.");
+            Debug.Log($"❌ Không thể bán {stack.item.itemName}. Loại item hiện tại là: {stack.item.type}");
             return;
         }
+
         int amount = stack.quantity;
-        int gain = 5 * amount;
+        int gain = stack.item.sellPrice * amount;
 
         // Cộng coins cho player (tùy code game bạn)
         Player.instance.AddCoins(gain);
@@ -185,6 +187,7 @@ public class HotbarSlotUI : SlotUIBase, IBeginDragHandler, IDragHandler, IEndDra
         // Xóa item khỏi hotbar
         HotbarManager.Instance.Set(slotIndex, new ItemStack(null, 0));
 
-        Debug.Log($"Đã bán {stack.item.itemName} x{amount} -> +{gain} coins!");
+        Debug.Log($"✅ Đã bán {stack.item.itemName} x{amount} -> +{gain} coins!");
     }
+
 }

@@ -21,7 +21,7 @@ public class ItemData : ScriptableObject
     public string itemName;
     public Sprite icon;
     public int maxStackSize = 99;
-
+    public int sellPrice = 0;
     public ItemType type;
 
     [Header("World Placement")]

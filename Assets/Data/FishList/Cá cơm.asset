@@ -15,8 +15,9 @@ MonoBehaviour:
   itemName: "C\xE1 c\u01A1m"
   icon: {fileID: 4211733693525893256, guid: 5e1ec716ab1d017418afa0921ef3c96e, type: 3}
   maxStackSize: 99
-  type: 8
+  sellPrice: 20
+  type: 10
+  worldPrefab: {fileID: 0}
   fishName: "C\xE1 c\u01A1m"
   rarity: 0.5
   difficulty: 1
-  sellPrice: 20

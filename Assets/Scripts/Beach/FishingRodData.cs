@@ -17,9 +17,7 @@ public class FishingRodData : ItemData
     [Tooltip("Giảm độ khó khi bắt cá (ví dụ 1.5 sẽ giúp dễ bắt hơn)")]
     public float difficultyReduction = 0f;
 
-    [Header("Game Meta")]
-    [Tooltip("Giá bán hoặc giá mua của cần câu này")]
-    public int price = 0;
+   
 
     private void OnEnable()
     {

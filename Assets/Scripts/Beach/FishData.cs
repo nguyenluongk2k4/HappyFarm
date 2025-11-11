@@ -16,8 +16,7 @@ public class FishData : ItemData
     [Range(1f, 10f)]
     public float difficulty = 5f;
 
-    [Header("Kinh tế")]
-    public int sellPrice = 50;
+   
 
     private void OnEnable()
     {
@@ -25,3 +24,4 @@ public class FishData : ItemData
         type = ItemType.Fish;
     }
 }
+    

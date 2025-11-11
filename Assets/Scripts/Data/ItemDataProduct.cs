@@ -14,6 +14,8 @@ public class ItemDataProduct : ScriptableObject
         Fruit,
         Seed,
         Tool,
-        Livestock 
+        Livestock,
+        Fish,
+        Rod
     }
 }

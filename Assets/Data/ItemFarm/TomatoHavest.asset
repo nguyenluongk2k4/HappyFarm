@@ -15,4 +15,6 @@ MonoBehaviour:
   itemName: TomatoHavest
   icon: {fileID: 4209240044320245080, guid: 2eed8106d9d90d44499ec76e94c7f175, type: 3}
   maxStackSize: 99
+  sellPrice: 10
   type: 5
+  worldPrefab: {fileID: 0}

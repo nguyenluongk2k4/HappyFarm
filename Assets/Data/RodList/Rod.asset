@@ -15,10 +15,10 @@ MonoBehaviour:
   itemName: "C\u1EA7n c\u01A1 b\u1EA3n"
   icon: {fileID: 969133683101109622, guid: cc274f58782dc204f89548484d5b4d9b, type: 3}
   maxStackSize: 99
+  sellPrice: 100
   type: 9
   worldPrefab: {fileID: 0}
   rodName: "C\u1EA7n c\u01A1 b\u1EA3n"
   catchPower: 0.8
   biteTimeModifier: 1
   difficultyReduction: 0
-  price: 100
