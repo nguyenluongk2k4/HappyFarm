@@ -15,4 +15,5 @@ MonoBehaviour:
   itemName: Egg
   icon: {fileID: 3809271013116874632, guid: 612ceaddfda5b7e46a5204585a26c375, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 5
+  worldPrefab: {fileID: 0}

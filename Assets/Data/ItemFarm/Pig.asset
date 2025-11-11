@@ -15,4 +15,5 @@ MonoBehaviour:
   itemName: Pig
   icon: {fileID: -9122695006515159614, guid: d6699b5d069387b4493e17038e9cee89, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 8
+  worldPrefab: {fileID: 0}
