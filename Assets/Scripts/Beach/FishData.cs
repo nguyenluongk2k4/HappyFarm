@@ -1,19 +1,27 @@
-﻿// Assets/Scripts/Data/FishData.cs
-using UnityEngine;
+﻿using UnityEngine;
 
-[System.Serializable]
-public class FishData
+[CreateAssetMenu(fileName = "NewFish", menuName = "Fishing/Fish")]
+public class FishData : ItemData
 {
-    public string fishName;
-    public Sprite icon;
-    public int sellPrice = 50;
+    
+   
 
+    [Header("Fishing Info")]
+
+    public string fishName = "";
     [Tooltip("Xác suất (weight) dùng để random xuất hiện. Không phải phần trăm. Ví dụ 0.2, 0.5...")]
     public float rarity = 0.1f;
 
     [Tooltip("Độ khó: giá trị càng lớn => càng khó bắt (dùng trong công thức bắt).")]
-    [Range(1f, 20f)]
+    [Range(1f, 10f)]
     public float difficulty = 5f;
 
-    // tùy chọn: thời gian xuất hiện / mùa / weather... có thể thêm sau
+    [Header("Kinh tế")]
+    public int sellPrice = 50;
+
+    private void OnEnable()
+    {
+        // Đảm bảo luôn nhận diện đúng loại trong switch-case
+        type = ItemType.Fish;
+    }
 }

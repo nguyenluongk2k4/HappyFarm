@@ -2,7 +2,7 @@
 
 public class PlayerInteraction : MonoBehaviour
 {
-    public enum ToolType { Hand, Hoe, Seed, FarmLand, Animal }
+    public enum ToolType { Hand, Hoe, Seed, FarmLand, Animal,Rod }
     public ToolType CurrentTool { get; private set; } = ToolType.Hand;
 
     [Header("Interaction")]
@@ -128,6 +128,14 @@ public class PlayerInteraction : MonoBehaviour
                 break;
             case ItemType.Animal:
                 SetTool(ToolType.Animal);
+                break;
+            case ItemType.Rod:
+                SetTool(ToolType.Rod);
+                var fishing = GetComponent<PlayerFishing>();
+                if (fishing != null)
+                {
+                    fishing.SetRod(stack.item);
+                }
                 break;
             default:
                 SetTool(ToolType.Hand);
