@@ -199,7 +199,20 @@ public class PlayerInteraction : MonoBehaviour
         }
 
         GameObject animal = Instantiate(stack.item.worldPrefab, spawnPos, Quaternion.identity);
-        animal.layer = LayerMask.NameToLayer("Chicken");
+
+        int chickenLayer = LayerMask.NameToLayer("Chicken");
+        if (chickenLayer >= 0)
+        {
+            animal.layer = chickenLayer;
+        }
+
+        animal.name = stack.item.worldPrefab.name; // bỏ (Clone)
+
+        var marker = animal.GetComponent<AnimalMarker>();
+        if (marker == null)
+            marker = animal.AddComponent<AnimalMarker>();
+        marker.prefabName = stack.item.worldPrefab.name;
+
         Debug.Log($"🐔 Đã sinh ra {stack.item.itemName} tại {spawnPos}");
 
         if (!HotbarManager.Instance.ConsumeSelected(1))

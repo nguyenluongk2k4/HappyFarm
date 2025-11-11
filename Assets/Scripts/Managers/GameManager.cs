@@ -6,81 +6,73 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; set; }
 
-    // ✨ Thêm mới - Thông tin spawn khi đổi scene
-    private SaveSystem saveSystem;
+    // Spawn info khi đổi scene
     private bool useCustomSpawnPosition = false;
     private Vector3 nextSpawnPosition;
     private string nextSpawnPointName;
+
     [Header("Prefabs")]
     public GameObject landPlotPrefab;
+
     [Header("UI References")]
-    public GameObject hudCanvas;      // ✅ toàn UI HUD (HP, energy,...)
-    public GameObject inventoryUI;    // ✅ inventory window
+    public GameObject hudCanvas;
+    public GameObject inventoryUI;
     public GameObject hotbarUI;
+
+    [Header("Animal Prefabs (Kéo tất cả prefab gà vào đây)")]
+    public List<GameObject> animalPrefabs = new List<GameObject>();
+    public Dictionary<string, GameObject> animalPrefabDict = new Dictionary<string, GameObject>();
 
     private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // ✅ GameManager sẽ tồn tại qua các scene
-            gameObject.name = "[GameManager - DontDestroyOnLoad]"; // Dễ nhận biết
-            saveSystem = new SaveSystem();
+            DontDestroyOnLoad(gameObject);
+            gameObject.name = "[GameManager - DontDestroyOnLoad]";
 
-            // ✨ Đăng ký sự kiện khi load scene xong
+            // Build prefab dictionary
+            foreach (var prefab in animalPrefabs)
+            {
+                if (!animalPrefabDict.ContainsKey(prefab.name))
+                    animalPrefabDict.Add(prefab.name, prefab);
+            }
+
             SceneManager.sceneLoaded += OnSceneLoaded;
-            Debug.Log("✓ GameManager khởi tạo và set DontDestroyOnLoad");
+            Debug.Log("✓ GameManager initialized & DontDestroyOnLoad");
         }
         else
         {
-            Debug.LogWarning("⚠️ GameManager đã tồn tại, destroy bản sao này");
             Destroy(gameObject);
         }
     }
+
     private void EnableGameplayUI()
     {
-        if (hudCanvas != null) hudCanvas.SetActive(true);
-        if (hotbarUI != null) hotbarUI.SetActive(true);
-        if(inventoryUI != null) inventoryUI.SetActive(true); // Mặc định ẩn inventory
-
-        Debug.Log("HUD + Hotbar enabled after scene loaded.");
+        if (hudCanvas) hudCanvas.SetActive(true);
+        if (hotbarUI) hotbarUI.SetActive(true);
+        if (inventoryUI) inventoryUI.SetActive(false); // ẩn mặc định
+        Debug.Log("✅ HUD + Hotbar enabled");
     }
 
     private void DisableAllGameplayUI()
     {
-        if (hudCanvas != null) hudCanvas.SetActive(false);
-        if (hotbarUI != null) hotbarUI.SetActive(false);
-        if (inventoryUI != null) inventoryUI.SetActive(false);
-
-        Debug.Log("All gameplay UI disabled (Boot Scene)");
+        if (hudCanvas) hudCanvas.SetActive(false);
+        if (hotbarUI) hotbarUI.SetActive(false);
+        if (inventoryUI) inventoryUI.SetActive(false);
+        Debug.Log("🚫 Gameplay UI Disabled (Boot Scene)");
     }
 
-    void Start()
-    {
-        Debug.Log("GameManager initialized");
-    }
-
-    void Update()
-    {
-        // Game logic here
-    }
-
-    /// <summary>
-    /// Load scene theo index
-    /// </summary>
     public void LoadSceneByIndex(int sceneIndex)
     {
         if (sceneIndex < 0 || sceneIndex >= SceneManager.sceneCountInBuildSettings)
         {
-            Debug.LogError($"Scene index {sceneIndex} is out of range!");
+            Debug.LogError("Scene index out of range!");
             return;
         }
-
-        Debug.Log($"Loading scene at index: {sceneIndex}");
         SceneManager.LoadScene(sceneIndex);
     }
 
-    // ✨ Thêm mới — Set thông tin spawn trước khi load scene
     public void SetNextSpawnInfo(bool useCustom, Vector3 pos, string pointName)
     {
         useCustomSpawnPosition = useCustom;
@@ -88,38 +80,51 @@ public class GameManager : MonoBehaviour
         nextSpawnPointName = pointName;
     }
 
-    // ✨ Thêm mới — Khi scene mới load xong thì set vị trí Player
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name == "Farm"|| scene.name == "Beach" || scene.name=="Market") // đổi theo tên scene của bạn
+        // Bật UI gameplay ở những scene có chơi
+        if (scene.name == "Farm" || scene.name == "Beach" || scene.name == "Market")
         {
             EnableGameplayUI();
         }
-        GameObject player = GameObject.FindGameObjectWithTag("Player");
-        if (player == null) return;
-
-        if (useCustomSpawnPosition)
+        // Chỉ spawn gà khi đã load game trước đó
+        if (AnimalData.memory.Count > 0)
         {
-            player.transform.position = nextSpawnPosition;
-            Debug.Log($"Spawned player at custom position: {nextSpawnPosition}");
+            AnimalData.SpawnFromMemory();
         }
-        else if (!string.IsNullOrEmpty(nextSpawnPointName))
+        else
         {
-            GameObject spawnPoint = GameObject.Find(nextSpawnPointName);
-            if (spawnPoint != null)
+            DisableAllGameplayUI();
+        }
+
+        // Spawn Player
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player)
+        {
+            if (useCustomSpawnPosition)
+                player.transform.position = nextSpawnPosition;
+            else if (!string.IsNullOrEmpty(nextSpawnPointName))
             {
-                player.transform.position = spawnPoint.transform.position;
-                Debug.Log($"Spawned player at point: {nextSpawnPointName}");
+                GameObject sp = GameObject.Find(nextSpawnPointName);
+                if (sp) player.transform.position = sp.transform.position;
             }
         }
     }
-    public void LoadGame()
-    {
-        SaveSystem.Load();
-    }
+
+    // ================= SAVE / LOAD =================
+
     public void SaveGame()
     {
         SaveSystem.Save();
+        AnimalData.Save(); // ✅ Lưu gà
+        Debug.Log("✅ Lưu game + gà thành công!");
     }
 
+    public void LoadGame()
+    {
+        SaveSystem.Load();
+        // AnimalData.Load();
+        AnimalData.LoadToMemory();
+        Debug.Log("📥 LoadGame invoked!");
+    }
 }

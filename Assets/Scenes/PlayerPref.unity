@@ -1274,6 +1274,9 @@ MonoBehaviour:
   hudCanvas: {fileID: 193257477}
   inventoryUI: {fileID: 352394201}
   hotbarUI: {fileID: 704781586}
+  animalPrefabs:
+  - {fileID: 6715967690306019194, guid: ea698d75fd263aa47853135405a7e4fb, type: 3}
+  - {fileID: 554173378282746930, guid: 858e9b3bc4a4ed543983ac5f5e38cc2f, type: 3}
 --- !u!4 &639753084
 Transform:
   m_ObjectHideFlags: 0
@@ -2060,6 +2063,7 @@ MonoBehaviour:
   hudCanvas: {fileID: 0}
   inventoryUI: {fileID: 0}
   hotbarUI: {fileID: 0}
+  animalPrefabs: []
 --- !u!1 &1220759241
 GameObject:
   m_ObjectHideFlags: 0
