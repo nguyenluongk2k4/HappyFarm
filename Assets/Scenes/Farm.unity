@@ -55643,7 +55643,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PotalManager
   targetSceneIndex: 4
   useCustomSpawnPosition: 1
-  customSpawnPosition: {x: 16, y: 15, z: 0}
+  customSpawnPosition: {x: -2, y: -6, z: 0}
   spawnPointName: 
 --- !u!1001 &909629801
 PrefabInstance:
