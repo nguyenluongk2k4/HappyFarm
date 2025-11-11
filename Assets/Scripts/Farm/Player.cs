@@ -68,6 +68,7 @@ public class Player : MonoBehaviour
         var waterCan = ItemDataList.Instance.GetItemByName("WaterCan");
         var quoc = ItemDataList.Instance.GetItemByName("Quoc");
         var chicken= ItemDataList.Instance.GetItemByName("Chicken");
+        var rod = ItemDataList.Instance.GetItemByName("Cần cơ bản");
         if (hoe != null)
         {
             InventoryManager.Instance.Add(hoe, 1);
@@ -93,6 +94,12 @@ public class Player : MonoBehaviour
         {
             InventoryManager.Instance.Add(chicken, 1);
             Debug.Log(" Đã thêm water can vào kho.");
+        }
+
+        if (rod != null)
+        {
+            InventoryManager.Instance.Add(rod, 1);
+            Debug.Log("🌱 Đã thêm 1 cần câu vào kho.");
         }
 
         // ✅ Cập nhật XP và Level ban đầu

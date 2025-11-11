@@ -15,4 +15,5 @@ MonoBehaviour:
   itemName: Cow
   icon: {fileID: 6602966838755796383, guid: bc3f7332d75817641b0436d669fd7fb9, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 8
+  worldPrefab: {fileID: 0}

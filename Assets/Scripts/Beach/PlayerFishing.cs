@@ -1,20 +1,62 @@
-﻿// Assets/Scripts/Fishing/PlayerFishing.cs
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class PlayerFishing : MonoBehaviour
 {
-    public FishingRodData currentRod;
-    public PlayerInventory inventory;
+    [Header("References")]
+    public FishingRodData equippedRod;       // Cần câu hiện đang đeo      // (Không cần thiết nếu dùng InventoryManager)
+    public PlayerInteraction playerInteraction;
 
     private FishingSpot currentSpot;
     private bool inRange = false;
     private bool isFishing = false;
 
+    void Start()
+    {
+        // Nếu chưa gán trong Inspector thì tự tìm trên Player
+        if (playerInteraction == null)
+            playerInteraction = GetComponent<PlayerInteraction>();
+    }
+
+    public void SetRod(ItemData item)
+    {
+        if (item == null)
+        {
+            equippedRod = null;
+            MessageUI.Instance.ShowMessage(" Không có cần câu nào được chọn!");
+            return;
+        }
+
+        if (item is FishingRodData rodData)
+        {
+            equippedRod = rodData;
+            MessageUI.Instance.ShowMessage($" Trang bị cần câu: {equippedRod.rodName}");
+        }
+        else
+        {
+            equippedRod = null;
+            MessageUI.Instance.ShowMessage($" {item.itemName} không phải là loại cần câu hợp lệ!");
+        }
+    }
+
     void Update()
     {
-        if (inRange && Input.GetKeyDown(KeyCode.E) && !isFishing)
+        if (!inRange || isFishing) return;
+
+        if (Input.GetKeyDown(KeyCode.E))
         {
+            if (playerInteraction == null || playerInteraction.CurrentTool != PlayerInteraction.ToolType.Rod)
+            {
+                MessageUI.Instance.ShowMessage(" Bạn chưa trang bị cần câu!");
+                return;
+            }
+
+            if (equippedRod == null)
+            {
+                MessageUI.Instance.ShowMessage(" Bạn chưa chọn loại cần câu cụ thể!");
+                return;
+            }
+
             StartCoroutine(DoFishing());
         }
     }
@@ -22,11 +64,10 @@ public class PlayerFishing : MonoBehaviour
     IEnumerator DoFishing()
     {
         isFishing = true;
-        Debug.Log("Đã bắt đầu câu...");
+        MessageUI.Instance.ShowMessage(" Bắt đầu câu cá...");
 
-        yield return StartCoroutine(FishingManager.Instance.StartFishingRoutine(currentSpot, currentRod, OnFishResult));
+        yield return StartCoroutine(FishingManager.Instance.StartFishingRoutine(currentSpot, equippedRod, OnFishResult));
 
-        // chờ một chút trước khi cho người chơi move hoặc tiếp tục
         yield return new WaitForSeconds(0.3f);
         isFishing = false;
     }
@@ -35,20 +76,29 @@ public class PlayerFishing : MonoBehaviour
     {
         if (fish == null)
         {
-            Debug.Log("Không có cá.");
+            MessageUI.Instance.ShowMessage("Không có cá ở đây.");
             return;
         }
 
         if (caught)
         {
-            Debug.Log($"🎣 Bắt được {fish.fishName} (Giá {fish.sellPrice})");
-            inventory?.AddFish(fish);
-            // Hiện UI, chơi animation, âm thanh...
+            MessageUI.Instance.ShowMessage($" Bắt được {fish.fishName} (Giá {fish.sellPrice})");
+
+            // ✅ Thêm cá vào kho người chơi
+            var fishItem = ItemDataList.Instance.GetItemByName(fish.fishName);
+            if (fishItem != null)
+            {
+                InventoryManager.Instance.Add(fishItem, 1);
+                MessageUI.Instance.ShowMessage($" Đã thêm {fish.fishName} vào kho!");
+            }
+            else
+            {
+                MessageUI.Instance.ShowMessage($" Không tìm thấy vật phẩm tương ứng với {fish.fishName} trong ItemDataList!");
+            }
         }
         else
         {
-            Debug.Log($"🐟 {fish.fishName} sổng mất!");
-            // Hiện UI "sổng"
+            MessageUI.Instance.ShowMessage($" {fish.fishName} sổng mất!");
         }
     }
 
@@ -58,7 +108,7 @@ public class PlayerFishing : MonoBehaviour
         {
             currentSpot = spot;
             inRange = true;
-            // show prompt "Bấm E để câu"
+            MessageUI.Instance.ShowMessage("Đến khu vực câu cá (bấm E để câu)");
         }
     }
 
@@ -68,7 +118,6 @@ public class PlayerFishing : MonoBehaviour
         {
             currentSpot = null;
             inRange = false;
-            // hide prompt
         }
     }
 }

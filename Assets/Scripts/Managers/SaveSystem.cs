@@ -85,6 +85,7 @@ public class SaveSystem
         saveData.hotbar.Load();
         saveData.landPlots.Load();
         saveData.player.Load();
+        // AnimalData.Load();
 
         Debug.Log("✅ LoadGame thành công!");
     }

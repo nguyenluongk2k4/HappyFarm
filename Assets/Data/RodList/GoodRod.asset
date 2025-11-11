@@ -12,9 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d1bda1bdd3672b4383c26286be60bfa, type: 3}
   m_Name: GoodRod
   m_EditorClassIdentifier: Assembly-CSharp::FishingRodData
+  itemName: "C\u1EA7n t\u1ED1t"
+  icon: {fileID: 6699801996411878779, guid: cc274f58782dc204f89548484d5b4d9b, type: 3}
+  maxStackSize: 99
+  type: 9
+  worldPrefab: {fileID: 0}
   rodName: "C\u1EA7n t\u1ED1t"
-  catchPower: 1.6
+  catchPower: 2
   biteTimeModifier: 0.85
   difficultyReduction: 1
   price: 300
-  icon: {fileID: 0}

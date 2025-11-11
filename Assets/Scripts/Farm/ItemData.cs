@@ -11,6 +11,8 @@ public enum ItemType
     Food,
     Tool_FarmLand,
     Animal,
+    Rod,
+    Fish
 }
 
 [CreateAssetMenu(menuName = "Item/ItemData")]

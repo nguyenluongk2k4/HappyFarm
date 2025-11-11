@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d1bda1bdd3672b4383c26286be60bfa, type: 3}
   m_Name: SuperRod
   m_EditorClassIdentifier: Assembly-CSharp::FishingRodData
+  itemName: "C\u1EA7n si\xEAu c\u1EA5p"
+  icon: {fileID: -318134368112520557, guid: cc274f58782dc204f89548484d5b4d9b, type: 3}
+  maxStackSize: 99
+  type: 7
   rodName: "C\u1EA7n si\xEAu c\u1EA5p"
-  catchPower: 2.5
+  catchPower: 3.5
   biteTimeModifier: 0.7
   difficultyReduction: 2
   price: 1000
-  icon: {fileID: 0}

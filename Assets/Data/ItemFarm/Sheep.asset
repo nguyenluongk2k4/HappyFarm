@@ -15,4 +15,5 @@ MonoBehaviour:
   itemName: Sheep
   icon: {fileID: 3184159518366690391, guid: 5791f1bbe6abdbd42b6ed914bfa61aed, type: 3}
   maxStackSize: 99
-  type: 0
+  type: 8
+  worldPrefab: {fileID: 0}
