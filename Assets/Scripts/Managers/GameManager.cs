@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
     {
         if (hudCanvas) hudCanvas.SetActive(true);
         if (hotbarUI) hotbarUI.SetActive(true);
-        if (inventoryUI) inventoryUI.SetActive(false); // ẩn mặc định
+        if (inventoryUI) inventoryUI.SetActive(true); // ẩn mặc định
         Debug.Log("✅ HUD + Hotbar enabled");
     }
 
@@ -86,16 +86,17 @@ public class GameManager : MonoBehaviour
         if (scene.name == "Farm" || scene.name == "Beach" || scene.name == "Market")
         {
             EnableGameplayUI();
-        }
-        // Chỉ spawn gà khi đã load game trước đó
-        if (AnimalData.memory.Count > 0)
-        {
-            AnimalData.SpawnFromMemory();
+
+            // ✅ Nếu có data gà -> spawn
+            if (AnimalData.memory.Count > 0)
+                AnimalData.SpawnFromMemory();
         }
         else
         {
+            // Scene boot: tắt gameplay UI
             DisableAllGameplayUI();
         }
+
 
         // Spawn Player
         GameObject player = GameObject.FindGameObjectWithTag("Player");
