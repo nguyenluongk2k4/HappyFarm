@@ -189,6 +189,10 @@ public class Player : MonoBehaviour
             Player.instance.xp = xp;
             Player.instance.coins = coin;
             Player.instance.transform.position = position;
+            Player.instance.OnXPChanged.Invoke(Player.instance.xp);
+            Player.instance.OnCoinChanged.Invoke(Player.instance.coins);
+            Player.instance.OnLevelChanged.Invoke(Player.instance.level);
+
             //PlayerHUD.Instance.Refresh(); // nếu bạn có HUD
         }
     }

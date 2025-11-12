@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "E:\\git repo\\HappyFarm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\animaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|e:\\git repo\\happyfarm\\assets\\scripts\\farm\\animaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\animaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\animalmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\landplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\landplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\managers\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\farm\\hotbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farm\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|E:\\git repo\\HappyFarm\\assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{811CB35C-F559-81FD-8557-C115F0B9D007}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\potalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\git repo\\HappyFarm\\Assets\\Scripts\\Market\\ShopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Market\\ShopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -78,8 +74,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalData.cs",
+              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\AnimalData.cs",
+              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farm\\AnimalData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:43:48.716Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -87,38 +96,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AnimalData.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\AnimalData.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Farm\\AnimalData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:54:02.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AnimalMarker.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalMarker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\AnimalMarker.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\AnimalMarker.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\AnimalMarker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:53:54.443Z",
+              "WhenOpened": "2025-11-12T04:44:42.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Chicken.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\Chicken.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\Chicken.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\Chicken.cs",
               "RelativeToolTip": "Assets\\Scripts\\Farm\\Chicken.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAqwJ8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T03:50:48.975Z",
               "EditorCaption": ""
@@ -126,19 +122,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SaveSystem.cs",
-              "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Managers\\SaveSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SaveSystem.cs",
-              "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Managers\\SaveSystem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Managers\\SaveSystem.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAA0wFMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T15:38:02.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "LandPlot.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\LandPlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\LandPlot.cs",
@@ -210,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ItemData.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Farm\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Farm\\ItemData.cs",
@@ -234,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ShopManager.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Market\\ShopManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Market\\ShopManager.cs",
@@ -252,14 +235,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Managers\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T17:57:58.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UIManager.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
@@ -271,15 +254,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "PotalManager.cs",
               "DocumentMoniker": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Managers\\PotalManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PotalManager.cs",
               "ToolTip": "E:\\git repo\\HappyFarm\\Assets\\Scripts\\Managers\\PotalManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\PotalManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:56:07.767Z"
+              "WhenOpened": "2025-11-03T17:56:07.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
