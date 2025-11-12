@@ -5,11 +5,11 @@ using System.Collections.Generic;
 public class Chicken : MonoBehaviour
 {
     [Header("Growth Settings")]
-    public List<Sprite> growthSprites; // Danh sách sprite (nhỏ -> to)
-    public float timeToGrow = 20f;     // Tổng thời gian lớn lên (giây)
+    public List<Sprite> growthSprites;
+    public float timeToGrow = 20f;
     private float growTimer = 0f;
     private int currentGrowthStage = 0;
-    private bool isAdult = false;      // Đánh dấu gà đã trưởng thành
+    private bool isAdult = false;
     private SpriteRenderer spriteRenderer;
 
     [Header("Movement Settings")]
@@ -28,7 +28,19 @@ public class Chicken : MonoBehaviour
     private bool isLayingEgg = false;
     private Animator animator;
 
-    void Start()
+    // ✅ NEW: Dữ liệu lưu trạng thái
+    [System.Serializable]
+    public class ChickenSaveData
+    {
+        public Vector3 position;
+        public float growTimer;
+        public int currentGrowthStage;
+        public bool isAdult;
+        public bool moveLeft;
+        public float nextLayTime;
+    }
+
+    void Awake()
     {
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -37,27 +49,22 @@ public class Chicken : MonoBehaviour
         SetNextLayTime();
 
         if (growthSprites.Count > 0)
-        {
             spriteRenderer.sprite = growthSprites[0];
-        }
     }
 
     void Update()
     {
-        // 1️⃣ Quá trình lớn lên
         if (!isAdult)
         {
             Grow();
-          
         }
 
-        // 2️⃣ Khi đã trưởng thành: di chuyển và đẻ trứng
         if (!isLayingEgg)
         {
             Move();
         }
 
-        if (isAdult&&Time.time >= nextLayTime && !isLayingEgg)
+        if (isAdult && Time.time >= nextLayTime && !isLayingEgg)
         {
             StartCoroutine(LayEggRoutine());
         }
@@ -78,15 +85,13 @@ public class Chicken : MonoBehaviour
             spriteRenderer.sprite = growthSprites[currentGrowthStage];
         }
 
-        // Khi đủ lớn, chuyển sang trạng thái trưởng thành
         if (growTimer >= timeToGrow)
         {
-            animator.SetBool("bool_HasGrowth",true);
+            animator.SetBool("bool_HasGrowth", true);
             isAdult = true;
         }
     }
 
-    // Di chuyển qua lại
     void Move()
     {
         float direction = moveLeft ? -1 : 1;
@@ -100,7 +105,6 @@ public class Chicken : MonoBehaviour
         }
     }
 
-    // Đẻ trứng
     private IEnumerator LayEggRoutine()
     {
         isLayingEgg = true;
@@ -123,5 +127,41 @@ public class Chicken : MonoBehaviour
     void SetNextLayTime()
     {
         nextLayTime = Time.time + Random.Range(minLayDelay, maxLayDelay);
+    }
+
+    // ======================== SAVE / LOAD ========================
+
+    public ChickenSaveData SaveState()
+    {
+        ChickenSaveData data = new ChickenSaveData();
+        data.position = transform.position;
+        data.growTimer = growTimer;
+        data.currentGrowthStage = currentGrowthStage;
+        data.isAdult = isAdult;
+        data.moveLeft = moveLeft;
+        data.nextLayTime = nextLayTime;
+        return data;
+    }
+
+    public void LoadState(ChickenSaveData data)
+    {
+        transform.position = data.position;
+        growTimer = data.growTimer;
+        currentGrowthStage = data.currentGrowthStage;
+        isAdult = data.isAdult;
+        moveLeft = data.moveLeft;
+        nextLayTime = data.nextLayTime;
+
+        // Cập nhật sprite tương ứng với stage
+        if (growthSprites.Count > 0 && currentGrowthStage < growthSprites.Count)
+            spriteRenderer.sprite = growthSprites[currentGrowthStage];
+
+        // Nếu đã trưởng thành → bật animation trưởng thành
+        animator.SetBool("bool_HasGrowth", isAdult);
+
+        // Cập nhật hướng di chuyển
+        transform.localScale = new Vector3(moveLeft ? 1 : -1, 1, 1);
+
+        Debug.Log($"✅ Đã load lại trạng thái gà (stage {currentGrowthStage}, adult={isAdult})");
     }
 }

@@ -9,6 +9,9 @@ public class AnimalData
     public string prefabName;
     public Vector3 position;
 
+    // ✅ Dữ liệu trạng thái riêng của từng loại (hiện mới dùng cho Chicken)
+    public Chicken.ChickenSaveData chickenData;
+
     // Lưu tạm trong RAM khi load (chờ scene đổi xong mới spawn)
     public static List<AnimalData> memory = new List<AnimalData>();
 
@@ -29,7 +32,17 @@ public class AnimalData
 
         foreach (var marker in markers)
         {
-            list.Add(new AnimalData(marker.prefabName, marker.transform.position));
+            // Lưu thông tin cơ bản
+            var data = new AnimalData(marker.prefabName, marker.transform.position);
+
+            // Nếu là gà → lưu thêm trạng thái
+            var chicken = marker.GetComponent<Chicken>();
+            if (chicken != null)
+            {
+                data.chickenData = chicken.SaveState();
+            }
+
+            list.Add(data);
         }
 
         File.WriteAllText(SavePath, JsonUtility.ToJson(new Wrapper(list), true));
@@ -73,7 +86,17 @@ public class AnimalData
             {
                 var obj = Object.Instantiate(prefab, a.position, Quaternion.identity);
                 obj.name = prefab.name;
-                obj.AddComponent<AnimalMarker>().prefabName = prefab.name;
+
+                // Gắn marker lại
+                var marker = obj.AddComponent<AnimalMarker>();
+                marker.prefabName = prefab.name;
+
+                // Nếu là gà → khôi phục trạng thái
+                var chicken = obj.GetComponent<Chicken>();
+                if (chicken != null && a.chickenData != null)
+                {
+                    chicken.LoadState(a.chickenData);
+                }
             }
         }
 

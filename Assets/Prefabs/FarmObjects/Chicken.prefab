@@ -202,6 +202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Chicken
   growthSprites:
+  - {fileID: -7202626363648530119, guid: 612ceaddfda5b7e46a5204585a26c375, type: 3}
   - {fileID: -5219821228504833141, guid: 29634f0427f9c8842998f0363d936352, type: 3}
   timeToGrow: 5
   moveSpeed: 2
